@@ -1,0 +1,390 @@
+6912  640 1344 $loc_name_quad
+6827  640 1344 $loc_name_quad
+5490  640 1344 $loc_name_quad
+4949  640 1344 $loc_name_quad
+4097  636 1344 $loc_name_quad
+3973  550 1344 $loc_name_quad
+3593 -229 1344 $loc_name_quad
+3638 -438 1344 $loc_name_quad
+4298 -522 1344 $loc_name_quad
+5003 -849 1344 $loc_name_quad
+5082 -1580 1344 $loc_name_quad
+5092 -2234 1344 $loc_name_quad
+5256 -2402 1344 $loc_name_quad
+6520 -2065 1344 $loc_name_quad
+6896 -1711 1344 $loc_name_quad
+6912 -639 1344 $loc_name_quad
+6387 -135 1344 $loc_name_quad
+5545 -552 1344 $loc_name_quad
+5760 -4317 1344 $loc_name_quad
+5378 -4306 1344 $loc_name_quad
+4962 -4188 1344 $loc_name_quad
+4917 -3461 1344 $loc_name_quad
+4931 -2795 1344 $loc_name_quad
+5530 -2671 1344 $loc_name_quad
+5760 -3795 1344 $loc_name_quad
+5760 -4439 1344 $loc_name_quad
+5174 -4459 1344 $loc_name_quad
+5760 -4855 1344 $loc_name_ga
+5627 -4849 1344 $loc_name_ga
+4761 -4827 1344 $loc_name_ga
+3973 -4823 1344 $loc_name_ga
+3389 -4823 1344 $loc_name_ga
+2434 -4824 1344 $loc_name_ga
+2344 -4862 1344 $loc_name_ga
+2402 -5796 1344 $loc_name_ga
+2637 -5773 1344 $loc_name_ga
+3495 -5885 1344 $loc_name_ga
+4480 -6016 1344 $loc_name_ga
+4411 -5711 1344 $loc_name_ga
+4308 -5096 1344 $loc_name_ga
+3878 -5013 1344 $loc_name_ga
+3059 -6459 1402 $loc_name_ga
+3060 -6570 1402 $loc_name_ga
+2944 -7476 1344 $loc_name_ga
+2944 -8304 1344 $loc_name_ga
+2770 -8704 1344 $loc_name_ga
+1812 -8704 1344 $loc_name_ga
+ 836 -8794 1344 $loc_name_ga
+ 696 -8944 1344 $loc_name_ga
+ 307 -8930 1344 $loc_name_ga
+-128 -8607 1344 $loc_name_ga
+ -83 -7291 1344 $loc_name_ga
+   9 -7169 1344 $loc_name_ga
+ 556 -7240 1344 $loc_name_ga
+1268 -7103 1344 $loc_name_ga
+1438 -6912 1344 $loc_name_ga
+2154 -6912 1344 $loc_name_ga
+2577 -6671 1344 $loc_name_ga
+-128 -6854 1216 $loc_name_ga
+  32 -6867 1216 $loc_name_ga
+ 686 -6910 1216 $loc_name_ga
+ 768 -6435 1088 sng
+ 686 -6436 1088 sng
+-128 -6495 1088 sng
+ 588 -6188 1088 sng
+ 753 -5595 1088 sng
+ 735 -5242 1088 sng
+ 357 -5031 1088 sng
+-323 -4655 1088 sng
+-435 -4608 1088 sng
+-1430 -4608 1088 sng
+-2279 -4608 1088 sng
+-3164 -4607 1088 sng
+-3712 -4494 1088 sng
+-3712 -4975 1088 sng
+-3128 -5704 1088 sng
+-2627 -5760 1088 sng
+-2210 -5760 1088 sng
+-1316 -5760 1088 sng
+-254 -5760 1088 sng
+ 124 -6300 1088 sng
+   0 4608 2240 $loc_name_mh
+   0 4068 2240 $loc_name_mh
+   0 3386 2240 $loc_name_mh
+ 829 3435 2240 $loc_name_mh
+1152 3492 2240 $loc_name_mh
+1152 3854 2240 $loc_name_mh
+1184 4608 2240 $loc_name_mh
+3835  640 1344 $loc_name_quad
+3083  655 1344 $loc_name_quad
+2387  675 1344 $loc_name_quad
+1306  393 1344 $loc_name_quad
+1547 -128 1344 $loc_name_quad
+2425 -128 1344 $loc_name_quad
+3334 -128 1344 $loc_name_quad
+4113  640 1344 $loc_name_quad
+3456 1210 1344 $loc_name_mh$loc_name_separatorstairs
+3400 1202 1344 $loc_name_mh$loc_name_separatorstairs
+2832 1128 1344 $loc_name_mh$loc_name_separatorstairs
+3456 1420 1344 $loc_name_mh$loc_name_separatorstairs
+3456 2219 1344 $loc_name_mh$loc_name_separatorstairs
+3456 3249 1344 $loc_name_mh$loc_name_separatorstairs
+3453 4608 1344 $loc_name_mh$loc_name_separatorstairs
+3162 4608 1344 $loc_name_mh$loc_name_separatorstairs
+3107 4474 1344 $loc_name_mh$loc_name_separatorstairs
+3033 3579 1344 $loc_name_mh$loc_name_separatorstairs
+2963 2824 1344 $loc_name_mh$loc_name_separatorstairs
+2895 2120 1344 $loc_name_mh$loc_name_separatorstairs
+2918 1538 1344 $loc_name_mh$loc_name_separatorstairs
+2968 4591 1344 $loc_name_mh$loc_name_separatorstairs
+2237 4608 1728 $loc_name_mh$loc_name_separatorstairs
+1726 4608 2090 $loc_name_mh$loc_name_separatorstairs
+1706 4608 1984 $loc_name_mh$loc_name_separatorstairs
+1586 3971 2112 $loc_name_mh$loc_name_separatorstairs
+1995 3968 1983 $loc_name_mh$loc_name_separatorstairs
+2524 3968 1772 $loc_name_mh$loc_name_separatorstairs
+5137  768 2368 $loc_name_quad$loc_name_separatorledge
+5218  768 2368 $loc_name_quad$loc_name_separatorledge
+6086  768 2368 $loc_name_quad$loc_name_separatorledge
+7040  768 2368 $loc_name_quad$loc_name_separatorledge
+7040  402 2368 $loc_name_quad$loc_name_separatorledge
+7040 -412 2368 $loc_name_quad$loc_name_separatorledge
+7040 -1158 2368 $loc_name_quad$loc_name_separatorledge
+7040 -1969 2368 $loc_name_quad$loc_name_separatorledge
+5386 -3318 2496 $loc_name_quad$loc_name_separatorup
+5396 -3518 2496 $loc_name_quad$loc_name_separatorup
+5446 -4480 2496 $loc_name_quad$loc_name_separatorup
+4960 -4480 2496 high$loc_name_separatorrl
+4969 -4213 2496 high$loc_name_separatorrl
+4991 -3297 2496 high$loc_name_separatorrl
+4610 -3683 2496 high$loc_name_separatorrl
+3752 -3584 2496 high$loc_name_separatorrl
+3224 -3832 2496 high$loc_name_separatorrl
+2974 -3254 2496 high$loc_name_separatorrl
+2852 -2908 2496 high$loc_name_separatorrl
+2944 -2087 2496 high$loc_name_separatorrl
+2944 -1207 2496 high$loc_name_separatorrl
+2944 -650 2496 high$loc_name_separatorrl
+2591 -548 2496 high$loc_name_separatorrl
+2290 -574 2496 high$loc_name_separatorrl
+2195 -1237 2496 high$loc_name_separatorrl
+2207 -1937 2496 high$loc_name_separatorrl
+2263 -2671 2496 high$loc_name_separatorrl
+2314 -3490 2496 high$loc_name_separatorrl
+2313 -4207 2496 high$loc_name_separatorrl
+2880 -4506 2496 high$loc_name_separatorrl
+3567 -4484 2496 high$loc_name_separatorrl
+4265 -4391 2496 high$loc_name_separatorrl
+4177 -4293 2496 high$loc_name_separatorrl
+3520 -3961 2496 high$loc_name_separatorrl
+3001 -3878 2496 high$loc_name_separatorrl
+5781 -4480 2496 $loc_name_quad$loc_name_separatorup
+5750 -3983 2496 $loc_name_quad$loc_name_separatorup
+5701 -3256 2496 $loc_name_quad$loc_name_separatorup
+5941 -2588 2496 $loc_name_quad$loc_name_separatorup
+6921 -2601 2496 $loc_name_quad$loc_name_separatorup
+7040 -3030 2496 $loc_name_quad$loc_name_separatorup
+7040 -3791 2496 $loc_name_quad$loc_name_separatorup
+6849 -4671 2496 $loc_name_quad$loc_name_separatorup
+6658 -4736 2496 $loc_name_quad$loc_name_separatorup
+5841 -4561 2496 $loc_name_quad$loc_name_separatorup
+5594 -4480 2496 $loc_name_quad$loc_name_separatorup
+5547 -6272 2496 $loc_name_quad$loc_name_separatorup
+5514 -6606 2496 $loc_name_quad$loc_name_separatorup
+5905 -7168 2496 $loc_name_quad$loc_name_separatorup
+6491 -6821 2496 $loc_name_quad$loc_name_separatorup
+6784 -6297 2496 $loc_name_quad$loc_name_separatorup
+6784 -5727 2496 $loc_name_quad$loc_name_separatorup
+6144 -5466 2496 $loc_name_quad$loc_name_separatorup
+5545 -7168 2496 $loc_name_quad$loc_name_separatorup
+5580 -6360 2496 $loc_name_quad$loc_name_separatorup
+5153 -6296 2449 $loc_name_ga
+5177 -6660 2459 $loc_name_ga
+5219 -7168 2368 $loc_name_ga
+5214 -7168 2368 $loc_name_ga
+4820 -7168 2352 $loc_name_ga
+4144 -7168 1961 $loc_name_ga
+3493 -7168 1692 $loc_name_ga
+3287 -6363 1516 $loc_name_ga
+3925 -6492 1835 $loc_name_ga
+4605 -6586 2175 $loc_name_ga
+4801 -6280 2273 $loc_name_ga
+5085 -6321 2415 $loc_name_ga
+3660 3200 2496 gl
+3707 3032 2496 gl
+3702 2331 2496 gl
+3527 1113 2496 gl
+3326 1105 2496 gl
+2628 1097 2496 gl
+1928 1111 2496 gl
+1262 1113 2496 gl
+ 566 1104 2496 gl
+-128 1078 2496 gl
+-438 1011 2496 gl
+-481  256 2496 gl
+ 128   10 2496 gl
+ 327  -17 2496 gl
+ 896   56 2496 gl
+1135  518 2496 gl
+1883  256 2496 gl
+2615  339 2496 gl
+2340  268 2496 gl
+3174  297 2496 gl
+3654  286 2496 gl
+3968 -137 2496 gl
+4234 -134 2496 gl
+4821  536 2496 gl
+4463  768 2496 gl
+4109 1003 2496 gl
+4731 -1106 1175 $loc_name_quad
+3842 -1048 1204 $loc_name_quad
+3712 -1203 1158 $loc_name_quad
+3712 -1522  997 $loc_name_quad
+3712 -2277  677 $loc_name_quad
+3712 -2794  396 $loc_name_quad
+3498 -3200  192 $loc_name_quad
+3186 -3200  192 $loc_name_quad
+2604 -3200  192 $loc_name_quad
+2605 -3767  192 $loc_name_quad
+2702 -4480  192 $loc_name_quad
+3432 -4480  192 $loc_name_quad
+4287 -4478  192 $loc_name_quad
+4736 -3993  192 $loc_name_quad
+4736 -3146  192 $loc_name_quad
+4736 -2354  551 $loc_name_quad
+4730 -1644  906 $loc_name_quad
+4610 -1097 1180 $loc_name_quad
+4032 -1295 1111 $loc_name_quad
+3712 -1688  912 $loc_name_quad
+3780 -2355  609 $loc_name_quad
+3835 -3216  245 $loc_name_quad
+4028 -4067  192 $loc_name_quad
+2048 -2607  192 $loc_name_ra
+2039 -3041  192 $loc_name_ra
+2018 -3806  192 $loc_name_ra
+2004 -4502  192 $loc_name_ra
+2011 -5075  192 $loc_name_ra
+1976 -5419  192 $loc_name_ra
+1560 -5711  192 $loc_name_ra
+1024 -5393  192 $loc_name_ra
+ 218 -4592  192 $loc_name_ra
+ 128 -4546  192 $loc_name_ra
+ 128 -3810  192 $loc_name_ra
+ 128 -3017  192 $loc_name_ra
+ 128 -2201  192 $loc_name_ra
+ 139 -515  192 $loc_name_ra
+1017 -532  192 $loc_name_ra
+1911 -512  192 $loc_name_ra
+2046 -603  192 $loc_name_ra
+1728 -1763  192 $loc_name_ra
+1160 -2282  192 $loc_name_ra
+1002 -2930  192 $loc_name_ra
+1025 -3539  192 $loc_name_ra
+1122 -4166  192 $loc_name_ra
+1237 -4732  192 $loc_name_ra
+1009 -3971  192 $loc_name_ra
+ 923 -3303  192 $loc_name_ra
+ 957 -2567  192 $loc_name_ra
+1019 -1771  192 $loc_name_ra
+ 128 -214  192 low$loc_name_separatorrl
+ 525 -209  192 low$loc_name_separatorrl
+ 896   30  192 low$loc_name_separatorrl
+1278  653  192 low$loc_name_separatorrl
+2007  512  192 low$loc_name_separatorrl
+2688  526  192 low$loc_name_separatorrl
+2688  945  192 low$loc_name_separatorrl
+2688 1767  192 low$loc_name_separatorrl
+2688 2909  192 low$loc_name_separatorrl
+2585 3150  192 low$loc_name_separatorrl
+1882 3271  192 low$loc_name_separatorrl
+1408 2990  192 low$loc_name_separatorrl
+ 960 2299  192 low$loc_name_separatorrl
+ 375 2288  192 low$loc_name_separatorrl
+1102 1998  192 low$loc_name_separatorrl
+1935 1973  192 low$loc_name_separatorrl
+2344 1520  192 low$loc_name_separatorrl
+1003  703  192 low$loc_name_separatorrl
+  33 2432  240 low$loc_name_separatorrl
+-381 2432  447 low$loc_name_separatorrl
+-1065 2432  576 low$loc_name_separatorrl
+-1408 2432  576 low$loc_name_separatorrl
+-1408 1916  576 low$loc_name_separatorrl
+-1408 1597  576 low$loc_name_separatorrl
+-969 1509  576 low$loc_name_separatorrl
+-429 1426  554 low$loc_name_separatorrl
+-1408 1168  656 lg
+-1304 1141  665 lg
+-896 1031  702 lg
+-896  560  859 lg
+-896 -115 1084 lg
+-1408  819  773 lg
+-1242   -7 1048 lg
+-1740 2494 1088 lg
+-2024 2490 1088 lg
+-2176 2081 1088 lg
+-2176 1385 1088 lg
+-2176  426 1088 lg
+-2176  -29 1088 lg
+-2076 -179 1088 lg
+-1877  484 1088 lg
+-1830 1915 1088 lg
+-1725 2437 1088 lg
+-2176 2816 1088 low$loc_name_separatorrl
+-2044 2812 1088 low$loc_name_separatorrl
+-1343 2783 1088 low$loc_name_separatorrl
+-714 2721 1088 low$loc_name_separatorrl
+ -91 2658 1088 low$loc_name_separatorrl
+ 656 2679 1088 low$loc_name_separatorrl
+1283 3198 1088 low$loc_name_separatorrl
+ 828 3200 1088 low$loc_name_separatorrl
+ -23 3200 1088 low$loc_name_separatorrl
+-937 3200 1088 low$loc_name_separatorrl
+-1626 3200 1088 low$loc_name_separatorrl
+-2176 3200 1088 low$loc_name_separatorrl
+-2176  -17 1088 lg
+-2176 -977 1088 lg
+-2176 -1298 1088 lg
+-2180 -1995 1088 lg
+-2198 -2729 1088 lg
+-2033 -3328 1088 lg
+-1366 -3328 1088 lg
+-398 -3328 1088 lg
+ -81 -3315 1088 lg
+ -24 -2594 1088 lg
+ -65 -1886 1088 lg
+-187 -1338 1543 lg
+-417 -896 1712 lg
+-1379 -1860 1088 lg
+-1171 -1970 1088 lg
+-1032 -1248 1088 lg
+-1029 -679 1088 lg
+-3171  998 1999 gl
+-3157  271 1984 gl
+-3147 -256 1984 gl
+-2738 -256 2112 gl
+-2469 -512 2368 gl
+-3012 -512 2368 gl
+-2334 -512 2368 gl
+-2495 -251 2400 gl
+-3159 1024 2005 gl
+-3238  370 1856 gl
+-3264 -256 1856 gl
+-3508 1024 1830 lg$loc_name_separator$loc_name_ya
+-3521  793 1824 lg$loc_name_separator$loc_name_ya
+-3568 -127 1728 lg$loc_name_separator$loc_name_ya
+-3592 -678 1728 lg$loc_name_separator$loc_name_ya
+-3200 -714 2368 lg$loc_name_separator$loc_name_ya
+-3200 -1346 2368 lg$loc_name_separator$loc_name_ya
+-3200 -1914 2368 lg$loc_name_separator$loc_name_ya
+-3200 -2716 2368 lg$loc_name_separator$loc_name_ya
+-3200 -3461 2368 lg$loc_name_separator$loc_name_ya
+-3200 -3840 2368 lg$loc_name_separator$loc_name_ya
+-3516 -621 1728 lg$loc_name_separator$loc_name_ya
+-4047 1024 1728 lg$loc_name_separator$loc_name_ya
+-4608  405 1728 lg$loc_name_separator$loc_name_ya
+-4859 -123 1728 lg$loc_name_separator$loc_name_ya
+-5593 -223 1728 lg$loc_name_separator$loc_name_ya
+-6338 -475 1728 lg$loc_name_separator$loc_name_ya
+-6663 -1187 1728 lg$loc_name_separator$loc_name_ya
+-6784 -1967 1728 lg$loc_name_separator$loc_name_ya
+-6784 -2854 1728 lg$loc_name_separator$loc_name_ya
+-6685 -3840 1728 lg$loc_name_separator$loc_name_ya
+-6040 -3761 1728 lg$loc_name_separator$loc_name_ya
+-5955 -3070 1728 lg$loc_name_separator$loc_name_ya
+-5979 -2337 1728 lg$loc_name_separator$loc_name_ya
+-6014 -1661 1728 lg$loc_name_separator$loc_name_ya
+-5763 -981 1728 lg$loc_name_separator$loc_name_ya
+-4990 -740 1728 lg$loc_name_separator$loc_name_ya
+-4074 -830 1728 lg$loc_name_separator$loc_name_ya
+-3456 -743 1728 lg$loc_name_separator$loc_name_ya
+-2962 -4522 1088 sng
+-3512 -4485 1088 sng
+-4016 -3919 1088 lg
+-3911 -3913 1088 lg
+-3024 -3854 1088 lg
+-2944 -3508 1088 lg
+-2686 -3007 1088 lg
+-2214 -2793 1088 lg
+-2720 -1662 1088 lg
+-3329 -1600 1088 lg
+-4391 -1536 1088 lg
+-4608 -1066 1088 lg
+-4853 -1073 1088 lg
+-5591 -1383 1088 lg
+-5867 -2201 1088 lg
+-5888 -3008 1088 lg
+-5888 -3715 1088 lg
+-5232 -3871 1088 lg
+-3471 -1263 1576 lg
+-3968 -1044 1408 lg

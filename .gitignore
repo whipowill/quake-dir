@@ -1,0 +1,15 @@
+QSS-M-l64
+*.txt
+*/*.txt
+*/*.pak
+*/*.dat
+*.dat
+*/config.cfg
+*/*.sav
+*/*/*.ogg
+!quakespasm.pak
+reset.sh
+!*/progs.dat
+frikbot4/demos
+frikbot4/qc_src/fteqcc.log
+frikbot4/progs.lno
