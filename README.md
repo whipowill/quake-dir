@@ -23,7 +23,7 @@ I don't have any expansions or campaign mods in here, this is straight Quake w/ 
 
 To launch the game w/ FrikBot4 you have to make a game shortcut that includes ``-game frikbot4``.
 
-On Linux I use these command line aliases in my ``~/.bashrc`` file:
+On Linux I use this command line alias in my ``~/.bashrc`` file:
 
 ```
 alias quake="cd ~/Games/Linux/Quake && __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia __VK_LAYER_NV_optimus=NVIDIA_only ./QSS-M-l64 -game frikbot4 -listen 16"
@@ -65,12 +65,12 @@ Of the maps that come preloaded w/ the game:
 
 - ``dm3`` - [The Abandoned Base](https://www.quakeworld.nu/wiki/Dm3) (Id 1996)
 - ``dm6`` - [The Dark Zone](https://www.quakeworld.nu/wiki/Dm6) (Id 1996)
-- ``e1m1`` - The Slipgate Complex (Id 1996)
+- ``e1m1`` - Slipgate Complex (Id 1996)
 - ``e1m2`` - [Castle of the Damned](https://www.quakeworld.nu/wiki/E1m2) (Id 1996) :star:
-- ``e1m3`` - The Necropolis (Id 1996)
-- ``e1m4`` - The Grisly Groto (Id 1996)
+- ``e1m3`` - Necropolis (Id 1996)
+- ``e1m4`` - Grisly Groto (Id 1996)
 - ``e1m5`` - Gloom Keep (Id 1996)
-- ``e1m7`` - The House of Chthon (Id 1996)
+- ``e1m7`` - House of Chthon (Id 1996)
 
 Of the 500+ community maps included w/ this repo:
 
@@ -81,7 +81,7 @@ Of the 500+ community maps included w/ this repo:
 - ``dad2`` - [Dad's Playground II](https://www.quakeworld.nu/wiki/Dad2) (Zaka 2008)
 - ``doomed`` - [Doomed](https://www.quakeworld.nu/wiki/Doomed) (Record 2009) :star:
 - ``efdm9`` - [Tangerine Dream](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Mr. Fribbles 1999)
-- ``q1edge`` - The Edge (Id 1999) :star:
+- ``q1edge`` - Edge (Id 1999) :star:
 - ``rwild`` - [Running Wild](https://www.quakeworld.nu/wiki/Rwild) (Qurnel 2007) *
 - ``schloss`` - [Schloss Adler](https://www.quakeworld.nu/wiki/Schloss) (Zaka 2004)
 - ``skull`` - [Skull Hunt](https://www.quakeworld.nu/wiki/Skull) (Zaka 2003)
@@ -91,7 +91,7 @@ Of the 500+ community maps included w/ this repo:
 - ``ultrav`` - [Ultra Violence](https://www.quakeworld.nu/wiki/Ultrav) (Escher 1997) :star: :heart:
 - ``ztndm2`` - Show No Mercy (Ztn 1997)
 - ``ztndm3`` - [Blood Run](https://www.quakeworld.nu/wiki/Ztndm3) (Ztn 1997) :star:
-- ``ztndm4`` - The Steeler (Ztn 1997)
+- ``ztndm4`` - Steeler (Ztn 1997)
 
 Honorable mentions:
 
