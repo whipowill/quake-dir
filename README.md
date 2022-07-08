@@ -1,6 +1,6 @@
 # Quake
 
-A directory of files for playing Quake multiplayer w/ bots.
+A directory of files for playing Quake multiplayer w/ [Frikbot4](https://github.com/whipowill/quake-mod-frikbot4).
 
 This was one of the first multiplayer games I played as a kid.  I was probably around 12 years old, and we played on a service called [MPlayer](https://www.engadget.com/2015-10-22-mplayer-relaunch.html).  I played the heck out of this game back then.  I wanted to relive the memories.
 
@@ -58,7 +58,7 @@ This is a list I'm trying to compile of the "best" multiplayer maps.
 
 Of the maps that come preloaded w/ the game:
 
-- ``dm3`` - [The Abandoned Base](https://www.quakeworld.nu/wiki/Dm3) (Id 1996)
+- ``dm3`` - [The Abandoned Base](https://www.quakeworld.nu/wiki/Dm3) (Id 1996) :star:
 - ``dm6`` - [The Dark Zone](https://www.quakeworld.nu/wiki/Dm6) (Id 1996)
 - ``e1m1`` - Slipgate Complex (Id 1996)
 - ``e1m2`` - [Castle of the Damned](https://www.quakeworld.nu/wiki/E1m2) (Id 1996) :star:
@@ -74,7 +74,7 @@ Of the 500+ community maps included w/ this repo:
 - ``cmt3`` - [Deutsch Machine](https://www.quakeworld.nu/wiki/Cmt3) (Baby Roo 2002)
 - ``cmt5b`` - [Dreamweaver](https://www.quakeworld.nu/wiki/Cmt5b) (Qurnel 2003)
 - ``dad2`` - [Dad's Playground II](https://www.quakeworld.nu/wiki/Dad2) (Zaka 2008)
-- ``doomed`` - [Doomed](https://www.quakeworld.nu/wiki/Doomed) (Record 2009) :star:
+- ``doomed`` - [Doomed](https://www.quakeworld.nu/wiki/Doomed) (Record 2009)
 - ``efdm9`` - [Tangerine Dream](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Mr. Fribbles 1999)
 - ``q1edge`` - Edge (Id 1999)
 - ``rwild`` - [Running Wild](https://www.quakeworld.nu/wiki/Rwild) (Qurnel 2007) *
@@ -126,6 +126,7 @@ You can edit ``frikbot4/maps.cfg`` to control what maps are included in the auto
 - [Quake Console Commands](https://docs.google.com/spreadsheets/d/1ubOuromaXpZonfL-eJ-KA7q-xSRiBBuSvxahzF-uFOY/edit#gid=0) - a list of all available console commands.
 - [Quake Official Archive](https://github.com/Jason2Brownlee/QuakeOfficialArchive) - an archive of all Quake versions w/ a little history.
 - [Quake Bot Archive](https://github.com/Jason2Brownlee/QuakeBotArchive) - an archive of all Quake bot versions w/ a little history.
+- [Frikbot4 for Quake](https://github.com/whipowill/quake-mod-frikbot4) - my repo for the source code of the bot mod.
 - [Classic Custom Quake DM Levels](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) - a list of favorite DM maps w/ history of each.
 - [Category: Maps](https://www.quakeworld.nu/wiki/Category:Maps) - a list of maps w/ articles on QuakeWorld.
 - [Quake2 Soundtrack](https://archive.org/search.php?query=quakeresources&sin=) - shredding metal music which works w/ Quake1.
