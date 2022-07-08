@@ -4,7 +4,7 @@ A directory of files for playing Quake multiplayer w/ bots.
 
 This was one of the first multiplayer games I played as a kid.  I was probably around 12 years old, and we played on a service called [MPlayer](https://www.engadget.com/2015-10-22-mplayer-relaunch.html).  I played the heck out of this game back then.  I wanted to relive the memories.
 
-This repository includes my files for playing the game.  I play w/ [FrikBot4](https://github.com/whipowill/quake-mod-frikbot4), which I've modified to my tastes:
+This repository includes my files for playing the game.  I play w/ [FrikBot4](https://github.com/whipowill/quake-mod-frikbot4):
 
 - Play multiplayer deathmatch games w/ bots (very fun).
 - Play multiplayer coop games where all items respawn over time (very helpful).
@@ -81,7 +81,7 @@ Of the 500+ community maps included w/ this repo:
 - ``dad2`` - [Dad's Playground II](https://www.quakeworld.nu/wiki/Dad2) (Zaka 2008)
 - ``doomed`` - [Doomed](https://www.quakeworld.nu/wiki/Doomed) (Record 2009) :star:
 - ``efdm9`` - [Tangerine Dream](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Mr. Fribbles 1999)
-- ``q1edge`` - Edge (Id 1999) :star:
+- ``q1edge`` - Edge (Id 1999)
 - ``rwild`` - [Running Wild](https://www.quakeworld.nu/wiki/Rwild) (Qurnel 2007) *
 - ``schloss`` - [Schloss Adler](https://www.quakeworld.nu/wiki/Schloss) (Zaka 2004)
 - ``skull`` - [Skull Hunt](https://www.quakeworld.nu/wiki/Skull) (Zaka 2003)
