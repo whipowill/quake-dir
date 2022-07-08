@@ -54,7 +54,7 @@ You may not want this change, and if so you would remove this line from the file
 
 ## Maps
 
-This is a list I'm trying to compile of the "best" multiplayer maps.
+I'm trying to compile a list of the "best" multiplayer maps.  The goal is to have a map rotation where every single map makes you say, "oh yeah I love this map!"  Open a support ticket if you think I missed one!
 
 Of the maps that come preloaded w/ the game:
 
