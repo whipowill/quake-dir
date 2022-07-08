@@ -58,10 +58,10 @@ This is a list I'm trying to compile of the "best" multiplayer maps.
 
 Of the maps that come preloaded w/ the game:
 
-- ``dm3`` - [The Abandoned Base](https://www.quakeworld.nu/wiki/Dm3) (Id 1996) :star:
+- ``dm3`` - [The Abandoned Base](https://www.quakeworld.nu/wiki/Dm3) (Id 1996)
 - ``dm6`` - [The Dark Zone](https://www.quakeworld.nu/wiki/Dm6) (Id 1996)
 - ``e1m1`` - Slipgate Complex (Id 1996)
-- ``e1m2`` - [Castle of the Damned](https://www.quakeworld.nu/wiki/E1m2) (Id 1996) :star:
+- ``e1m2`` - [Castle of the Damned](https://www.quakeworld.nu/wiki/E1m2) (Id 1996)
 - ``e1m3`` - Necropolis (Id 1996)
 - ``e1m4`` - Grisly Groto (Id 1996)
 - ``e1m5`` - Gloom Keep (Id 1996)
@@ -71,38 +71,24 @@ Of the 500+ community maps included w/ this repo:
 
 - ``aerowalk`` - [Aerowalk](https://www.quakeworld.nu/wiki/Aerowalk) (Preacher 1998) :star:
 - ``auhdm1`` - [Forgotten](https://www.quakeworld.nu/wiki/Auhdm1) (Auhsan 1999)
-- ``cmt3`` - [Deutsch Machine](https://www.quakeworld.nu/wiki/Cmt3) (Baby Roo 2002)
-- ``cmt5b`` - [Dreamweaver](https://www.quakeworld.nu/wiki/Cmt5b) (Qurnel 2003)
+- ``chesdm1`` - [Primal Etchings](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=59.htm) (Cheshire 1998)
 - ``dad2`` - [Dad's Playground II](https://www.quakeworld.nu/wiki/Dad2) (Zaka 2008)
 - ``doomed`` - [Doomed](https://www.quakeworld.nu/wiki/Doomed) (Record 2009)
 - ``efdm9`` - [Tangerine Dream](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Mr. Fribbles 1999)
+- ``fribdev1_2 ``- [Powder Keg](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17108.htm) (Mr. Fribbles 1998) :star:
+- ``imp1dm6`` - [Daedalous Revisited](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17605.htm) (Biff 2002)
+- ``naked7b2`` - [Deutsch Maschine](https://www.quakeworld.nu/wiki/Cmt3) (Baby Roo 2000)
 - ``q1edge`` - Edge (Id 1999)
-- ``rwild`` - [Running Wild](https://www.quakeworld.nu/wiki/Rwild) (Qurnel 2007) *
 - ``schloss`` - [Schloss Adler](https://www.quakeworld.nu/wiki/Schloss) (Zaka 2004)
 - ``skull`` - [Skull Hunt](https://www.quakeworld.nu/wiki/Skull) (Zaka 2003)
-- ``spinev2`` - [Spine](https://www.quakeworld.nu/wiki/Spinev2) (Headshot 1998)
+- ``spinev2`` - [Spine](https://www.quakeworld.nu/wiki/Spinev2) (Headshot 1998) :star:
 - ``strafin6`` - [Quake Addiction](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Peej 1999)
 - ``travelert6`` - [Le Voyageur Cosmique](https://www.quakeworld.nu/wiki/Travelert6) (VoodooChopstiks 2007) *
-- ``ultrav`` - [Ultra Violence](https://www.quakeworld.nu/wiki/Ultrav) (Escher 1997) :star: :heart:
-- ``ztndm2`` - Show No Mercy (Ztn 1997)
+- ``ultrav`` - [Ultra Violence](https://www.quakeworld.nu/wiki/Ultrav) (Escher 1997) :star:
 - ``ztndm3`` - [Blood Run](https://www.quakeworld.nu/wiki/Ztndm3) (Ztn 1997) :star:
-- ``ztndm4`` - Steeler (Ztn 1997)
+- ``zxcdm1`` - [Shine](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17386.htm) (Zxc 2001)
 
-Honorable mentions:
-
-- ``ava`` - [Ava](https://www.quakeworld.nu/wiki/Ava) (Alice 2020) *
-- ``catalyst`` - [Catalyst](https://www.quakeworld.nu/wiki/Catalyst) (Tehace 2015) * :star:
-- ``fabrik`` - [Mammoth Fabrik](https://www.quakeworld.nu/wiki/Fabrik) (Alice 2021) *
-- ``hex`` - [Hex](https://www.quakeworld.nu/wiki/Hex) (Alice 2020) *
-- ``monsoon`` - [Monsoon](https://www.quakeworld.nu/wiki/Q1q3monsoon) (Mick 2017) *
-- ``nova`` - [Nova](https://www.quakeworld.nu/wiki/Nova) (Alice 2022) * :star:
-- ``obsidian`` - [Obsidian](https://www.quakeworld.nu/wiki/Obsidian) (Lurq 2020) *
-- ``panzer`` - [Panzerfaust](https://www.quakeworld.nu/wiki/Panzer) (Alice 2021) *
-- ``rock`` - [Rock](https://www.quakeworld.nu/wiki/Rock_(Map)) (Alice 2020) *
-- ``shifter`` - [Shifter](https://www.quakeworld.nu/wiki/Shifter) (Foogs 2015) *
-- ``toxicity`` - [Toxicity](https://www.quakeworld.nu/wiki/Toxicity) (Thuriam 2015) *
-
-I think this is a solid list.  The maps marked w/ an * mean they are newer maps and don't have the bot waypoint files, but the bots can still play them.
+I think this is a solid list.  Maps marked w/ an * indicate missing bot waypoint files, so the bots may not perform well.  There are still new maps being developed, among them the maps created by [Alice](https://www.quakeworld.nu/wiki/Alice) are quite impressive.
 
 You can skip to any map you want to play via the console:
 
@@ -118,7 +104,7 @@ You can edit ``frikbot4/maps.cfg`` to control what maps are included in the auto
 
 ## Credits
 
-- Original FrikBot mod by FrikaC, Igor9, and JLaw
+- Original Frikbot mod by FrikaC, Igor9, and JLaw
 
 ## References
 
@@ -132,4 +118,5 @@ You can edit ``frikbot4/maps.cfg`` to control what maps are included in the auto
 - [Quake2 Soundtrack](https://archive.org/search.php?query=quakeresources&sin=) - shredding metal music which works w/ Quake1.
 - [Quake2 N64 Soundtrack](https://www.moddb.com/games/quake-2/addons/nintendo-64-soundtrack-ogg-format) - creepy ambience music which works w/ Quake1.
 - [r/Quake on Reddit](https://www.reddit.com/r/quake/search/?q=best%20maps&restrict_sr=1&sr_nsfw=) - searching for discussions on best deathmatch maps.
+- [MPQ Archive: List of Reviews](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=SHOWMAP.htm#_top) - a vintage 90s era site rating all the community maps.
 - [QuakeWorld Maps Index](https://maps.quakeworld.nu/all/) - downloadable links to all the maps ever made.
