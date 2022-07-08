@@ -4,12 +4,7 @@ A directory of files for playing Quake multiplayer w/ bots.
 
 This was one of the first multiplayer games I played as a kid.  I was probably around 12 years old, and we played on a service called [MPlayer](https://www.engadget.com/2015-10-22-mplayer-relaunch.html).  I played the heck out of this game back then.  I wanted to relive the memories.
 
-This repository includes my files for playing the game.  I play w/ [FrikBot4](https://github.com/whipowill/quake-mod-frikbot4):
-
-- Play multiplayer deathmatch games w/ bots (very fun).
-- Play multiplayer coop games where all items respawn over time (very helpful).
-
-I don't have any expansions or campaign mods in here, this is straight Quake w/ emphasis on multiplayer.
+This repository includes my files for playing the game.  I don't have any expansions or campaign mods in here, this is straight Quake w/ emphasis on multiplayer.
 
 ## Install
 
@@ -21,7 +16,7 @@ I don't have any expansions or campaign mods in here, this is straight Quake w/ 
     - You might want to use the music files from Q2, I think it's better.
 - Setup your game shortcuts.
 
-To launch the game w/ FrikBot4 you have to make a game shortcut that includes ``-game frikbot4``.
+To launch the game w/ Frikbot4 you have to make a game shortcut that includes ``-game frikbot4``.
 
 On Linux I use this command line alias in my ``~/.bashrc`` file:
 
