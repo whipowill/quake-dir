@@ -10,7 +10,7 @@ This repository includes my files for playing the game.  I don't have any expans
 
 - Download this respository to a ``Quake`` directory.
 - Download the game engine [QSS-M](https://qssm.quakeone.com/) and put it in that directory.
-- Find a copy of the [game files](https://archive.org/search.php?query=quakeresources&sin=) (I use the 2021 remaster).
+- Find a copy of the game files from the original game (I use the 2021 remaster).
 - Put the pak files into the ``id1`` directory.
 - Put the music files into the ``id1/music`` directory.
     - You might want to use the music files from Q2, I think it's better.
@@ -73,7 +73,7 @@ Of the 500+ community maps included w/ this repo:
 - ``auhdm1`` - [Forgotten](https://www.quakeworld.nu/wiki/Auhdm1) (Auhsan 1999)
 - ``chesdm1`` - [Primal Etchings](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=59.htm) (Cheshire 1998)
 - ``dad2`` - [Dad's Playground II](https://www.quakeworld.nu/wiki/Dad2) (Zaka 2008)
-- ``doomed`` - [Doomed](https://www.quakeworld.nu/wiki/Doomed) (Record 2009)
+- ``doomed`` - [Doomed](https://www.quakeworld.nu/wiki/Doomed) (Record 2009) :star:
 - ``efdm9`` - [Tangerine Dream](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Mr. Fribbles 1999)
 - ``fribdev1_2 ``- [Powder Keg](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17108.htm) (Mr. Fribbles 1998) :star:
 - ``imp1dm6`` - [Daedalous Revisited](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17605.htm) (Biff 2002)
@@ -115,8 +115,6 @@ You can edit ``frikbot4/maps.cfg`` to control what maps are included in the auto
 - [Frikbot4 for Quake](https://github.com/whipowill/quake-mod-frikbot4) - my repo for the source code of the bot mod.
 - [Classic Custom Quake DM Levels](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) - a list of favorite DM maps w/ history of each.
 - [Category: Maps](https://www.quakeworld.nu/wiki/Category:Maps) - a list of maps w/ articles on QuakeWorld.
-- [Quake2 Soundtrack](https://archive.org/search.php?query=quakeresources&sin=) - shredding metal music which works w/ Quake1.
-- [Quake2 N64 Soundtrack](https://www.moddb.com/games/quake-2/addons/nintendo-64-soundtrack-ogg-format) - creepy ambience music which works w/ Quake1.
 - [r/Quake on Reddit](https://www.reddit.com/r/quake/search/?q=best%20maps&restrict_sr=1&sr_nsfw=) - searching for discussions on best deathmatch maps.
 - [MPQ Archive: List of Reviews](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=SHOWMAP.htm#_top) - a vintage 90s era site rating all the community maps.
 - [QuakeWorld Maps Index](https://maps.quakeworld.nu/all/) - downloadable links to all the maps ever made.
