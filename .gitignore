@@ -11,5 +11,7 @@ QSS-M-l64
 reset.sh
 !*/progs.dat
 frikbot4/demos
+frikbot4/screenshots
 frikbot4/qc_src/fteqcc.log
 frikbot4/progs.lno
+*.log

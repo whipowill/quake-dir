@@ -60,11 +60,7 @@ Of the maps that come preloaded w/ the game:
 
 - ``dm3`` - [The Abandoned Base](https://www.quakeworld.nu/wiki/Dm3) (Id 1996)
 - ``dm6`` - [The Dark Zone](https://www.quakeworld.nu/wiki/Dm6) (Id 1996)
-- ``e1m1`` - Slipgate Complex (Id 1996)
 - ``e1m2`` - [Castle of the Damned](https://www.quakeworld.nu/wiki/E1m2) (Id 1996)
-- ``e1m3`` - Necropolis (Id 1996)
-- ``e1m4`` - Grisly Groto (Id 1996)
-- ``e1m5`` - Gloom Keep (Id 1996)
 - ``e1m7`` - House of Chthon (Id 1996)
 
 Of the 500+ community maps included w/ this repo:
@@ -72,9 +68,7 @@ Of the 500+ community maps included w/ this repo:
 - ``aerowalk`` - [Aerowalk](https://www.quakeworld.nu/wiki/Aerowalk) (Preacher 1998) :star:
 - ``auhdm1`` - [Forgotten](https://www.quakeworld.nu/wiki/Auhdm1) (Auhsan 1999)
 - ``chesdm1`` - [Primal Etchings](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=59.htm) (Cheshire 1998)
-- ``dad2`` - [Dad's Playground II](https://www.quakeworld.nu/wiki/Dad2) (Zaka 2008)
 - ``doomed`` - [Doomed](https://www.quakeworld.nu/wiki/Doomed) (Record 2009) :star:
-- ``efdm9`` - [Tangerine Dream](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Mr. Fribbles 1999)
 - ``fribdev1_2 ``- [Powder Keg](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17108.htm) (Mr. Fribbles 1998) :star:
 - ``imp1dm6`` - [Daedalous Revisited](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17605.htm) (Biff 2002)
 - ``naked7b2`` - [Deutsch Maschine](https://www.quakeworld.nu/wiki/Cmt3) (Baby Roo 2000)
@@ -87,6 +81,11 @@ Of the 500+ community maps included w/ this repo:
 - ``ultrav`` - [Ultra Violence](https://www.quakeworld.nu/wiki/Ultrav) (Escher 1997) :star: :heart:
 - ``ztndm3`` - [Blood Run](https://www.quakeworld.nu/wiki/Ztndm3) (Ztn 1997) :star:
 - ``zxcdm1`` - [Shine](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17386.htm) (Zxc 2001)
+
+Honorable mentions:
+
+- ``dad2`` - [Dad's Playground II](https://www.quakeworld.nu/wiki/Dad2) (Zaka 2008)
+- ``efdm9`` - [Tangerine Dream](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Mr. Fribbles 1999)
 
 I think this is a solid list.  Maps marked w/ an * indicate missing bot waypoint files, so the bots may not perform well.  There are still new maps being developed, among them the maps created by [Alice](https://www.quakeworld.nu/wiki/Alice) are quite impressive.
 
