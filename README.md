@@ -30,11 +30,16 @@ You have to have the ``cd /path/to/your/quake/folder`` or else the music files w
 
 You can control the bots via the console.  Press the ~ key to bring down the console screen.
 
-- ``teamplay 1`` - turn on teamplay games
+- ``skill <x>`` - set the bot skill level (0 to 3)
+- ``teamplay <x>`` - turn on teamplay mode (1 or 0)
+- ``deathmatch <x>`` - turn on deathmatch mode (1 or 0)
+- ``coop <x>`` - turn on coop mode (1 or 0)
 - ``impulse 100`` - add a bot to the game
+- ``impulse 110`` - add a bot to the game of random skill level (up to ``skill`` setting)
 - ``impulse 101`` - add a bot to the other team
+- ``impulse 110`` - add a bot to the other team of random skill level (up to ``skill`` setting)
 - ``impulse 102`` - remove most recently added bot
-- ``impulse 103`` - spectate other players (use ``kill`` to exit)
+- ``impulse 103`` - spectate other players
 
 I've included my ``frikbot4/autoexec.cfg`` which binds ``INSERT``, ``DELETE``, and ``BACKSPACE`` to add team bots, add enemy bots, and remove bots.
 
