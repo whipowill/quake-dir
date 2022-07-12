@@ -82,7 +82,7 @@ Of the 500+ community maps included w/ this repo:
 - ``skull`` - [Skull Hunt](https://www.quakeworld.nu/wiki/Skull) (Zaka 2003)
 - ``spinev2`` - [Spine](https://www.quakeworld.nu/wiki/Spinev2) (Headshot 1998) :star:
 - ``strafin6`` - [Quake Addiction](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Peej 1999)
-- ``travelert6`` - [Le Voyageur Cosmique](https://www.quakeworld.nu/wiki/Travelert6) (VoodooChopstiks 2007) *
+- ``travelert6`` - [Le Voyageur Cosmique](https://www.quakeworld.nu/wiki/Travelert6) (VoodooChopstiks 2007)
 - ``ultrav`` - [Ultra Violence](https://www.quakeworld.nu/wiki/Ultrav) (Escher 1997) :star: :heart:
 - ``ztndm3`` - [Blood Run](https://www.quakeworld.nu/wiki/Ztndm3) (Ztn 1997) :star:
 - ``zxcdm1`` - [Shine](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17386.htm) (Zxc 2001)
@@ -92,7 +92,7 @@ Honorable mentions:
 - ``dad2`` - [Dad's Playground II](https://www.quakeworld.nu/wiki/Dad2) (Zaka 2008)
 - ``efdm9`` - [Tangerine Dream](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Mr. Fribbles 1999)
 
-I think this is a solid list.  Maps marked w/ an * indicate missing bot waypoint files, so the bots may not perform well.  There are still new maps being developed, among them the maps created by [Alice](https://www.quakeworld.nu/wiki/Alice) are quite impressive.
+I think this is a solid list.  There are still new maps being developed, among them the maps created by [Alice](https://www.quakeworld.nu/wiki/Alice) are quite impressive.
 
 You can skip to any map you want to play via the console:
 
