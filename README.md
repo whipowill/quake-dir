@@ -77,8 +77,8 @@ Of the 500+ community maps included w/ this repo:
 - ``fribdev1_2 ``- [Powder Keg](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17108.htm) (Mr. Fribbles 1998) :star:
 - ``imp1dm6`` - [Daedalous Revisited](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17605.htm) (Biff 2002)
 - ``naked7b2`` - [Deutsch Maschine](https://www.quakeworld.nu/wiki/Cmt3) (Baby Roo 2000)
+- ``nova`` - [Nova](https://www.quakeworld.nu/wiki/Nova) (Alice 2022)
 - ``q1edge`` - Edge (Id 1999)
-- ``schloss`` - [Schloss Adler](https://www.quakeworld.nu/wiki/Schloss) (Zaka 2004)
 - ``skull`` - [Skull Hunt](https://www.quakeworld.nu/wiki/Skull) (Zaka 2003)
 - ``spinev2`` - [Spine](https://www.quakeworld.nu/wiki/Spinev2) (Headshot 1998) :star:
 - ``strafin6`` - [Quake Addiction](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Peej 1999)
@@ -90,7 +90,9 @@ Of the 500+ community maps included w/ this repo:
 Honorable mentions:
 
 - ``dad2`` - [Dad's Playground II](https://www.quakeworld.nu/wiki/Dad2) (Zaka 2008)
+- ``dmfdm2`` - [Orange Crush](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=319.htm) (Danny 1999)
 - ``efdm9`` - [Tangerine Dream](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Mr. Fribbles 1999)
+- ``schloss`` - [Schloss Adler](https://www.quakeworld.nu/wiki/Schloss) (Zaka 2004)
 
 I think this is a solid list.  There are still new maps being developed, among them the maps created by [Alice](https://www.quakeworld.nu/wiki/Alice) are quite impressive.
 
