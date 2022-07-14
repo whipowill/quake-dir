@@ -45,15 +45,15 @@ I've included my ``frikbot4/autoexec.cfg`` which binds ``INSERT``, ``DELETE``, a
 
 ## Rules
 
-Note that my ``frikbot4/autoexec.cfg`` file includes a huge game change: it slows the maximum movement speed by 20%.
+Note that my ``frikbot4/autoexec.cfg`` file includes a huge game change: it slows the maximum movement speed by 10%.
 
 ```
-sv_maxspeed 256 // 320 is default
+sv_maxspeed 288 // 320 is default
 ```
 
 Maybe it's bc I'm getting older, maybe it's because I played Halo for so many years, but the movement speed in Quake is insanely fast.  I find the game more fun to slow it down.
 
-This has a secondary effect of making "strafe jumping" not really a thing.  If you're an old school Quake player you know what that means.
+If you take it down 20% to ``256``, it has the secondary effect of making "strafe jumping" not really a thing.  If you're an old school Quake player you know what that means.
 
 You may not want this change, and if so you would remove this line from the file and run ``sv_maxspeed 320`` in the console to restore the original setting.
 
@@ -74,7 +74,7 @@ Of the 500+ community maps included w/ this repo:
 - ``auhdm1`` - [Forgotten](https://www.quakeworld.nu/wiki/Auhdm1) (Auhsan 1999)
 - ``chesdm1`` - [Primal Etchings](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=59.htm) (Cheshire 1998)
 - ``doomed`` - [Doomed](https://www.quakeworld.nu/wiki/Doomed) (Record 2009) :star:
-- ``fribdev1_2 ``- [Powder Keg](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17108.htm) (Mr. Fribbles 1998) :star:
+- ``fribdev1_2`` - [Powder Keg](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17108.htm) (Mr. Fribbles 1998) :star:
 - ``imp1dm6`` - [Daedalous Revisited](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17605.htm) (Biff 2002)
 - ``naked7b2`` - [Deutsch Maschine](https://www.quakeworld.nu/wiki/Cmt3) (Baby Roo 2000)
 - ``nova`` - [Nova](https://www.quakeworld.nu/wiki/Nova) (Alice 2022)
