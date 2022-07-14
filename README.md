@@ -43,20 +43,6 @@ You can control the bots via the console.  Press the ~ key to bring down the con
 
 I've included my ``frikbot4/autoexec.cfg`` which binds ``INSERT``, ``DELETE``, and ``BACKSPACE`` to add team bots, add enemy bots, and remove bots.
 
-## Rules
-
-Note that my ``frikbot4/autoexec.cfg`` file includes a huge game change: it slows the maximum movement speed by 10%.
-
-```
-sv_maxspeed 288 // 320 is default
-```
-
-Maybe it's bc I'm getting older, maybe it's because I played Halo for so many years, but the movement speed in Quake is insanely fast.  I find the game more fun to slow it down.
-
-If you take it down 20% to ``256``, it has the secondary effect of making "strafe jumping" not really a thing.  If you're an old school Quake player you know what that means.
-
-You may not want this change, and if so you would remove this line from the file and run ``sv_maxspeed 320`` in the console to restore the original setting.
-
 ## Maps
 
 I'm trying to compile a list of the "best" multiplayer maps.  The goal is to have a map rotation where every single map makes you say, "oh yeah I love this map!"  Open a support ticket if you think I missed one!
