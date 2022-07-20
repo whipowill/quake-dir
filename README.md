@@ -16,12 +16,12 @@ This repository includes my files for playing the game.  I don't have any expans
     - You might want to use the music files from Q2, I think it's better.
 - Setup your game shortcuts.
 
-To launch the game w/ Frikbot4 you have to make a game shortcut that includes ``-game frikbot4``.
+To launch the game w/ Frikbot4 you have to make a game shortcut that includes ``-game frikbot4 -particles 16384 -listen 16``.
 
 On Linux I use this command line alias in my ``~/.bashrc`` file:
 
 ```
-alias quake="cd ~/Games/Linux/Quake && __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia __VK_LAYER_NV_optimus=NVIDIA_only ./QSS-M-l64 -game frikbot4 -listen 16"
+alias quake="cd ~/Games/Linux/Quake && __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia __VK_LAYER_NV_optimus=NVIDIA_only ./QSS-M-l64 -game frikbot4 -particles 16384 -listen 16"
 ```
 
 You have to have the ``cd /path/to/your/quake/folder`` or else the music files won't play.
