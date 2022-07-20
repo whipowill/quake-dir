@@ -5,6 +5,7 @@ QSS-M-l64
 */*.dat
 *.dat
 */config.cfg
+*/settings.cfg
 */*.sav
 */*/*.ogg
 !quakespasm.pak
