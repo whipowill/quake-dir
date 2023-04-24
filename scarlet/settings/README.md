@@ -8,7 +8,7 @@ I wanted to hit the brakes on FPS games from the 90s and slow it all down.  By m
 
 I boosted the effectiveness of all the weapons, so the game isn't always a rocket-fest.  I made the Thunderbolt behave like the Railgun from Quake2, the Perferator behave like the Assault Rifle from Halo, and the Super Shotgun behave like it was in Doom.  I'm really happy w/ the balance of these settings, it feels perfect.
 
-## Zoom
+## Weapon Zoom
 
 Note that my ``autoexec.cfg`` file includes this little gem of code:
 

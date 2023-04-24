@@ -38,7 +38,7 @@ alias quake="cd ~/Games/Linux/Quake && __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_
 
 ## Settings
 
-The Scarlet mod allows for customizing the game in some interesting ways.  Included in this directory are my [custom](https://github.com/whipowill/quake-dir/blob/master/scarlet/settings/custom.cfg) play settings.
+The Scarlet mod allows for customizing the game in some interesting ways.  Included in this repository are my [custom](https://github.com/whipowill/quake-dir/blob/master/scarlet/settings/custom.cfg) play settings, though they are not activated by default.
 
 ### Philosophy
 
