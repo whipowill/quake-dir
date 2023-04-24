@@ -1,0 +1,108 @@
+// Skull Hunt by Zaka - Retexture by Mr. Fancypants - maps/skull_fp.way
+// Ways by DoomGuy
+saved1 784; saved2 416; saved3 -210
+scratch1 2; scratch2 3; scratch3 17; scratch4 0
+saved4 1; wait
+scratch1 1; scratch2 0; scratch3 0
+saved4 2; wait
+saved1 561; saved2 371
+scratch2 4
+saved4 2; wait
+saved1 446; saved2 341
+scratch1 3; scratch2 5; scratch3 28
+saved4 2; wait
+saved1 415; saved2 139
+scratch1 4; scratch2 6; scratch3 0
+saved4 2; wait
+saved1 176; saved2 123; saved3 -146
+scratch1 5; scratch2 7; scratch3 20
+saved4 2; wait
+saved1 -78; saved2 118
+scratch1 6; scratch2 8; scratch3 0
+saved4 2; wait
+saved1 -94; saved2 -334; saved3 -274
+scratch1 7; scratch2 9; scratch3 19; scratch4 27
+saved4 2; wait
+saved1 -293; saved2 -179
+scratch1 8; scratch2 10; scratch3 27; scratch4 0
+saved4 2; wait
+saved1 -165; saved2 5
+scratch1 9; scratch2 11; scratch3 0
+saved4 2; wait
+saved1 29; saved2 -7
+scratch1 10; scratch2 12
+saved4 2; wait
+saved1 290; saved2 -14; saved3 -338
+scratch1 11; scratch2 13
+saved4 2; wait
+saved1 510; saved2 -485; saved3 -274
+scratch1 12; scratch2 14; scratch3 18
+saved4 2; wait
+saved1 758; saved2 -473
+scratch1 13; scratch2 15; scratch3 0
+saved4 2; wait
+saved1 713; saved2 -218
+scratch1 14; scratch2 16
+saved4 2; wait
+saved1 645; saved2 -79
+scratch1 15; scratch2 17
+saved4 130; wait
+saved1 755; saved2 129; saved3 -258
+scratch1 16; scratch2 1
+saved4 2; wait
+saved1 289; saved2 -425; saved3 -274
+scratch1 19; scratch2 13
+saved4 2; wait
+saved1 -15; saved2 -383
+scratch1 18; scratch2 8
+saved4 2; wait
+saved1 162; saved2 452; saved3 -18
+scratch1 6; scratch2 21
+saved4 2; wait
+saved1 26; saved2 626
+scratch1 20; scratch2 22; scratch3 29
+saved4 2; wait
+saved1 -125; saved2 459
+scratch1 21; scratch2 23; scratch3 0
+saved4 2; wait
+saved1 -99; saved2 122; saved3 78
+scratch1 22; scratch2 24
+saved4 2; wait
+saved1 115; saved2 131
+scratch1 23; scratch2 25
+saved4 2; wait
+saved1 -191; saved2 -1
+scratch1 24; scratch2 26; scratch3 30
+saved4 2; wait
+saved1 -281; saved2 -216; saved3 -50
+scratch1 25; scratch2 27; scratch3 0
+saved4 2; wait
+saved1 -297; saved2 -337; saved3 -274
+scratch1 9; scratch2 0; scratch3 8
+saved4 2; wait
+saved1 76; saved2 343
+scratch1 4; scratch2 11; scratch3 0
+saved4 2; wait
+saved1 222; saved2 642; saved3 -18
+scratch1 3; scratch2 21
+saved4 1026; wait
+saved1 -302; saved2 -344; saved3 78
+scratch1 31; scratch2 25
+saved4 2; wait
+saved1 -8; saved2 -455
+scratch1 30; scratch2 32
+saved4 2; wait
+saved1 332; saved2 -338
+scratch1 31; scratch2 33; scratch3 35
+saved4 1026; wait
+saved1 395; saved2 -394
+scratch1 34; scratch2 32; scratch3 0
+saved4 1026; wait
+saved1 612; saved2 -482; saved3 1
+scratch1 13; scratch2 0
+saved4 2; wait
+saved1 453; saved2 -74; saved3 38
+scratch1 12
+saved4 2; wait
+saved4 3
+// end waypoint dump

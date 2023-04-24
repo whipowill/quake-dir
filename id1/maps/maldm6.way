@@ -1,0 +1,120 @@
+// maldm6  ::  Malevolent Marmalade  ::  Malevola - maps/maldm6.way
+// Ways by DoomGuy
+saved1 -28; saved2 367; saved3 -146
+scratch1 2; scratch2 27; scratch3 0; scratch4 0
+saved4 1; wait
+saved2 590
+scratch1 1; scratch2 3
+saved4 2; wait
+saved1 -32; saved2 833; saved3 -82
+scratch1 2; scratch2 4
+saved4 2; wait
+saved1 127; saved2 852; saved3 -18
+scratch1 3; scratch2 5
+saved4 2; wait
+saved1 287; saved2 859; saved3 14
+scratch1 4; scratch2 6
+saved4 2; wait
+saved1 290; saved2 547; saved3 46
+scratch1 5; scratch2 7; scratch3 8
+saved4 2; wait
+saved1 470; saved2 545
+scratch1 6; scratch2 0; scratch3 0
+saved4 2; wait
+saved1 277; saved2 356
+scratch2 9
+saved4 2; wait
+saved1 332; saved2 152
+scratch1 8; scratch2 10
+saved4 2; wait
+saved1 335; saved2 -68
+scratch1 9; scratch2 11; scratch3 12
+saved4 2; wait
+saved1 137; saved2 -59
+scratch1 10; scratch2 0; scratch3 0
+saved4 2; wait
+saved1 514; saved2 -122
+scratch2 13; scratch3 17
+saved4 2; wait
+saved1 754; saved2 -136
+scratch1 12; scratch2 14; scratch3 0
+saved4 2; wait
+saved1 802; saved2 -326
+scratch1 13; scratch2 15
+saved4 2; wait
+saved1 833; saved2 -511
+scratch1 14; scratch2 16
+saved4 2; wait
+saved1 835; saved2 -754
+scratch1 15; scratch2 0
+saved4 2; wait
+saved1 479; saved2 -263
+scratch1 12; scratch2 18
+saved4 2; wait
+saved1 482; saved2 -510; saved3 -50
+scratch1 17; scratch2 19
+saved4 2; wait
+saved1 292; saved2 -506
+scratch1 18; scratch2 20
+saved4 2; wait
+saved1 286; saved2 -172; saved3 -146
+scratch1 19; scratch2 21; scratch3 28
+saved4 2; wait
+saved1 117; saved2 -52
+scratch1 20; scratch2 22; scratch3 0
+saved4 2; wait
+saved1 1; saved2 -159
+scratch1 21; scratch2 23; scratch3 25
+saved4 2; wait
+saved1 6; saved2 -358; saved3 -130
+scratch1 22; scratch2 24; scratch3 0
+saved4 2; wait
+saved1 8; saved2 -506
+scratch1 23; scratch2 10
+saved4 10; wait
+saved1 -67; saved2 -9; saved3 -146
+scratch1 22; scratch2 27; scratch3 26
+saved4 2; wait
+saved1 -304; saved2 6; saved3 -130
+scratch1 25; scratch2 0; scratch3 0
+saved4 2; wait
+saved1 -43; saved2 150; saved3 -146
+scratch2 1; scratch3 36
+saved4 2; wait
+saved1 491; saved2 -122; saved3 -162
+scratch1 20; scratch2 29; scratch3 0
+saved4 2; wait
+saved1 767; saved2 -141
+scratch1 28; scratch2 30
+saved4 2; wait
+saved1 816; saved2 -360
+scratch1 29; scratch2 31; scratch3 33; scratch4 10
+saved4 34; wait
+saved1 835; saved2 -614; saved3 -146
+scratch1 30; scratch2 32; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 839; saved2 -961; saved3 -242
+scratch1 31; scratch2 38; scratch3 37
+saved4 2; wait
+saved1 1082; saved2 -291; saved3 -146
+scratch1 30; scratch2 34; scratch3 0
+saved4 2; wait
+saved1 1048; saved2 -2; saved3 -82
+scratch1 33; scratch2 39
+saved4 2; wait
+saved1 -182; saved3 174
+scratch1 0; scratch2 0
+saved4 278530; wait
+saved1 -192; saved2 150; saved3 -146
+scratch1 35; scratch2 27
+saved4 2; wait
+saved1 945; saved2 -940; saved3 -242
+scratch1 32; scratch2 0
+saved4 2; wait
+saved1 709; saved2 -941
+saved4 2; wait
+saved1 945; saved2 75; saved3 -82
+scratch1 34
+saved4 2; wait
+saved4 3
+// end waypoint dump
