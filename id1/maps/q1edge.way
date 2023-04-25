@@ -1,5 +1,5 @@
 // The Edge Conversion - maps/q1edge.way
-// Ways by Dr.Shadowborg - updated by Lightning Hunter
+// Ways by DoomGuy
 saved1 -64; saved2 412; saved3 670
 scratch1 2; scratch2 0; scratch3 0; scratch4 0
 saved4 1; wait
@@ -65,7 +65,7 @@ scratch1 93; scratch2 102; scratch3 85; scratch4 84
 saved4 2; wait
 saved1 1714; saved2 998
 scratch1 0; scratch2 103; scratch3 0; scratch4 0
-saved4 8194; wait
+saved4 4098; wait
 saved1 1625; saved2 834
 scratch1 24; scratch2 22; scratch4 93
 saved4 2; wait
