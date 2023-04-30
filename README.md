@@ -1,6 +1,6 @@
 # Quake
 
-A directory of files for playing Quake multiplayer w/ bots.
+A directory of files for playing Quake multiplayer w/ bots.  Checkout my [channel](https://www.youtube.com/@wscarlet) showcasing videos from the development of the [Scarlet](https://github.com/whipowill/quake-mod-scarlet) mod.
 
 This was one of the first multiplayer games I played as a kid.  I was probably around 12 years old, and we played on a service called [MPlayer](https://www.engadget.com/2015-10-22-mplayer-relaunch.html).  I played the heck out of this game back then.  I wanted to relive the memories.
 
