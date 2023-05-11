@@ -8,7 +8,6 @@ This repository includes my files for playing the game.  I don't have any expans
 
 ### What's Included
 
-- [Copper](http://lunaran.com/copper/) - the infinitely popular vanilla+ mod w/ gameplay tweaks (``/scarlet/``)
 - [Scarlet](https://github.com/whipowill/quake-mod-scarlet) - adds bots, blood, guts, and gore to the game (``/scarlet/progs.dat``)
 - [HUD](https://github.com/whipowill/quake-mod-hud) - custom HUD layouts and team scoreboards (``/id1/csprogs.dat``)
 - [RHW](https://www.moddb.com/games/quake/addons/quake-right-handed-weapons) - right-handed weapon models (``/id1/pak1.pak``)
