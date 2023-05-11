@@ -27,11 +27,13 @@ This repository includes my files for playing the game.  I don't have any expans
 - Setup your game shortcut to include ``-game scarlet -particles 99999 -listen 16``
 - Consult ``C:/path/to/quake/scarlet/autoexec.cfg`` to customize your keybinds
 
-If you use terminal you can use GIT clone to make future updates super easy:
+If you use terminal you can GIT clone to make future updates super easy:
 
 ```
 $ cd /your/path/to/games/
 $ git clone https://github.com/whipowill/quake-dir.git Quake
+
+$ cd /your/path/to/games/Quake
 $ git pull origin master
 ```
 
