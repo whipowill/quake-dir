@@ -19,7 +19,7 @@ This repository includes my files for playing the game.  I don't have any expans
 
 ## Install
 
-- Download this zipfile
+- Download this [zipfile](https://github.com/whipowill/quake-dir/archive/master.zip)
 - Extract to ``C:/path/to/quake/``
 - Download the game engine [QSS-M](https://qssm.quakeone.com/) and put it in that directory
 - Find a copy of the game files from the original game (I use the 2021 remaster)
@@ -27,6 +27,14 @@ This repository includes my files for playing the game.  I don't have any expans
 - Put the music files into the ``C:/path/to/quake/id1/music/`` directory
 - Setup your game shortcut to include ``-game scarlet -particles 99999 -listen 16``
 - Consult ``C:/path/to/quake/scarlet/autoexec.cfg`` to customize your keybinds
+
+If you use terminal you can use GIT clone to make future updates super easy:
+
+```
+$ cd /your/path/to/games/
+$ git clone https://github.com/whipowill/quake-dir.git Quake
+$ git pull origin master
+```
 
 ### Linux
 
