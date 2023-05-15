@@ -10,7 +10,8 @@ This repository includes my files for playing the game.  I don't have any expans
 
 - [Scarlet](https://github.com/whipowill/quake-mod-scarlet) - adds bots, blood, guts, and gore to the game (``/scarlet/progs.dat``)
 - [HUD](https://github.com/whipowill/quake-mod-hud) - custom HUD layouts and team scoreboards (``/id1/csprogs.dat``)
-- [RHW](https://www.moddb.com/games/quake/addons/quake-right-handed-weapons) - right-handed weapon models (``/id1/pak1.pak``)
+- [AMI](https://github.com/NightFright2k19/quake_authmdl) - authentic model improvements (``/id1/pak1.pak``)
+- [RHW](https://www.moddb.com/games/quake/addons/quake-right-handed-weapons) - right-handed weapon models (``/id1/pak2.pak``)
 - [UAM](https://www.moddb.com/games/quake/addons/upgraded-armor-for-quake-1) - upgraded armor models (``/id1/gfx/`` and ``/id1/progs/``)
 - [Q2S](https://github.com/whipowill/quake-mod-q2sounds) - sounds from Quake2 (``/id1/sounds/``)
 - **Multiplayer Maps** - all the good maps to play (``/id1/maps/*.bsp``)
@@ -132,3 +133,4 @@ I've put together a list of the "best" maps from multiplayer, both from the litt
 - [QuakeWorld Maps Pics](https://www.quakeone.com/q1files/img/maps/) - if they made a photo it must have mattered
 - [QuakeWorld Maps Index](https://maps.quakeworld.nu/all/) - downloadable links to all the maps ever made
 - [Quaddicted Maps Index](https://www.quaddicted.com/files/maps/multiplayer/) - useful to find dates of map creation
+- [Quaketastic](https://www.quaketastic.com/) - not sure what this is but might be useful somehow
