@@ -50,7 +50,7 @@ The Scarlet mod allows for customizing the game in some interesting ways.  Inclu
 
 ### Philosophy
 
-This is an attempt to preserve an FPS classic by making it a little better. In a world were real live players have moved on, I wanted to capture the multiplayer experience of the past.
+This is an attempt to preserve an FPS classic by making it a little better. In a world where real live players have moved on, I wanted to capture the multiplayer experience of the past.
 
 My vision of Quake is a slower FPS than what you remember. It's not a flight simulator, it's a combat simulator. By slowing it down, dangers around you become more life threatening, and you play defensively.
 
