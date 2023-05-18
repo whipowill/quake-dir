@@ -50,7 +50,7 @@ The Scarlet mod allows for customizing the game in some interesting ways.  Inclu
 
 ### Vision & Goals
 
-This is an attempt to preserve an FPS classic by making it a little better. In a world where real live players have moved on, I wanted to capture the multiplayer experience of the past.
+This is an attempt to preserve an FPS classic. In a world where real-life players have moved on, I wanted to capture and keep the multiplayer experience of the past.
 
 What [Brutal](https://brutal-doom.com/) is for singleplayer Doom, I want Scarlet to be for multiplayer Quake. More blood, more gore, more guts, and maybe a little more glory than it had before.
 
