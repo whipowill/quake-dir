@@ -3,6 +3,7 @@ QSS-M-l64
 */*.txt
 id1/*.pak
 !id1/pak1.pak
+!id1/pak2.pak
 */*.dat
 *.dat
 */config.cfg
