@@ -69,7 +69,7 @@ I've put together a list of the "best" maps from multiplayer, both from the litt
 
 - ``aerowalk`` - [Aerowalk](https://www.quakeworld.nu/wiki/Aerowalk) (Preacher 1998)
 - ``fribdev1_2`` - [Powder Keg](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17108.htm) (Mr. Fribbles 1998)
-- ``maldm6`` - Malevolent Marmalade (Molevola)
+- ``maldm6`` - Malevolent Marmalade (Molevola 2006)
 - ``nova`` - [Nova](https://www.quakeworld.nu/wiki/Nova) (Alice 2022)
 - ``spinev2`` - [Spine](https://www.quakeworld.nu/wiki/Spinev2) (Headshot 1998)
 - ``ultrav`` - [Ultra Violence](https://www.quakeworld.nu/wiki/Ultrav) (Escher 1997)
@@ -81,7 +81,7 @@ I've put together a list of the "best" maps from multiplayer, both from the litt
 - ``e1m2`` - [Castle of the Damned](https://www.quakeworld.nu/wiki/E1m2) (Willits 1996)
 - ``matdm2`` - Body Count (Mati 2006)
 - ``q1edge`` - [The Edge](https://www.doomworld.com/idgames/idstuff/quakeworld/maps/q1edge) (Willits 1999)
-- ``skull_fp`` - [Skull Hunt](https://www.slipseer.com/index.php?resources/skull-hunt-by-zaka.100/) (Zaka 2003, Fancypants 2022)
+- ``skull`` - [Skull Hunt](https://www.slipseer.com/index.php?resources/skull-hunt-by-zaka.100/) (Zaka 2003, Fancypants 2022)
 - ``strafin6`` - [Quake Addiction](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Peej 1999)
 - ``zxcdm1`` - [Shine](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17386.htm) (Zxc 2001)
 
