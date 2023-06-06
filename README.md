@@ -88,6 +88,7 @@ I've put together a list of the "best" maps from multiplayer, both from the litt
 ### B Tier
 
 - ``auhdm1`` - [Forgotten](https://www.quakeworld.nu/wiki/Auhdm1) (Auhsan 1999)
+- ``auhdm2`` - Painful Memories (Auhsan 1999)
 - ``chesdm1`` - [Primal Etchings](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=59.htm) (Cheshire 1998)
 - ``dm3_fp`` - [Abandoned Base](https://www.slipseer.com/index.php?resources/the-abandoned-warehouse.98/) (Romero 1996, Fancypants 2022)
 - ``e1m7`` - [House of Chthon](https://quake.fandom.com/wiki/E1M7:_The_House_of_Chthon) (McGee 1996)
@@ -116,6 +117,7 @@ I've put together a list of the "best" maps from multiplayer, both from the litt
 - ``mjdm1pro`` - Expendable Youth (Mickey 2006)
 - ``monsoon`` - [Monsoon](https://www.quakeworld.nu/wiki/Q1q3monsoon) (Mick 2017)
 - ``naked5`` - [Kinky Afro](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Baby Roo 2002)
+- ``p3a`` - Domination (Pingu)
 - ``pinion2`` - [Clockwork](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Retinal 2005)
 - ``rapture1`` - [Imminent Boom](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Danimal 1997)
 - ``rwild`` - [Running Wild](https://www.quakeworld.nu/wiki/Rwild) (Qurnel 2009)
