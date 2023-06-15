@@ -77,20 +77,18 @@ I've put together a list of the "best" maps from multiplayer, both from the litt
 ### A Tier
 
 - ``doomed`` - [Doomed](https://www.quakeworld.nu/wiki/Doomed) (Zaka 2009)
-- ``dm6_fp`` - [Dark Zone](https://www.slipseer.com/index.php?resources/the-dark-zone.99/) (Willits 1996, Fancypants 2022)
+- ``dm6`` - Dark Zone (Willits 1996)
 - ``e1m2`` - [Castle of the Damned](https://www.quakeworld.nu/wiki/E1m2) (Willits 1996)
 - ``matdm2`` - Body Count (Mati 2006)
 - ``q1edge`` - [The Edge](https://www.doomworld.com/idgames/idstuff/quakeworld/maps/q1edge) (Willits 1999)
-- ``skull`` - [Skull Hunt](https://www.slipseer.com/index.php?resources/skull-hunt-by-zaka.100/) (Zaka 2003, Fancypants 2022)
+- ``skull`` - Skull Hunt (Zaka 2003)
 - ``strafin6`` - [Quake Addiction](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Peej 1999)
 - ``zxcdm1`` - [Shine](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17386.htm) (Zxc 2001)
 
 ### B Tier
 
-- ``auhdm1`` - [Forgotten](https://www.quakeworld.nu/wiki/Auhdm1) (Auhsan 1999)
-- ``auhdm2`` - Painful Memories (Auhsan 1999)
 - ``chesdm1`` - [Primal Etchings](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=59.htm) (Cheshire 1998)
-- ``dm3_fp`` - [Abandoned Base](https://www.slipseer.com/index.php?resources/the-abandoned-warehouse.98/) (Romero 1996, Fancypants 2022)
+- ``dm3`` - Abandoned Base (Romero 1996)
 - ``e1m7`` - [House of Chthon](https://quake.fandom.com/wiki/E1M7:_The_House_of_Chthon) (McGee 1996)
 - ``effigy`` - Effigy of the Forgotten (Moloch 1999)
 - ``imp1dm6`` - [Daedalous Revisited](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17605.htm) (Biff 2002)
@@ -104,6 +102,8 @@ I've put together a list of the "best" maps from multiplayer, both from the litt
 ### C Tier
 
 - ``a2`` - [Return to Atlantis](https://www.quakeworld.nu/wiki/A2) (Pingu 1999)
+- ``auhdm1`` - [Forgotten](https://www.quakeworld.nu/wiki/Auhdm1) (Auhsan 1999)
+- ``auhdm2`` - Painful Memories (Auhsan 1999)
 - ``baldm6`` - [Scrap Metal](https://www.slipseer.com/index.php?resources/bals-classic-deathmatch-maps.58/) (Bal 1999)
 - ``bovine`` - [Bovine Intervention](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17646.htm) (Laerth 2002)
 - ``bravado`` - [Bravado](https://www.quakeworld.nu/wiki/Bravado) (Foogs 2012)
