@@ -62,7 +62,6 @@ I've put together a list of the "best" maps from multiplayer, both from the litt
 - ``doomed`` - [Doomed](https://www.quakeworld.nu/wiki/Doomed) (Zaka 2009)
 - ``dm6`` - Dark Zone (Willits 1996)
 - ``e1m2`` - [Castle of the Damned](https://www.quakeworld.nu/wiki/E1m2) (Willits 1996)
-- ``matdm2`` - Body Count (Mati 2006)
 - ``q1edge`` - [The Edge](https://www.doomworld.com/idgames/idstuff/quakeworld/maps/q1edge) (Willits 1999)
 - ``skull`` - Skull Hunt (Zaka 2003)
 - ``strafin6`` - [Quake Addiction](https://www.quaddicted.com/articles/10_classic_custom_quake_deathmatch_maps_that_scampie_likes) (Peej 1999)
@@ -73,13 +72,11 @@ I've put together a list of the "best" maps from multiplayer, both from the litt
 - ``chesdm1`` - [Primal Etchings](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=59.htm) (Cheshire 1998)
 - ``dm3`` - Abandoned Base (Romero 1996)
 - ``e1m7`` - [House of Chthon](https://quake.fandom.com/wiki/E1M7:_The_House_of_Chthon) (McGee 1996)
-- ``effigy`` - Effigy of the Forgotten (Moloch 1999)
 - ``imp1dm6`` - [Daedalous Revisited](https://mpqarchive.pauked.com/mpqold/MPQCGI.EXE-VIEW=VIEWCOMMENTS&REVIEW_LINK=17605.htm) (Biff 2002)
-- ``naked7b2`` - [Deutsch Maschine](https://www.quakeworld.nu/wiki/Cmt3), aka ``cmt3`` (Baby Roo 2002)
+- ``matdm2`` - Body Count (Mati 2006)
 - ``ztndm1`` - Smile, It Gets Worse (Ztn 1997)
 - ``ztndm2`` - Show No Mercy (Ztn 1997)
 - ``ztndm3`` - [Blood Run](https://www.quakeworld.nu/wiki/Ztndm3) (Ztn 1997)
-- ``ztndm4`` - The Steeler (Ztn 1997)
 
 ## External Links
 
