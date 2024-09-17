@@ -19,6 +19,8 @@ This repository includes my files for playing the game.  I don't have any expans
 
 ## Install
 
+**Note that pak files must be sequentially named, starting with ``pak0.pak``.  If you have the remaster, you are pasting one pak file named ``pak0.pak``.  If you have the original game, you are pasting two pak files named ``pak0.pak`` and ``pak1.pak``, and you need to rename the pak files I've included in this repo.**
+
 - Download this [zipfile](https://github.com/whipowill/quake-dir/archive/master.zip)
 - Extract to ``/path/to/quake/``
 - Download the game engine [QSS-M](https://qssm.quakeone.com/) and put it in that directory
@@ -37,14 +39,14 @@ The ``autoexec.cfg`` file includes binds to control bots in the game:
 - ``DELETE`` adds enemy bots
 - ``BACKSPACE`` removes bots
 
-**Note that pak files must be sequentially named, starting with ``pak0.pak``.  If you have the remaster, you are pasting one pak file named ``pak0.pak``.  If you have the original game, you are pasting two pak files named ``pak0.pak`` and ``pak1.pak``, and you need to rename the pak files I've included in this repo.**
-
 If you use terminal you can use GIT clone to make future updates super easy:
 
 ```
+// install
 $ cd /your/path/to/games/
 $ git clone https://github.com/whipowill/quake-dir.git Quake
 
+// update
 $ cd /your/path/to/games/Quake
 $ git pull origin master
 ```
