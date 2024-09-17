@@ -33,8 +33,8 @@ This repository includes my files for playing the game.  I don't have any expans
 
 The ``autoexec.cfg`` file includes binds to control bots in the game:
 
-- ``INSERT`` adds enemy bots
-- ``DELETE`` adds team bots
+- ``INSERT`` adds team bots
+- ``DELETE`` adds enemy bots
 - ``BACKSPACE`` removes bots
 
 **Note that pak files must be sequentially named, starting with ``pak0.pak``.  If you have the remaster, you are pasting one pak file named ``pak0.pak``.  If you have the original game, you are pasting two pak files named ``pak0.pak`` and ``pak1.pak``, and you need to rename the pak files I've included in this repo.**
