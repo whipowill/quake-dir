@@ -28,6 +28,12 @@ This repository includes my files for playing the game.  I don't have any expans
 - Setup your game shortcut to include ``-game scarlet -particles 99999 -listen 16``
 - Consult ``/path/to/quake/scarlet/autoexec.cfg`` to customize your keybinds
 
+The ``autoexec.cfg`` file includes binds to control bots in the game:
+
+- ``INSERT`` adds enemy bots
+- ``DELETE`` adds team bots
+- ``BACKSPACE`` removes bots
+
 **Note that pak files must be sequentially named, starting with ``pak0.pak``.  If you have the remaster, you are pasting one pak file named ``pak0.pak``.  If you have the original game, you are pasting two pak files named ``pak0.pak`` and ``pak1.pak``, and you need to rename the pak files I've included in this repo.**
 
 If you use terminal you can use GIT clone to make future updates super easy:
