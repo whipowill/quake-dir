@@ -22,11 +22,14 @@ This repository includes my files for playing the game.  I don't have any expans
 - Download this [zipfile](https://github.com/whipowill/quake-dir/archive/master.zip)
 - Extract to ``/path/to/quake/``
 - Download the game engine [QSS-M](https://qssm.quakeone.com/) and put it in that directory
-- Find a copy of the game files from the original game (I use the 2021 remaster)
+- Find a copy of the game files from the original game (I have the 2021 remaster)
 - Put the pak files into the ``/path/to/quake/id1/`` directory
 - Put the music files into the ``/path/to/quake/id1/music/`` directory
 - Setup your game shortcut to include ``-game scarlet -particles 99999 -listen 16``
 - Consult ``/path/to/quake/scarlet/autoexec.cfg`` to customize your keybinds
+- Launch the game and bring down the console with `` ` `` button
+- Create a multiplayer game with ``map nova``
+- Add bots and play the game!
 
 The ``autoexec.cfg`` file includes binds to control bots in the game:
 
