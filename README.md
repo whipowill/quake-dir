@@ -19,9 +19,9 @@ This repository includes my files for playing the game.  I don't have any expans
 
 ## Install
 
-**This mod is designed specifically for QSS-M or vkQuake engines.**
+**This setup is designed specifically for QSS-M or vkQuake engines.**
 
-**This mod requires you to have the original game pak files.  Pak files must be sequentially named, starting with ``pak0.pak``.  The pak files provided in this repo assume you are using the paks from the original game, and not the remaster.  If you have the original game, you are pasting two pak files named ``pak0.pak`` and ``pak1.pak``, and you don't need to do anything else. If you have the remaster, you are pasting one pak file named ``pak0.pak``, and you need to rename the pak files in this repo down a number.**
+**You will need to find the original game pak files.  Pak files must be sequentially named, starting with ``pak0.pak``.  The pak files provided in this repo assume you are using the paks from the original game, and not the remaster.  If you have the original game, you are pasting two pak files named ``pak0.pak`` and ``pak1.pak``, and you don't need to do anything else. If you have the remaster, you are pasting one pak file named ``pak0.pak``, and you need to rename the pak files in this repo down a number.**
 
 - Download this [zipfile](https://github.com/whipowill/quake-dir/archive/master.zip)
 - Extract to ``/path/to/quake/``
