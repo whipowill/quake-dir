@@ -10,16 +10,18 @@ This repository includes my files for playing the game.  I don't have any expans
 
 - [Scarlet](https://github.com/whipowill/quake-mod-scarlet) - adds bots, blood, guts, and gore to the game (``/scarlet/progs.dat``)
 - [HUD](https://github.com/whipowill/quake-mod-hud) - custom HUD layouts and team scoreboards (``/id1/csprogs.dat``)
-- [AMI](https://github.com/NightFright2k19/quake_authmdl) - authentic model improvements (``/id1/pak1.pak``)
-- [RHW](https://www.moddb.com/games/quake/addons/quake-right-handed-weapons) - right-handed weapon models (``/id1/pak2.pak``)
-- [UAM](https://www.moddb.com/games/quake/addons/upgraded-armor-for-quake-1) - upgraded armor models (``/id1/gfx/`` and ``/id1/progs/``)
-- [Q2S](https://github.com/whipowill/quake-mod-q2sounds) - sounds from Quake2 (``/id1/sounds/``)
+- [AMI](https://github.com/NightFright2k19/quake_authmdl) - authentic model improvements (``/id1/pak2.pak``)
+- [RHW](https://www.moddb.com/games/quake/addons/quake-right-handed-weapons) - right-handed weapon models (``/id1/pak3.pak``)
+- [UAM](https://www.moddb.com/games/quake/addons/upgraded-armor-for-quake-1) - upgraded armor models (``/id1/pak4.pak``)
+- [Q2S](https://github.com/whipowill/quake-mod-q2sounds) - sounds from Quake2 (``/id1/pak5.pak``)
 - **Multiplayer Maps** - all the good maps to play (``/id1/maps/*.bsp``)
 - **Waypoint Files** - stuff the bots need to work (``/id1/maps/*.way``)
 
 ## Install
 
-**Note that pak files must be sequentially named, starting with ``pak0.pak``.  If you have the remaster, you are pasting one pak file named ``pak0.pak``.  If you have the original game, you are pasting two pak files named ``pak0.pak`` and ``pak1.pak``, and you need to rename the pak files I've included in this repo.**
+**This mod is designed specifically for QSS-M or vkQuake engines.**
+
+**This mod requires you to have the original game pak files.  Pak files must be sequentially named, starting with ``pak0.pak``.  The pak files provided in this repo assume you are using the paks from the original game, and not the remaster.  If you have the original game, you are pasting two pak files named ``pak0.pak`` and ``pak1.pak``, and you don't need to do anything else. If you have the remaster, you are pasting one pak file named ``pak0.pak``, and you need to rename the pak files in this repo down a number.**
 
 - Download this [zipfile](https://github.com/whipowill/quake-dir/archive/master.zip)
 - Extract to ``/path/to/quake/``
@@ -35,8 +37,8 @@ This repository includes my files for playing the game.  I don't have any expans
 
 The ``autoexec.cfg`` file includes binds to control bots in the game:
 
-- ``INSERT`` adds team bots
-- ``DELETE`` adds enemy bots
+- ``-`` adds team bots
+- ``=`` adds enemy bots
 - ``BACKSPACE`` removes bots
 
 If you use terminal you can use GIT clone to make future updates super easy:
@@ -93,6 +95,7 @@ I've put together a list of the "best" maps from multiplayer, both from the litt
 
 - [Slipseer](https://www.slipseer.com/index.php) - where all the cool Quake kids hangout
 - [QSS-M](https://qssm.quakeone.com/) - open source port of the original ID Software Quake
+- [vkQuake](https://github.com/Novum/vkQuake) - Vulkan based Quake engine (best for newer Linux)
 - [Quake Console Commands](https://docs.google.com/spreadsheets/d/1ubOuromaXpZonfL-eJ-KA7q-xSRiBBuSvxahzF-uFOY/edit#gid=0) - a list of all available console commands
 - [Quake Official Archive](https://github.com/Jason2Brownlee/QuakeOfficialArchive) - an archive of all Quake versions w/ a little history
 - [Quake Bot Archive](https://github.com/Jason2Brownlee/QuakeBotArchive) - an archive of all Quake bot versions w/ a little history

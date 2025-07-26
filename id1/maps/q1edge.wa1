@@ -1,4 +1,3 @@
-// **** break here ****
 saved1 1003; saved2 820; saved3 494
 scratch1 83; scratch2 21; scratch3 85
 saved4 2; wait
@@ -90,10 +89,10 @@ saved1 1686; saved2 -68
 scratch1 112; scratch2 62
 saved4 2; wait
 saved1 157; saved2 374; saved3 522
-scratch1 3; scratch2 67; scratch3 115
+scratch1 3; scratch2 0
 saved4 2; wait
 saved1 375; saved2 343; saved3 504
-scratch1 114; scratch2 68; scratch3 0
+scratch1 114; scratch2 68
 saved4 2; wait
 saved1 61; saved2 654; saved3 510
 scratch1 4; scratch2 3; scratch3 6; scratch4 190
@@ -138,14 +137,14 @@ saved1 -19; saved2 189; saved3 373
 scratch1 67; scratch2 130
 saved4 2; wait
 saved1 46; saved2 301; saved3 504
-scratch1 129; scratch2 3
+scratch1 114; scratch2 0
 saved4 2; wait
 saved1 139; saved2 -326; saved3 490
 scratch1 65; scratch2 132
 saved4 2; wait
 saved1 133; saved2 -263; saved3 494
 scratch1 131; scratch2 66
-saved4 2; wait
+saved4 130; wait
 saved1 340; saved2 -415; saved3 490
 scratch1 65; scratch2 134; scratch3 137
 saved4 2; wait
@@ -267,3 +266,4 @@ saved1 1869; saved2 460
 scratch1 19; scratch2 173; scratch3 18; scratch4 0
 saved4 2; wait
 exec maps/q1edge.wa2
+// **** break here ****
