@@ -1,0 +1,6163 @@
+// trailgen v23 bsp=9409f0804b91bf8d38cb1c8cf317feb8e5d3d2b64eab4cc3cbb4ab54f52e28f0 step=256 lift=12
+// 195 waypoints, 9 spawns, 2 teleporters, 1 plats, 1 rocket jumps
+{
+"_dirt" "1"
+"_sunlight" "55"
+"classname" "worldspawn"
+"light" "10"
+"message" "Mammoth Fabrik - by Alice"
+"sounds" "1"
+"speed" "10"
+"wad" "C:/QuakeDev/wads/hammerv3.wad;C:/QuakeDev/wads/ava3w.wad;C:/QuakeDev/wads/ztndm3.wad;C:/QuakeDev/wads/bravado.wad;C:/QuakeDev/wads/texttest.wad;C:/QuakeDev/wads/e1m2.wad;C:/QuakeDev/wads/e4m1.wad;C:/QuakeDev/wads/hdn textures/mytextures_wad3.wad;C:/QuakeDev/wads/q1q3toxicity.wad;C:/QuakeDev/wads/banquet_dm_work.wad;C:/QuakeDev/wads/liquids.wad"
+}
+{
+"classname" "trigger_teleport"
+"model" "*1"
+"target" "telex"
+}
+{
+"angle" "180"
+"classname" "info_teleport_destination"
+"origin" "25 64 164"
+"targetname" "telex"
+}
+{
+"classname" "info_player_start"
+"origin" "-700 -436 56"
+}
+{
+"classname" "func_plat"
+"height" "184"
+"model" "*2"
+"sounds" "2"
+"speed" "110"
+}
+{
+"classname" "item_artifact_invulnerability"
+"origin" "-2320 -224 -88"
+}
+{
+"angle" "180"
+"classname" "info_teleport_destination"
+"origin" "-1026 -224 144"
+"targetname" "telemid"
+}
+{
+"classname" "weapon_lightning"
+"origin" "-1296 -224 -120"
+}
+{
+"classname" "item_armorInv"
+"origin" "-2120 -1732 -77"
+}
+{
+"_tb_group" "1"
+"classname" "trigger_teleport"
+"model" "*3"
+"target" "telemid"
+}
+{
+"classname" "item_armor1"
+"origin" "-1536 368 -112"
+}
+{
+"angle" "180"
+"classname" "weapon_supernailgun"
+"origin" "-800 424 184"
+}
+{
+"classname" "item_health"
+"origin" "-1776 960 4"
+"spawnflags" "1"
+}
+{
+"classname" "item_health"
+"origin" "-1776 1008 4"
+}
+{
+"classname" "item_artifact_invisibility"
+"origin" "-2232 -1112 -207"
+}
+{
+"classname" "item_rockets"
+"origin" "-1180 280 32"
+"spawnflags" "0"
+}
+{
+"classname" "item_cells"
+"origin" "-2032 -1208 -272"
+}
+{
+"classname" "weapon_supernailgun"
+"origin" "-1904 -840 -246"
+}
+{
+"classname" "weapon_supershotgun"
+"origin" "-1912 -1088 -32"
+}
+{
+"classname" "item_spikes"
+"origin" "-432 -228 32"
+}
+{
+"classname" "item_spikes"
+"origin" "-432 -180 32"
+}
+{
+"classname" "item_shells"
+"origin" "-2112 -1224 -32"
+}
+{
+"classname" "item_shells"
+"origin" "-2160 -1224 -32"
+}
+{
+"classname" "item_health"
+"origin" "-2032 -1392 -272"
+"spawnflags" "0"
+}
+{
+"classname" "item_spikes"
+"origin" "-2188 184 -16"
+"spawnflags" "0"
+}
+{
+"classname" "item_spikes"
+"origin" "-1424 1200 0"
+}
+{
+"classname" "item_spikes"
+"origin" "-1472 1200 0"
+}
+{
+"classname" "item_spikes"
+"origin" "-2364 -912 -32"
+"spawnflags" "1"
+}
+{
+"classname" "item_armor2"
+"origin" "-32 -192 192"
+"trail_skip" "1"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-40 -184 88"
+}
+{
+"classname" "light"
+"light" "170"
+"origin" "-88 -184 248"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-88 -88 344"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-88 -296 344"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-232 -88 344"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-232 -296 344"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-408 -88 344"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-408 -296 344"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-88 40 248"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-232 40 248"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-232 -408 248"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-88 -408 248"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-232 -328 88"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-88 -328 88"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-232 -56 88"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-88 -56 88"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-200 -168 88"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-200 -168 264"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-424 -184 264"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-424 -184 120"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-328 -40 216"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-328 -312 216"
+}
+{
+"classname" "light"
+"light" "165"
+"origin" "-408 -488 216"
+}
+{
+"classname" "light"
+"light" "165"
+"origin" "-472 88 216"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-520 -360 88"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-536 -40 88"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-664 -40 152"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-696 -376 200"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-776 -88 264"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-648 -184 104"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-912 -224 192"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-896 -312 312"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-920 -144 312"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1024 -232 352"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-528 -296 392"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-528 -88 392"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-712 -424 344"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-696 -376 200"
+}
+{
+"_color" "197 40 40"
+"classname" "light"
+"light" "155"
+"origin" "-728 -536 72"
+}
+{
+"_color" "197 40 40"
+"classname" "light"
+"light" "140"
+"origin" "-552 -552 72"
+}
+{
+"_color" "197 40 40"
+"classname" "light"
+"light" "155"
+"origin" "-712 -756 104"
+}
+{
+"_color" "197 40 40"
+"classname" "light"
+"light" "155"
+"origin" "-596 -700 104"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-440 -728 256"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-536 -448 368"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-600 -728 320"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-760 -728 264"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-888 -728 200"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1048 -728 168"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-1080 -712 280"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1160 -624 112"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1160 -432 112"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1032 -368 80"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1000 -224 80"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1016 -32 80"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1096 -48 320"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1096 -400 304"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1088 -200 416"
+}
+{
+"angle" "15"
+"classname" "light"
+"light" "139"
+"origin" "-1433 -152 416"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1360 -328 416"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1456 -248 416"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1560 -48 320"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1560 -400 304"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1592 -144 384"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1592 -288 384"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1608 -288 224"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1608 -144 224"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1464 -12 224"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1240 -16 240"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1560 -400 80"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-1552 -32 80"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1576 -224 96"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1416 -416 256"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1240 -416 256"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1288 -416 80"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1304 -16 80"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "160"
+"origin" "-1304 -96 -64"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "160"
+"origin" "-1304 -368 -64"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-1176 -224 0"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "160"
+"origin" "-1448 -224 -32"
+}
+{
+"classname" "light"
+"light" "170"
+"origin" "-1212 272 200"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1160 272 112"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1032 504 344"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-872 456 344"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-744 312 344"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-824 312 248"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-616 344 248"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-824 424 216"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1048 656 232"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-904 560 232"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-1024 940 212"
+}
+{
+"classname" "light"
+"light" "170"
+"origin" "-1052 956 156"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1028 940 276"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-512 780 180"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "120"
+"origin" "-512 948 228"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "155"
+"origin" "-672 804 260"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-848 1020 276"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-832 908 388"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-784 716 388"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-800 876 84"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-656 924 164"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-720 524 68"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-544 172 84"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-528 316 84"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-528 484 84"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1008 956 36"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1152 908 36"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1248 1132 84"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1352 924 84"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1352 924 260"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1352 1148 260"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1512 1196 180"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1448 1052 84"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "155"
+"origin" "-1768 1052 132"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1544 988 228"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1624 1196 276"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1688 1196 164"
+}
+{
+"_color" "124 113 203"
+"classname" "light"
+"light" "140"
+"origin" "-1896 1148 164"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1752 892 196"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1752 732 228"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "140"
+"origin" "-1856 508 52"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1768 604 132"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-1976 764 244"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1752 428 228"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1800 220 228"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1912 300 228"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2168 348 36"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-2088 636 68"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "150"
+"origin" "-2072 516 36"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-2008 316 100"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-2168 156 36"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-2168 -84 -28"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-2168 12 132"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-2312 -100 132"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-2312 -356 132"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2312 -356 -44"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2312 -100 -44"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2312 -292 292"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2312 -164 292"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-2168 -356 -28"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-2056 -228 -44"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2056 -468 -76"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2056 -20 -76"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1944 -84 -76"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1944 -372 -76"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1848 -468 -76"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "145"
+"origin" "-1848 -20 -28"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "150"
+"origin" "-1800 -292 -28"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "waw"
+"origin" "-1688 -196 -60"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1800 -452 100"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1800 -4 100"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1832 -244 164"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1832 28 260"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1832 -452 260"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2040 -468 180"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2200 -452 292"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2200 12 292"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1992 12 116"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2168 -148 308"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2136 -308 308"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1992 -180 308"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2008 -388 308"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-2008 -52 308"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1896 -340 308"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "145"
+"origin" "-1896 -628 -92"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "145"
+"origin" "-1752 -724 -92"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "145"
+"origin" "-1576 -676 -92"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "145"
+"origin" "-1880 -724 -220"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "145"
+"origin" "-1304 144 -64"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "145"
+"origin" "-1320 336 -64"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "145"
+"origin" "-1352 512 -64"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1480 192 80"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1496 384 -16"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1496 544 0"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1496 544 208"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-1496 288 240"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1336 240 288"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1160 640 48"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1160 528 112"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1160 528 240"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1320 528 240"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1400 624 64"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1528 688 64"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1528 880 64"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "160"
+"origin" "-1320 -752 -32"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "150"
+"origin" "-1280 -608 -64"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-1496 -976 -16"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1496 -944 160"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1608 -864 -64"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1704 -992 -16"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1704 -864 48"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-1784 -720 96"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1896 -720 240"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1864 -912 272"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-1896 -976 96"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-2168 -880 16"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2184 -736 32"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-2296 -896 96"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2296 -992 208"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2056 -976 240"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1608 -992 272"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1736 -992 144"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2072 -880 160"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2152 -1008 96"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2328 -1184 32"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1912 -1184 32"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2120 -1200 160"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2120 -1216 16"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "150"
+"origin" "-2120 -1328 -128"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1944 -1392 -16"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2296 -1392 -16"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2344 -1328 160"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1928 -1328 160"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2136 -1376 128"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2200 -1616 -16"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2040 -1616 -16"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2120 -1760 -16"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2256 -1536 128"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1984 -1536 128"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "140"
+"origin" "-2136 -1616 192"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "140"
+"origin" "-2040 -1456 -208"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "140"
+"origin" "-2216 -1472 -208"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "150"
+"origin" "-2136 -1120 -208"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "120"
+"origin" "-2328 -1104 -208"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "130"
+"origin" "-2024 -1200 -240"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "120"
+"origin" "-2152 -1200 -128"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "120"
+"origin" "-2152 -992 -128"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "120"
+"origin" "-2152 -992 -240"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "145"
+"origin" "-1960 -992 -240"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "145"
+"origin" "-2024 -880 -128"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "140"
+"origin" "-1848 -880 -128"
+}
+{
+"angle" "180"
+"classname" "info_player_deathmatch"
+"origin" "-64 -456 186"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-1072 672 186"
+}
+{
+"angle" "270"
+"classname" "info_player_deathmatch"
+"origin" "-1936 -784 26"
+}
+{
+"angle" "180"
+"classname" "info_player_deathmatch"
+"origin" "-1168 640 26"
+}
+{
+"angle" "90"
+"classname" "info_player_deathmatch"
+"origin" "-1600 -432 58"
+}
+{
+"angle" "180"
+"classname" "info_player_deathmatch"
+"origin" "-1888 -936 -244"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-732 -520 248"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-776 -296 392"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-776 -88 392"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-632 -280 440"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-648 -40 392"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-568 -40 296"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-712 40 232"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-784 -224 176"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-768 -224 96"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-736 -376 72"
+}
+{
+"_color" "255 121 116"
+"classname" "light"
+"light" "140"
+"origin" "-616 -632 192"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "155"
+"origin" "-644 -716 24"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "145"
+"origin" "-612 -572 24"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-584 -568 264"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-408 -440 312"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-380 -312 88"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-380 -76 88"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-88 -124 184"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-88 -264 184"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "8 40 216"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-200 -168 184"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-632 48 72"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-760 -64 72"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-480 352 216"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-712 312 232"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-944 376 344"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-880 296 344"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-756 400 388"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-888 544 376"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-920 688 232"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1080 768 232"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "100"
+"origin" "-512 1060 228"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "135"
+"origin" "-560 1012 68"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-672 812 68"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1180 988 104"
+}
+{
+"classname" "light"
+"light" "148"
+"origin" "-1368 768 64"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1272 432 48"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1288 592 112"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1400 576 304"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1496 416 128"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1496 416 288"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1496 320 112"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1296 232 80"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1616 224 240"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1552 224 320"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1560 464 -64"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1448 32 112"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1144 -16 80"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1416 -448 80"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1416 -352 32"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1224 -352 32"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1208 -96 32"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1416 -96 32"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1032 -448 96"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1028 -336 240"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1028 -128 240"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1400 -64 368"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1288 -64 368"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1448 -368 384"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1304 -400 384"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1176 -352 400"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1160 -736 112"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-968 -760 264"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1160 -648 280"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1160 -728 232"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1160 -728 312"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-952 -712 136"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-840 -728 344"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "155"
+"origin" "-1368 -656 16"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "160"
+"origin" "-1528 -704 32"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "140"
+"origin" "-1432 -656 -64"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1496 -832 64"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1496 -816 -80"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1384 -976 8"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1392 -928 -96"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1392 -1040 -96"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1584 -992 80"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1824 -1008 240"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1776 -864 224"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2216 -880 232"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2024 -1008 16"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1928 -880 32"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1912 -704 128"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1752 -672 208"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-2344 -896 16"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-2296 -1008 16"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2328 -1184 160"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1912 -1200 160"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1992 -1360 176"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2264 -1360 176"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1992 -1456 176"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2264 -1456 176"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-2136 -1456 192"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2376 -1536 -16"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2376 -1488 128"
+}
+{
+"angle" "180"
+"classname" "light"
+"light" "140"
+"origin" "-1896 -1488 128"
+}
+{
+"angle" "180"
+"classname" "light"
+"light" "150"
+"origin" "-1896 -1536 -16"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2280 -1712 -16"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1960 -1696 -16"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "150"
+"origin" "-2008 -1440 -88"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "150"
+"origin" "-2248 -1456 -88"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "135"
+"origin" "-2200 -1360 -224"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "130"
+"origin" "-2184 -1232 -240"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "130"
+"origin" "-1976 -1088 -128"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "140"
+"origin" "-1896 -596 -220"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "140"
+"origin" "-1736 -756 -220"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "145"
+"origin" "-1928 -788 -116"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1960 28 -28"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1944 -468 52"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1944 -500 -28"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2168 -484 36"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2312 -468 132"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2200 -484 180"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-2312 28 132"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-2192 44 -28"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2056 716 244"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1768 588 292"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1752 316 276"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "150"
+"origin" "-2036 408 56"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "155"
+"origin" "-1976 528 152"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1848 796 132"
+}
+{
+"classname" "light"
+"light" "115"
+"origin" "-1944 864 228"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-1784 1036 196"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1960 1076 228"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2008 1164 164"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1432 1008 260"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1560 1180 68"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1576 1008 48"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1704 1096 48"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1656 1004 292"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1496 1164 308"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1480 956 308"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1512 1052 308"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-800 -272 232"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-864 -232 360"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-248 -264 184"
+}
+{
+"_color" "255 121 116"
+"classname" "light"
+"light" "135"
+"origin" "-616 -760 192"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1088 -536 64"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-984 -320 80"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-984 -128 80"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1096 -128 64"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1104 -328 48"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1600 -12 224"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1096 -56 208"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2312 -236 20"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2232 -220 -92"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1832 -128 52"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1752 444 92"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1776 748 44"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1816 1196 212"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1816 1196 132"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2184 -608 32"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-2376 -896 208"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1864 -1024 16"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1960 -1068 16"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-2176 -992 264"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1624 -864 192"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1448 -944 272"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1944 -816 192"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1928 -768 32"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1736 -632 32"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1664 -680 64"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1656 -776 64"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1624 -1024 -80"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-2312 -236 164"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1880 -100 308"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1840 -212 300"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2376 -1312 16"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1080 -304 384"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1160 400 64"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1160 400 184"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1160 400 296"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1576 304 88"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1576 544 88"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1304 656 32"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1248 1004 36"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1320 1212 148"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1320 1212 20"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1944 844 116"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1352 1148 148"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-960 892 36"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "130"
+"origin" "-656 1012 244"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-816 828 244"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-816 636 244"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-704 -768 360"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-472 -312 328"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-584 24 248"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-760 -648 184"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1704 1228 108"
+}
+{
+"classname" "light"
+"light" "115"
+"origin" "-1304 32 -32"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-880 1012 292"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-672 572 308"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-672 828 340"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-672 1004 340"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-720 1036 388"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-624 444 44"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-912 -224 72"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-960 792 200"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-960 792 256"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1096 656 192"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1056 -648 64"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1060 -364 176"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1352 -16 240"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1152 -88 416"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1608 -432 208"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1544 592 304"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1352 400 272"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1224 224 304"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1392 184 192"
+}
+{
+"classname" "light"
+"light" "115"
+"origin" "-1464 940 148"
+}
+{
+"classname" "light"
+"light" "85"
+"origin" "-1200 892 100"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-544 836 116"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-864 1004 388"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-800 1044 420"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-672 1068 420"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-672 908 420"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-2056 -1312 64"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-824 344 360"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "145"
+"origin" "-520 612 228"
+}
+{
+"classname" "light"
+"light" "85"
+"origin" "-1248 908 20"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "90"
+"origin" "-656 996 260"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-672 732 420"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-768 988 436"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-640 812 420"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1928 -220 -112"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-2072 -492 304"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1976 -492 304"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1816 -116 212"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1816 -356 212"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1904 -252 348"
+}
+{
+"classname" "light"
+"light" "85"
+"origin" "-1976 44 308"
+}
+{
+"classname" "light"
+"light" "85"
+"origin" "-2056 44 308"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-2024 44 212"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-520 -192 392"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-496 -184 56"
+}
+{
+"classname" "func_illusionary"
+"model" "*4"
+}
+{
+"classname" "func_illusionary"
+"model" "*5"
+}
+{
+"classname" "func_illusionary"
+"model" "*6"
+}
+{
+"classname" "func_illusionary"
+"model" "*7"
+}
+{
+"classname" "func_illusionary"
+"model" "*8"
+}
+{
+"classname" "func_illusionary"
+"model" "*9"
+}
+{
+"classname" "info_intermission"
+"origin" "-616 -392 216"
+}
+{
+"classname" "item_cells"
+"origin" "-1144 -32 32"
+}
+{
+"classname" "item_cells"
+"origin" "-1104 -32 32"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-2440 -284 196"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-2440 -284 116"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-2440 -284 60"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-2440 -172 196"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-2440 -172 116"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-2440 -172 60"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-672 588 196"
+}
+{
+"classname" "trigger_teleport"
+"model" "*10"
+"target" "telemid"
+}
+{
+"classname" "light"
+"light" "155"
+"origin" "-1232 1156 52"
+}
+{
+"classname" "item_health"
+"origin" "-1600 -240 32"
+"spawnflags" "2"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "140"
+"origin" "-2080 472 48"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1034 -224 176"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "150"
+"origin" "-1912 324 28"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1876 552 200"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "135"
+"origin" "-1984 516 40"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "155"
+"origin" "-592 1140 68"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "155"
+"origin" "-672 1140 68"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "155"
+"origin" "-752 1140 68"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "155"
+"origin" "-832 1140 68"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "70"
+"origin" "-712 1052 84"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "70"
+"origin" "-632 1052 84"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "70"
+"origin" "-792 1052 84"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "70"
+"origin" "-872 1052 84"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-632 1084 148"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-776 1052 196"
+}
+{
+"classname" "item_shells"
+"origin" "-544 498 18"
+"spawnflags" "1"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "150"
+"origin" "-1318 -168 424"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "115"
+"origin" "-1287 -265 472"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "90"
+"origin" "-1398 -264 472"
+}
+{
+"angle" "345"
+"classname" "light"
+"light" "150"
+"origin" "-1225 -248 392"
+}
+{
+"angle" "345"
+"classname" "light"
+"light" "150"
+"origin" "-1359 -378 392"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1012 -306 136"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1012 -140 136"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "145"
+"origin" "-1960 488 68"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1776 916 44"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "145"
+"origin" "-1820 -224 52"
+}
+{
+"_tb_group" "7"
+"angle" "90"
+"classname" "light"
+"light" "210"
+"origin" "-1856 428 307"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2080 552 200"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1976 520 312"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2136 332 212"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2120 684 172"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2144 492 172"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2240 420 68"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2240 644 68"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2240 540 68"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2192 764 68"
+}
+{
+"classname" "light"
+"light" "160"
+"origin" "-1824 268 124"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1844 712 264"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-2032 764 156"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2144 772 228"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2032 340 268"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2136 568 280"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2136 448 280"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1736 572 28"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1736 300 36"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1832 212 24"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1888 192 236"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1660 308 204"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1276 428 340"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1596 116 240"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1428 1192 64"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1608 1096 16"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1744 220 112"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "150"
+"origin" "-1864 396 60"
+}
+{
+"angle" "90"
+"classname" "weapon_grenadelauncher"
+"origin" "-1976 440 -16"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "130"
+"origin" "-1940 408 -44"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "130"
+"origin" "-2020 408 -44"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "130"
+"origin" "-2020 488 -44"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "130"
+"origin" "-1940 488 -44"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "150"
+"origin" "-1824 556 84"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1736 572 196"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1868 712 160"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-2176 636 236"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-2264 740 60"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-2264 340 60"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-2080 748 76"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1712 1008 48"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1792 1096 40"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1856 636 44"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1520 -432 208"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1128 -432 208"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1080 -104 376"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1128 -16 208"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1400 560 168"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1432 200 328"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1060 908 36"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1104 972 36"
+}
+{
+"classname" "light"
+"light" "115"
+"origin" "-904 988 152"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "100"
+"origin" "-656 956 72"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-656 900 56"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-872 1052 148"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-648 692 236"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-648 732 332"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-784 632 312"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-816 512 60"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-780 460 316"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "100"
+"origin" "-876 976 52"
+}
+{
+"classname" "light"
+"light" "115"
+"origin" "-472 -628 196"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1328 -424 208"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "100"
+"origin" "-752 988 60"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-800 576 356"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-896 876 296"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-716 340 184"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-552 248 216"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-748 428 204"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1952 -1008 208"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-2184 -1024 0"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-2352 -1016 112"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-2048 -864 8"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1912 -1092 120"
+}
+{
+"classname" "item_health"
+"origin" "-720 -240 36"
+"spawnflags" "2"
+}
+{
+"angle" "90"
+"classname" "info_player_deathmatch"
+"origin" "-1744 320 10"
+}
+{
+"classname" "func_illusionary"
+"model" "*11"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "155"
+"origin" "-512 1140 68"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-664 692 84"
+}
+{
+"classname" "light"
+"light" "170"
+"origin" "-996 956 156"
+}
+{
+"classname" "item_rockets"
+"origin" "-1136 -688 32"
+}
+{
+"classname" "weapon_supershotgun"
+"origin" "-1392 632 0"
+}
+{
+"classname" "item_health"
+"origin" "-2240 536 -16"
+"spawnflags" "1"
+}
+{
+"classname" "item_health"
+"origin" "-2240 582 -16"
+"spawnflags" "1"
+}
+{
+"classname" "item_health"
+"origin" "-1263 160 -129"
+"spawnflags" "0"
+}
+{
+"classname" "item_health"
+"origin" "-1263 112 -129"
+"spawnflags" "0"
+}
+{
+"classname" "item_health"
+"origin" "-1768 -720 -272"
+"trail_skip" "1"
+}
+{
+"classname" "item_health"
+"origin" "-1816 -720 -272"
+"spawnflags" "1"
+"trail_skip" "1"
+}
+{
+"classname" "func_illusionary"
+"model" "*12"
+}
+{
+"angle" "180"
+"classname" "info_player_deathmatch"
+"origin" "-1808 32 -96"
+}
+{
+"classname" "weapon_supershotgun"
+"origin" "-538 64 34"
+}
+{
+"classname" "item_health"
+"origin" "-2240 490 -16"
+"spawnflags" "1"
+}
+{
+"classname" "item_health"
+"origin" "-1496 -888 -112"
+"spawnflags" "1"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-1248 948 220"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1116 936 184"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-768 588 196"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "135"
+"origin" "-504 928 76"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1116 976 256"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1116 976 256"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1116 904 256"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1560 908 188"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1560 908 300"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1320 996 316"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "95"
+"origin" "-560 868 228"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-904 876 112"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1448 908 188"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1400 1104 196"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1400 1104 292"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1368 1088 36"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1368 908 188"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-944 1004 108"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-960 972 128"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1028 972 128"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-712 1052 260"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-680 1084 180"
+}
+{
+"classname" "light"
+"light" "85"
+"origin" "-632 1100 244"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1056 1004 108"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1056 1004 108"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1000 1004 108"
+}
+{
+"classname" "light"
+"light" "115"
+"origin" "-464 1060 152"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1416 908 316"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-512 684 160"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-544 684 272"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1476 528 -100"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1564 644 -32"
+}
+{
+"classname" "func_illusionary"
+"model" "*13"
+}
+{
+"classname" "item_shells"
+"origin" "-528 160 160"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-912 376 200"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-920 496 184"
+}
+{
+"classname" "item_health"
+"origin" "-986 470 164"
+"spawnflags" "1"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-992 484 188"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-984 560 200"
+}
+{
+"classname" "item_spikes"
+"origin" "-988 420 160"
+"spawnflags" "1"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-992 420 268"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1000 504 344"
+}
+{
+"classname" "item_health"
+"origin" "-986 518 164"
+"spawnflags" "1"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "120"
+"origin" "-848 708 84"
+}
+{
+"classname" "info_intermission"
+"mangle" "42 225 0"
+"origin" "-1752 -808 232"
+}
+{
+"classname" "info_intermission"
+"mangle" "42 225 0"
+"origin" "-1104 -32 280"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-520 -764 196"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-784 836 388"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-872 1052 212"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-592 556 68"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-320 80 200"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-712 -688 184"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-992 -680 80"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1024 -760 80"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1184 -544 64"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "120"
+"origin" "-1168 -136 -72"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "130"
+"origin" "-1160 -304 -72"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "130"
+"origin" "-1440 -320 -80"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "120"
+"origin" "-1440 -136 -80"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1616 -128 64"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1564 618 -48"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1564 590 -62"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1484 644 -12"
+}
+{
+"classname" "light"
+"light" "95"
+"origin" "-1560 784 32"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1320 1016 20"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1672 1148 92"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "110"
+"origin" "-1940 964 124"
+}
+{
+"classname" "light"
+"light" "95"
+"origin" "-1728 444 12"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "80"
+"origin" "-1792 -636 -220"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "90"
+"origin" "-1712 -636 -220"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "125"
+"origin" "-1728 -644 -132"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "95"
+"origin" "-1816 -612 -108"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1412 -776 -52"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1412 -776 60"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1264 -764 44"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1264 -652 44"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1600 -832 64"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-2384 -1040 0"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1872 -1312 32"
+}
+{
+"classname" "light"
+"light" "95"
+"origin" "-2176 -1296 -40"
+}
+{
+"classname" "light"
+"light" "95"
+"origin" "-2056 -1296 -40"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "140"
+"origin" "-2088 -1616 80"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1996 -880 244"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-2068 28 44"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "100"
+"origin" "-1812 16 -92"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "115"
+"origin" "-1272 224 -96"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "115"
+"origin" "-1272 16 -96"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1288 528 0"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1384 320 16"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1552 600 160"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1752 796 268"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1840 796 268"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-800 -400 288"
+}
+{
+"classname" "light"
+"light" "95"
+"origin" "-848 -112 272"
+}
+{
+"classname" "light"
+"light" "95"
+"origin" "-808 -184 408"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "90"
+"origin" "-728 -632 148"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "110"
+"origin" "-776 -680 70"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-504 72 72"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "150"
+"origin" "-1832 1084 228"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "130"
+"origin" "-1800 1084 132"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "150"
+"origin" "-1832 1004 228"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "135"
+"origin" "-1812 972 132"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1528 96 64"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "135"
+"origin" "-1912 888 228"
+}
+{
+"_color" "124 113 203"
+"classname" "light"
+"light" "135"
+"origin" "-1776 988 60"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-944 980 36"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-476 1040 48"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-552 1060 152"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-648 916 276"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-756 492 188"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-680 -672 328"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "90"
+"origin" "-1256 -464 -28"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "90"
+"origin" "-1336 -464 -28"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "90"
+"origin" "-1256 -464 -92"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1640 -972 -88"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1856 -1344 -40"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2120 -1632 144"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "140"
+"origin" "-2072 -1360 -224"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "130"
+"origin" "-2008 -1088 -240"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "95"
+"origin" "-2240 -1112 -204"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "130"
+"origin" "-2056 -896 -224"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "135"
+"origin" "-1880 -896 -224"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "65"
+"origin" "-1944 -788 -252"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-2052 -476 40"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1816 48 188"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1532 -1024 -80"
+}
+{
+"classname" "light"
+"light" "115"
+"origin" "-1548 340 -68"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "100"
+"origin" "-1288 448 -80"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1056 -760 48"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-836 -680 164"
+}
+{
+"classname" "light"
+"light" "55"
+"origin" "-876 1016 68"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1644 1108 276"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1712 296 176"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1712 212 310"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "60"
+"origin" "-1634 -750 -92"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "120"
+"origin" "-2018 -1576 -252"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "120"
+"origin" "-2222 -1576 -252"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "85"
+"origin" "-2234 -1360 -128"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "75"
+"origin" "-2008 -1232 -144"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "70"
+"origin" "-1840 -740 -52"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1972 1016 124"
+}
+{
+"classname" "light"
+"light" "55"
+"origin" "-1788 252 8"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-2104 668 16"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1960 1220 228"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "90"
+"origin" "-1912 1036 228"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1716 860 94"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "45"
+"origin" "-2018 1058 164"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-1960 1220 128"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "90"
+"origin" "-1333 -511 -92"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-1728 -892 -68"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-1788 -940 -36"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-2308 -1456 228"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1152 -816 264"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1080 -816 264"
+}
+{
+"_color" "230 95 95"
+"classname" "light"
+"light" "115"
+"origin" "-632 -456 72"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1944 732 124"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1944 1176 196"
+}
+{
+"classname" "light"
+"light" "95"
+"origin" "-1692 1124 240"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-1708 1204 240"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1840 844 240"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "75"
+"origin" "-1912 1080 228"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-1692 1024 240"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-1896 1220 128"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1440 558 -100"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-1832 -808 24"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-1928 876 164"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "45"
+"origin" "-2010 910 164"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "150"
+"origin" "-1912 924 164"
+}
+{
+"classname" "light"
+"light" "140"
+"origin" "-2024 956 144"
+}
+{
+"classname" "item_artifact_super_damage"
+"origin" "-2016 960 120"
+}
+{
+"_color" "103 177 124"
+"classname" "light"
+"light" "90"
+"origin" "-1100 -226 -80"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "100"
+"origin" "-2120 -1716 -52"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-1956 1032 197"
+}
+{
+"_color" "1 62 203"
+"classname" "light"
+"light" "125"
+"origin" "-1932 1060 124"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1932 1076 124"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2358 -224 -59"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-616 -816 264"
+}
+{
+"classname" "item_shells"
+"origin" "-448 -768 160"
+}
+{
+"_color" "255 121 116"
+"classname" "light"
+"light" "135"
+"origin" "-728 -760 192"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-488 -816 264"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-744 -816 264"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-552 -816 264"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-680 -816 264"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-808 -816 264"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1000 -816 264"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-872 -816 264"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-936 -816 264"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1235 541 25"
+}
+{
+"classname" "light"
+"light" "85"
+"origin" "-968 -680 344"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-2192 16 -52"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-2192 -464 -52"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-2100 36 -88"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1208 -808 264"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "70"
+"origin" "-1276 -780 -96"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1600 -650 64"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "90"
+"origin" "-2002 -1544 -140"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-2096 772 44"
+}
+{
+"_color" "124 113 203"
+"classname" "light"
+"light" "120"
+"origin" "-1876 1012 132"
+}
+{
+"_color" "124 113 203"
+"classname" "light"
+"light" "50"
+"origin" "-2010 1006 180"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-1648 1228 72"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-1324 1224 316"
+}
+{
+"classname" "light"
+"light" "55"
+"origin" "-1712 356 176"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1712 192 176"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-1892 -176 376"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-1936 -296 360"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1420 -432 176"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-788 -416 392"
+}
+{
+"classname" "light"
+"light" "50"
+"origin" "-736 60 132"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-580 48 148"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-2328 -1624 -48"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-2328 -1624 36"
+}
+{
+"classname" "light"
+"light" "50"
+"origin" "-1712 244 176"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1560 328 320"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1140 328 320"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1258 332 320"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "80"
+"origin" "-1278 548 -104"
+}
+{
+"classname" "light"
+"light" "125"
+"origin" "-1912 -468 180"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1896 -492 304"
+}
+{
+"classname" "light"
+"light" "85"
+"origin" "-1896 44 308"
+}
+{
+"classname" "func_illusionary"
+"model" "*14"
+}
+{
+"classname" "light"
+"light" "145"
+"origin" "-1844 -560 216"
+}
+{
+"classname" "func_illusionary"
+"model" "*15"
+}
+{
+"classname" "func_illusionary"
+"model" "*16"
+}
+{
+"classname" "func_illusionary"
+"model" "*17"
+}
+{
+"classname" "func_illusionary"
+"model" "*18"
+}
+{
+"classname" "func_illusionary"
+"model" "*19"
+}
+{
+"classname" "func_illusionary"
+"model" "*20"
+}
+{
+"classname" "func_illusionary"
+"model" "*21"
+}
+{
+"classname" "func_illusionary"
+"model" "*22"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-1794 -608 250"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1918 -640 230"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1926 -496 256"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1946 44 212"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-1792 -324 108"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-2228 -416 92"
+}
+{
+"classname" "light"
+"light" "55"
+"origin" "-2256 -388 92"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-1792 -444 164"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1064 0 224"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1064 -456 208"
+}
+{
+"classname" "light"
+"light" "80"
+"origin" "-1036 -432 160"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1064 -456 256"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1064 0 276"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1064 -456 300"
+}
+{
+"classname" "light"
+"light" "85"
+"origin" "-1176 0 336"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-1400 16 64"
+}
+{
+"classname" "func_illusionary"
+"model" "*23"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1440 466 -100"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1440 350 -100"
+}
+{
+"classname" "light"
+"light" "55"
+"origin" "-1232 1000 144"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-544 864 60"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-472 800 92"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-956 -256 272"
+}
+{
+"_color" "124 113 203"
+"classname" "light"
+"light" "130"
+"origin" "-1292 -226 -56"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "140"
+"origin" "-2080 -1656 -184"
+}
+{
+"_color" "187 188 122"
+"classname" "light"
+"light" "140"
+"origin" "-2160 -1656 -184"
+}
+{
+"classname" "light"
+"light" "85"
+"origin" "-2396 -1428 -48"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-2400 -1344 -40"
+}
+{
+"_color" "197 40 40"
+"classname" "light"
+"light" "110"
+"origin" "-536 -520 136"
+}
+{
+"_color" "197 40 40"
+"classname" "light"
+"light" "60"
+"origin" "-520 -636 88"
+}
+{
+"_color" "197 40 40"
+"classname" "light"
+"light" "60"
+"origin" "-520 -636 132"
+}
+{
+"classname" "light"
+"light" "55"
+"origin" "-1496 -288 20"
+}
+{
+"classname" "light"
+"light" "50"
+"origin" "-2312 708 60"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-1580 176 144"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-1580 176 96"
+}
+{
+"classname" "light"
+"light" "120"
+"origin" "-1536 784 88"
+}
+{
+"classname" "light"
+"light" "45"
+"origin" "-1569 823 127"
+}
+{
+"classname" "light"
+"light" "45"
+"origin" "-1529 823 127"
+}
+{
+"classname" "light"
+"light" "45"
+"origin" "-1449 823 127"
+}
+{
+"classname" "light"
+"light" "45"
+"origin" "-1489 823 127"
+}
+{
+"classname" "light"
+"light" "45"
+"origin" "-1409 823 127"
+}
+{
+"classname" "light"
+"light" "45"
+"origin" "-1409 713 127"
+}
+{
+"classname" "light"
+"light" "45"
+"origin" "-1449 713 127"
+}
+{
+"classname" "light"
+"light" "45"
+"origin" "-1489 713 127"
+}
+{
+"classname" "light"
+"light" "45"
+"origin" "-1529 713 127"
+}
+{
+"classname" "light"
+"light" "45"
+"origin" "-1569 713 127"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-2000 -1244 -12"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-2240 -1244 -12"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-2240 -1244 92"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-2000 -1244 92"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1368 278 -100"
+}
+{
+"classname" "light"
+"light" "50"
+"origin" "-24 -120 184"
+}
+{
+"classname" "light"
+"light" "50"
+"origin" "-24 -264 184"
+}
+{
+"_color" "255 255 0"
+"classname" "light"
+"light" "140"
+"origin" "-152 -184 88"
+}
+{
+"_color" "255 255 0"
+"classname" "light"
+"light" "130"
+"origin" "-8 -184 72"
+}
+{
+"_color" "255 255 0"
+"classname" "light"
+"light" "130"
+"origin" "-120 -88 88"
+}
+{
+"_color" "255 255 0"
+"classname" "light"
+"light" "130"
+"origin" "-120 -296 88"
+}
+{
+"classname" "light"
+"light" "50"
+"origin" "-2367 -184 -19"
+}
+{
+"classname" "light"
+"light" "50"
+"origin" "-2375 -264 -19"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1902 48 164"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1854 44 164"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-2040 48 116"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-552 -488 296"
+}
+{
+"angle" "90"
+"classname" "item_rockets"
+"origin" "-2000 -60 -108"
+"spawnflags" "1"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "137"
+"origin" "-816 604 68"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "85"
+"origin" "-864 604 100"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "135"
+"origin" "-816 724 132"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "75"
+"origin" "-852 752 46"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "80"
+"origin" "-752 756 44"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-852 808 46"
+}
+{
+"classname" "weapon_rocketlauncher"
+"origin" "-816 672 20"
+}
+{
+"_color" "255 57 57"
+"classname" "light"
+"light" "140"
+"origin" "-808 684 -12"
+}
+{
+"_color" "255 39 39"
+"classname" "light"
+"light" "120"
+"origin" "-784 700 44"
+}
+{
+"classname" "func_illusionary"
+"model" "*24"
+}
+{
+"classname" "func_illusionary"
+"model" "*25"
+}
+{
+"classname" "func_illusionary"
+"model" "*26"
+}
+{
+"classname" "func_illusionary"
+"model" "*27"
+}
+{
+"classname" "func_illusionary"
+"model" "*28"
+}
+{
+"classname" "func_illusionary"
+"model" "*29"
+}
+{
+"classname" "func_illusionary"
+"model" "*30"
+}
+{
+"classname" "light"
+"light" "85"
+"origin" "-1608 -384 380"
+}
+{
+"angle" "15"
+"classname" "light"
+"light" "80"
+"origin" "-1513 -92 408"
+}
+{
+"angle" "15"
+"classname" "light"
+"light" "80"
+"origin" "-1521 -364 408"
+}
+{
+"classname" "light"
+"light" "50"
+"origin" "-1022 -172 182"
+}
+{
+"classname" "light"
+"light" "50"
+"origin" "-1022 -278 182"
+}
+{
+"classname" "light"
+"light" "55"
+"origin" "-2028 288 174"
+}
+{
+"classname" "func_illusionary"
+"model" "*31"
+}
+{
+"classname" "func_illusionary"
+"model" "*32"
+}
+{
+"classname" "func_illusionary"
+"model" "*33"
+}
+{
+"angle" "0"
+"classname" "light"
+"light" "135"
+"origin" "-1368 320 368"
+}
+{
+"classname" "item_health"
+"origin" "-2332 -480 98"
+"spawnflags" "0"
+}
+{
+"classname" "func_illusionary"
+"model" "*34"
+}
+{
+"classname" "func_illusionary"
+"model" "*35"
+}
+{
+"classname" "light"
+"light" "135"
+"origin" "-1420 148 240"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1504 120 196"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1548 114 288"
+}
+{
+"_color" "58 199 105"
+"classname" "light"
+"light" "95"
+"origin" "-1304 16 248"
+}
+{
+"_color" "58 199 105"
+"classname" "light"
+"light" "95"
+"origin" "-1304 -464 248"
+}
+{
+"classname" "light"
+"light" "90"
+"origin" "-1149 222 304"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1152 176 108"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1152 176 160"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1152 176 260"
+}
+{
+"classname" "light"
+"light" "65"
+"origin" "-1152 176 208"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-1288 200 192"
+}
+{
+"classname" "light"
+"light" "95"
+"origin" "-1148 252 252"
+}
+{
+"classname" "func_illusionary"
+"model" "*36"
+}
+{
+"classname" "light"
+"light" "70"
+"origin" "-1140 278 320"
+}
+{
+"classname" "light"
+"light" "60"
+"origin" "-1134 360 242"
+}
+{
+"classname" "light"
+"light" "75"
+"origin" "-1272 528 160"
+}
+{
+"classname" "light"
+"light" "110"
+"origin" "-1656 1030 182"
+}
+{
+"classname" "waypoint"
+"origin" "-700 -436 68.03125"
+"b_pants" "26"
+"b_skill" "47"
+"b_shirt" "159"
+}
+{
+"classname" "waypoint"
+"origin" "-64 -456 196.03125"
+"b_pants" "59"
+"b_skill" "60"
+"b_shirt" "161"
+}
+{
+"classname" "waypoint"
+"origin" "-1072 672 196.03125"
+"b_pants" "19"
+"b_skill" "192"
+}
+{
+"classname" "waypoint"
+"origin" "-1936 -784 36.03125"
+"b_pants" "61"
+"b_skill" "109"
+}
+{
+"classname" "waypoint"
+"origin" "-1168 640 36.03125"
+"b_pants" "22"
+"b_skill" "42"
+"b_shirt" "63"
+"b_frags" "97"
+}
+{
+"classname" "waypoint"
+"origin" "-1600 -432 68.03125"
+"b_pants" "37"
+"b_skill" "111"
+}
+{
+"classname" "waypoint"
+"origin" "-1888 -936 -235.96875"
+"b_pants" "129"
+"b_skill" "194"
+}
+{
+"classname" "waypoint"
+"origin" "-1744 320 20.03125"
+"b_pants" "20"
+"b_skill" "21"
+"b_shirt" "39"
+"b_frags" "48"
+}
+{
+"classname" "waypoint"
+"origin" "-1808 32 -91.96875"
+"b_pants" "15"
+"b_skill" "56"
+"b_shirt" "121"
+"b_frags" "164"
+}
+{
+"classname" "waypoint"
+"origin" "-1368 -984 -59.96875"
+"b_pants" "11"
+"b_skill" "49"
+"b_aiflags" "1"
+}
+{
+"classname" "waypoint"
+"origin" "-1026 -224 68.03125"
+"b_pants" "36"
+"b_skill" "41"
+}
+{
+"classname" "waypoint"
+"origin" "-1176 1176 52.03125"
+"b_pants" "11"
+"b_skill" "32"
+"b_shirt" "65"
+"b_frags" "150"
+"b_aiflags" "1"
+}
+{
+"classname" "waypoint"
+"origin" "-2240 -1368 -227"
+"b_pants" "14"
+"b_skill" "30"
+"b_shirt" "170"
+"b_aiflags" "1024"
+}
+{
+"classname" "waypoint"
+"origin" "-2240 -1368 -45"
+"b_pants" "13"
+"b_skill" "67"
+"b_shirt" "120"
+}
+{
+"classname" "waypoint"
+"origin" "-2320 -224 -75.96875"
+"b_pants" "9"
+}
+{
+"classname" "waypoint"
+"origin" "-1296 -224 -91.96875"
+"b_pants" "45"
+"b_skill" "46"
+"b_shirt" "114"
+"b_frags" "185"
+}
+{
+"classname" "waypoint"
+"origin" "-2120 -1732 -43.96875"
+"b_pants" "74"
+"b_skill" "76"
+}
+{
+"classname" "waypoint"
+"origin" "-1536 368 -75.96875"
+"b_pants" "123"
+"b_skill" "124"
+}
+{
+"classname" "waypoint"
+"origin" "-800 424 196.03125"
+"b_pants" "51"
+"b_skill" "52"
+"b_shirt" "147"
+"b_frags" "192"
+}
+{
+"classname" "waypoint"
+"origin" "-1776 960 36.03125"
+"b_pants" "8"
+"b_skill" "21"
+"b_shirt" "32"
+"b_frags" "125"
+}
+{
+"classname" "waypoint"
+"origin" "-1776 1008 36.03125"
+"b_pants" "8"
+"b_skill" "12"
+"b_shirt" "20"
+"b_frags" "82"
+}
+{
+"classname" "waypoint"
+"origin" "-1180 280 68.03125"
+"b_pants" "5"
+"b_skill" "63"
+"b_shirt" "128"
+"b_frags" "169"
+}
+{
+"classname" "waypoint"
+"origin" "-2032 -1208 -235.96875"
+"b_pants" "84"
+"b_skill" "112"
+}
+{
+"classname" "waypoint"
+"origin" "-1904 -840 -215.96786"
+"b_pants" "7"
+"b_skill" "64"
+}
+{
+"classname" "waypoint"
+"origin" "-1912 -1088 4.03125"
+"b_pants" "85"
+"b_skill" "133"
+"b_shirt" "167"
+}
+{
+"classname" "waypoint"
+"origin" "-432 -228 68.03125"
+"b_pants" "1"
+"b_skill" "27"
+"b_shirt" "40"
+"b_frags" "87"
+}
+{
+"classname" "waypoint"
+"origin" "-432 -180 68.03125"
+"b_pants" "26"
+"b_skill" "47"
+"b_shirt" "88"
+}
+{
+"classname" "waypoint"
+"origin" "-2112 -1224 4.03125"
+"b_pants" "29"
+"b_skill" "85"
+}
+{
+"classname" "waypoint"
+"origin" "-2160 -1224 4.03125"
+"b_pants" "28"
+"b_skill" "136"
+}
+{
+"classname" "waypoint"
+"origin" "-2032 -1392 -235.96875"
+"b_pants" "13"
+"b_skill" "170"
+}
+{
+"classname" "waypoint"
+"origin" "-2188 184 20.03125"
+"b_pants" "44"
+"b_skill" "69"
+"b_shirt" "144"
+}
+{
+"classname" "waypoint"
+"origin" "-1424 1200 36.03125"
+"b_pants" "12"
+"b_skill" "33"
+"b_shirt" "42"
+"b_frags" "150"
+}
+{
+"classname" "waypoint"
+"origin" "-1472 1200 36.03125"
+"b_pants" "32"
+"b_skill" "42"
+"b_shirt" "91"
+"b_frags" "151"
+}
+{
+"classname" "waypoint"
+"origin" "-2364 -912 4.03125"
+"b_pants" "10"
+"b_skill" "49"
+"b_shirt" "120"
+"b_frags" "132"
+}
+{
+"classname" "waypoint"
+"origin" "-1144 -32 68.03125"
+"b_pants" "36"
+}
+{
+"classname" "waypoint"
+"origin" "-1104 -32 68.03125"
+"b_pants" "11"
+"b_skill" "35"
+}
+{
+"classname" "waypoint"
+"origin" "-1600 -240 68.03125"
+"b_pants" "6"
+"b_skill" "127"
+"b_shirt" "168"
+}
+{
+"classname" "waypoint"
+"origin" "-544 498 52.03125"
+"b_pants" "47"
+"b_skill" "57"
+"b_shirt" "139"
+}
+{
+"classname" "waypoint"
+"origin" "-1976 440 20.03125"
+"b_pants" "8"
+"b_skill" "48"
+"b_shirt" "144"
+"b_frags" "172"
+}
+{
+"classname" "waypoint"
+"origin" "-720 -240 68.03125"
+"b_pants" "26"
+"b_skill" "171"
+}
+{
+"classname" "waypoint"
+"origin" "-1136 -688 68.03125"
+"b_pants" "11"
+"b_skill" "140"
+}
+{
+"classname" "waypoint"
+"origin" "-1392 632 36.03125"
+"b_pants" "5"
+"b_skill" "32"
+"b_shirt" "33"
+"b_frags" "62"
+}
+{
+"classname" "waypoint"
+"origin" "-2240 536 20.03125"
+"b_pants" "44"
+"b_skill" "48"
+"b_shirt" "137"
+}
+{
+"classname" "waypoint"
+"origin" "-2240 582 20.03125"
+"b_pants" "43"
+"b_skill" "142"
+"b_shirt" "144"
+}
+{
+"classname" "waypoint"
+"origin" "-1263 160 -91.96875"
+"b_pants" "16"
+"b_skill" "62"
+"b_shirt" "101"
+}
+{
+"classname" "waypoint"
+"origin" "-1263 112 -91.96875"
+"b_pants" "16"
+"b_skill" "62"
+"b_shirt" "70"
+"b_frags" "79"
+}
+{
+"classname" "waypoint"
+"origin" "-538 64 68.03125"
+"b_pants" "1"
+"b_skill" "27"
+"b_shirt" "38"
+}
+{
+"classname" "waypoint"
+"origin" "-2240 490 20.03125"
+"b_pants" "8"
+"b_skill" "39"
+"b_shirt" "43"
+}
+{
+"classname" "waypoint"
+"origin" "-1496 -888 -75.96875"
+"b_pants" "34"
+"b_skill" "104"
+"b_shirt" "115"
+"b_frags" "132"
+}
+{
+"classname" "waypoint"
+"origin" "-528 160 196.03125"
+"b_pants" "47"
+"b_skill" "147"
+}
+{
+"classname" "waypoint"
+"origin" "-986 470 196.03125"
+"b_pants" "19"
+"b_skill" "53"
+}
+{
+"classname" "waypoint"
+"origin" "-988 420 196.03125"
+"b_pants" "19"
+"b_skill" "53"
+"b_shirt" "108"
+"b_frags" "192"
+}
+{
+"classname" "waypoint"
+"origin" "-986 518 196.03125"
+"b_pants" "51"
+"b_skill" "52"
+"b_shirt" "57"
+"b_frags" "108"
+}
+{
+"classname" "waypoint"
+"origin" "-2016 960 132.03125"
+"b_pants" "20"
+"b_skill" "105"
+"b_shirt" "152"
+"b_frags" "176"
+}
+{
+"classname" "waypoint"
+"origin" "-448 -768 196.03125"
+"b_pants" "153"
+"b_skill" "161"
+"b_shirt" "174"
+}
+{
+"classname" "waypoint"
+"origin" "-2000 -60 -75.96875"
+"b_pants" "9"
+"b_skill" "69"
+"b_shirt" "72"
+"b_frags" "73"
+}
+{
+"classname" "waypoint"
+"origin" "-816 672 52.03125"
+"b_pants" "38"
+"b_skill" "154"
+"b_shirt" "188"
+}
+{
+"classname" "waypoint"
+"origin" "-2332 -480 132.03125"
+"b_pants" "156"
+}
+{
+"classname" "waypoint"
+"origin" "-285.7311 -322.38818 68.03125"
+"b_pants" "87"
+"b_skill" "160"
+}
+{
+"classname" "waypoint"
+"origin" "-146.77962 -445.4331 196.03125"
+"b_pants" "107"
+}
+{
+"classname" "waypoint"
+"origin" "-1734.5938 -879.019 -24.668236"
+"b_pants" "103"
+}
+{
+"classname" "waypoint"
+"origin" "-1356.1831 510.18518 -91.96875"
+"b_pants" "18"
+}
+{
+"classname" "waypoint"
+"origin" "-1226.78 498.09232 68.03125"
+"b_pants" "110"
+}
+{
+"classname" "waypoint"
+"origin" "-1970.7798 -933.26074 -235.96875"
+"b_pants" "23"
+}
+{
+"classname" "waypoint"
+"origin" "-1245.1509 1155.3406 36.03125"
+"b_pants" "116"
+"b_skill" "117"
+}
+{
+"classname" "waypoint"
+"origin" "-1273.9668 939.4867 36.03125"
+"b_pants" "91"
+"b_skill" "155"
+"b_shirt" "180"
+}
+{
+"classname" "waypoint"
+"origin" "-2381.907 -1309.22 -11.96875"
+"b_pants" "77"
+}
+{
+"classname" "waypoint"
+"origin" "-2299.2468 -142.20332 -75.96875"
+"b_pants" "56"
+}
+{
+"classname" "waypoint"
+"origin" "-2138.9805 -405.0195 -43.96875"
+"b_pants" "121"
+}
+{
+"classname" "waypoint"
+"origin" "-1348.7539 -127.51702 -91.96875"
+"b_pants" "69"
+"b_skill" "71"
+}
+{
+"classname" "waypoint"
+"origin" "-1428.4215 -172.9734 -91.96875"
+"b_pants" "15"
+}
+{
+"classname" "waypoint"
+"origin" "-1348.7539 -320.48297 -91.96875"
+"b_pants" "16"
+"b_skill" "46"
+"b_shirt" "71"
+}
+{
+"classname" "waypoint"
+"origin" "-1247.316 -320.5647 -91.96875"
+"b_pants" "79"
+}
+{
+"classname" "waypoint"
+"origin" "-2007.9015 -1709.96 -43.96875"
+"b_pants" "182"
+}
+{
+"classname" "waypoint"
+"origin" "-2301.0195 -1550.9805 -43.96875"
+"b_pants" "120"
+}
+{
+"classname" "waypoint"
+"origin" "-2261.907 -1673.22 -43.96875"
+"b_pants" "75"
+}
+{
+"classname" "waypoint"
+"origin" "-2202.779 -1724.6831 -43.96875"
+"b_pants" "17"
+}
+{
+"classname" "waypoint"
+"origin" "-2038.2975 -1724.6876 -43.96875"
+"b_pants" "17"
+}
+{
+"classname" "waypoint"
+"origin" "-1316.496 368 -91.96875"
+"b_pants" "80"
+}
+{
+"classname" "waypoint"
+"origin" "-1532 609.3491 -27.96875"
+"b_pants" "118"
+"b_skill" "123"
+}
+{
+"classname" "waypoint"
+"origin" "-1472.6432 353.85376 -75.96875"
+"b_pants" "18"
+"b_skill" "138"
+}
+{
+"classname" "waypoint"
+"origin" "-1667.3883 1063.3569 36.03125"
+"b_pants" "92"
+}
+{
+"classname" "waypoint"
+"origin" "-1436 280 68.03125"
+"b_pants" "37"
+}
+{
+"classname" "waypoint"
+"origin" "-2117.0464 -1266.78 -226.14272"
+"b_pants" "130"
+}
+{
+"classname" "waypoint"
+"origin" "-1965.4939 -1208 4.03125"
+"b_pants" "25"
+"b_skill" "28"
+"b_shirt" "136"
+}
+{
+"classname" "waypoint"
+"origin" "-459.96387 -344.90433 68.03125"
+"b_pants" "26"
+}
+{
+"classname" "waypoint"
+"origin" "-399.33823 -313.59177 68.03125"
+"b_pants" "26"
+"b_skill" "158"
+}
+{
+"classname" "waypoint"
+"origin" "-373.2199 -62.64304 68.03125"
+"b_pants" "157"
+}
+{
+"classname" "waypoint"
+"origin" "-2188 -72 -59.96875"
+"b_pants" "141"
+}
+{
+"classname" "waypoint"
+"origin" "-2175.1445 101.220406 20.03125"
+"b_pants" "31"
+}
+{
+"classname" "waypoint"
+"origin" "-1609.8635 1184.5695 72.96661"
+"b_pants" "66"
+"b_skill" "148"
+}
+{
+"classname" "waypoint"
+"origin" "-1521.9668 963.48663 36.03125"
+"b_pants" "33"
+"b_skill" "98"
+}
+{
+"classname" "waypoint"
+"origin" "-2255.8625 -987.22455 4.03125"
+"b_pants" "181"
+}
+{
+"classname" "waypoint"
+"origin" "-601.5373 479.6548 52.03125"
+"b_pants" "38"
+}
+{
+"classname" "waypoint"
+"origin" "-529.85376 434.64316 52.03125"
+"b_pants" "38"
+}
+{
+"classname" "waypoint"
+"origin" "-697.006 -79.589294 68.03125"
+"b_pants" "27"
+}
+{
+"classname" "waypoint"
+"origin" "-1313.8892 623.5781 36.03125"
+"b_pants" "5"
+"b_skill" "138"
+}
+{
+"classname" "waypoint"
+"origin" "-1389.0343 714.47766 36.03125"
+"b_pants" "42"
+"b_skill" "97"
+}
+{
+"classname" "waypoint"
+"origin" "-2138.6975 632.1438 20.03125"
+"b_pants" "48"
+}
+{
+"classname" "waypoint"
+"origin" "-2226.259 727.4337 20.03125"
+"b_pants" "44"
+}
+{
+"classname" "waypoint"
+"origin" "-1302.3568 223.35675 -91.96875"
+"b_pants" "123"
+"b_skill" "124"
+}
+{
+"classname" "waypoint"
+"origin" "-602.213 30.408302 68.03125"
+"b_pants" "47"
+}
+{
+"classname" "waypoint"
+"origin" "-1575.251 -857.2405 -75.96875"
+"b_pants" "49"
+"b_skill" "145"
+}
+{
+"classname" "waypoint"
+"origin" "-1601.9275 -984.1438 -75.96875"
+"b_pants" "185"
+}
+{
+"classname" "waypoint"
+"origin" "-1834.9805 778.98047 132.03125"
+"b_pants" "100"
+}
+{
+"classname" "waypoint"
+"origin" "-2054.4604 -8.032732 -75.96875"
+"b_pants" "15"
+}
+{
+"classname" "waypoint"
+"origin" "-169.17029 -308.52747 68.03125"
+"b_pants" "157"
+}
+{
+"classname" "waypoint"
+"origin" "-1004.69495 955.40283 196.03125"
+"b_pants" "3"
+"b_skill" "162"
+}
+{
+"classname" "waypoint"
+"origin" "-1849.6954 -751.9619 36.03125"
+"b_pants" "131"
+}
+{
+"classname" "waypoint"
+"origin" "-1313.3684 511.07397 -91.96875"
+"b_pants" "46"
+"b_skill" "143"
+}
+{
+"classname" "waypoint"
+"origin" "-1575.2922 -323.38828 68.03125"
+"b_pants" "126"
+}
+{
+"classname" "waypoint"
+"origin" "-1981.923 -977.29095 -235.96875"
+"b_pants" "7"
+}
+{
+"classname" "waypoint"
+"origin" "-1711.5011 -175.28128 -91.96875"
+"b_pants" "72"
+}
+{
+"classname" "waypoint"
+"origin" "-1711.5011 -272.7187 -91.96875"
+"b_pants" "56"
+}
+{
+"classname" "waypoint"
+"origin" "-1433.0365 -976.72784 -75.96875"
+"b_pants" "10"
+}
+{
+"classname" "waypoint"
+"origin" "-1222.7671 1078.5321 36.03125"
+"b_pants" "12"
+"b_skill" "66"
+}
+{
+"classname" "waypoint"
+"origin" "-1206.8318 958.1304 36.03125"
+"b_pants" "116"
+"b_skill" "138"
+"b_shirt" "186"
+}
+{
+"classname" "waypoint"
+"origin" "-1308.2047 974.12854 36.03125"
+"b_pants" "187"
+}
+{
+"classname" "waypoint"
+"origin" "-2292.307 -1309.22 -11.96875"
+"b_pants" "120"
+"b_skill" "136"
+}
+{
+"classname" "waypoint"
+"origin" "-2292.307 -1426.78 -43.96875"
+"b_pants" "14"
+"b_skill" "34"
+"b_shirt" "119"
+"b_frags" "183"
+}
+{
+"classname" "waypoint"
+"origin" "-2202.3374 -468.37634 -11.96875"
+"b_pants" "9"
+"b_skill" "90"
+"b_shirt" "122"
+"b_frags" "195"
+}
+{
+"classname" "waypoint"
+"origin" "-2138.9805 -470.6195 -11.96875"
+"b_pants" "68"
+"b_skill" "163"
+}
+{
+"classname" "waypoint"
+"origin" "-1553.4697 689.65826 20.03125"
+"b_pants" "46"
+"b_skill" "98"
+}
+{
+"classname" "waypoint"
+"origin" "-1570.2883 541.2205 -59.96875"
+"b_pants" "33"
+"b_skill" "45"
+"b_shirt" "116"
+}
+{
+"classname" "waypoint"
+"origin" "-1762.4933 881.44916 36.03125"
+"b_pants" "173"
+}
+{
+"classname" "waypoint"
+"origin" "-1525.6 280 68.03125"
+"b_pants" "18"
+}
+{
+"classname" "waypoint"
+"origin" "-1448.4276 215.23541 68.03125"
+"b_pants" "22"
+}
+{
+"classname" "waypoint"
+"origin" "-1372.6432 231.47023 68.03125"
+"b_pants" "83"
+}
+{
+"classname" "waypoint"
+"origin" "-2137.5986 -1203.171 -235.96875"
+"b_pants" "23"
+}
+{
+"classname" "waypoint"
+"origin" "-2118.782 -1301.0684 -226.43195"
+"b_pants" "170"
+}
+{
+"classname" "waypoint"
+"origin" "-1848.6432 -901.3231 4.03125"
+"b_pants" "25"
+}
+{
+"classname" "waypoint"
+"origin" "-1946.2883 -898.1748 4.03125"
+"b_pants" "25"
+}
+{
+"classname" "waypoint"
+"origin" "-1974.5961 -984.73267 4.03125"
+"b_pants" "49"
+}
+{
+"classname" "waypoint"
+"origin" "-1890.6995 -1004.1916 4.03125"
+"b_pants" "10"
+"b_skill" "146"
+}
+{
+"classname" "waypoint"
+"origin" "-309.86307 -65.35696 68.03125"
+"b_pants" "40"
+}
+{
+"classname" "waypoint"
+"origin" "-2296.4006 -1207.1873 4.03125"
+"b_pants" "29"
+"b_skill" "34"
+"b_shirt" "119"
+}
+{
+"classname" "waypoint"
+"origin" "-2152.0322 -13.161613 -27.96875"
+"b_pants" "31"
+"b_skill" "106"
+}
+{
+"classname" "waypoint"
+"origin" "-1533.894 821.579 36.03125"
+"b_pants" "18"
+"b_skill" "117"
+"b_shirt" "166"
+}
+{
+"classname" "waypoint"
+"origin" "-610.7177 516.4163 52.03125"
+"b_pants" "180"
+}
+{
+"classname" "waypoint"
+"origin" "-1018.9318 -736.4911 100.03125"
+"b_pants" "55"
+}
+{
+"classname" "waypoint"
+"origin" "-2203.4229 363.45435 20.03125"
+"b_pants" "48"
+}
+{
+"classname" "waypoint"
+"origin" "-2157.221 769.88837 52.03125"
+"b_pants" "178"
+}
+{
+"classname" "waypoint"
+"origin" "-1294.6431 -14.713512 -91.96875"
+"b_pants" "70"
+}
+{
+"classname" "waypoint"
+"origin" "-2162.6113 320.23425 20.03125"
+"b_pants" "31"
+"b_skill" "39"
+}
+{
+"classname" "waypoint"
+"origin" "-1308.4332 -651.4873 -91.96875"
+"b_pants" "72"
+}
+{
+"classname" "waypoint"
+"origin" "-1398.0332 -728.2312 -91.96875"
+"b_pants" "73"
+"b_skill" "145"
+}
+{
+"classname" "waypoint"
+"origin" "-515.5342 259.82242 196.03125"
+"b_pants" "19"
+"b_skill" "50"
+}
+{
+"classname" "waypoint"
+"origin" "-1771.6237 1178.3606 132.03125"
+"b_pants" "149"
+}
+{
+"classname" "waypoint"
+"origin" "-1834.9805 1182.1001 132.03125"
+"b_pants" "105"
+}
+{
+"classname" "waypoint"
+"origin" "-1898.3373 1178.3606 132.03125"
+"b_pants" "20"
+}
+{
+"classname" "waypoint"
+"origin" "-1912.1394 1141.0195 132.03125"
+"b_pants" "33"
+"b_skill" "176"
+}
+{
+"classname" "waypoint"
+"origin" "-1911.7264 813.26886 132.03125"
+"b_pants" "177"
+}
+{
+"classname" "waypoint"
+"origin" "-477.06845 -621.8637 196.03125"
+"b_pants" "86"
+}
+{
+"classname" "waypoint"
+"origin" "-674.2669 754.7795 52.03125"
+"b_pants" "165"
+}
+{
+"classname" "waypoint"
+"origin" "-672.1023 913.66095 52.03125"
+"b_pants" "57"
+}
+{
+"classname" "waypoint"
+"origin" "-2257.6772 -440.36258 132.03125"
+"b_pants" "121"
+}
+{
+"classname" "waypoint"
+"origin" "-63.665848 -63.503773 68.03125"
+"b_pants" "59"
+"b_skill" "96"
+"b_shirt" "135"
+"b_frags" "159"
+}
+{
+"classname" "waypoint"
+"origin" "-79.57029 -308.52747 68.03125"
+"b_pants" "157"
+}
+{
+"classname" "waypoint"
+"origin" "-217.15424 -317.78333 68.03125"
+"b_pants" "1"
+"b_skill" "157"
+}
+{
+"classname" "waypoint"
+"origin" "-354.3079 -322.38818 68.03125"
+"b_pants" "102"
+}
+{
+"classname" "waypoint"
+"origin" "-406.68616 -480.40186 196.03125"
+"b_pants" "2"
+"b_skill" "55"
+}
+{
+"classname" "waypoint"
+"origin" "-1098.2432 991.3568 212.03125"
+"b_pants" "165"
+}
+{
+"classname" "waypoint"
+"origin" "-2052.8618 -441.25488 -75.96875"
+"b_pants" "113"
+}
+{
+"classname" "waypoint"
+"origin" "-1988.6627 -446.19543 -75.96875"
+"b_pants" "89"
+}
+{
+"classname" "waypoint"
+"origin" "-1001.2255 945.7191 36.03125"
+"b_pants" "66"
+"b_skill" "117"
+}
+{
+"classname" "waypoint"
+"origin" "-1191.187 930.2788 36.03125"
+"b_pants" "179"
+}
+{
+"classname" "waypoint"
+"origin" "-1949.3646 -1595.285 -43.96875"
+"b_pants" "78"
+}
+{
+"classname" "waypoint"
+"origin" "-1493.3677 106.843575 68.03125"
+"b_pants" "81"
+}
+{
+"classname" "waypoint"
+"origin" "-1306.7136 228.19595 68.03125"
+"b_pants" "81"
+}
+{
+"classname" "waypoint"
+"origin" "-2108.6863 -1343.7168 -224.74936"
+"b_pants" "13"
+"b_skill" "129"
+}
+{
+"classname" "waypoint"
+"origin" "-275.57468 -61.31816 68.03125"
+"b_pants" "157"
+}
+{
+"classname" "waypoint"
+"origin" "-1762.4373 497.06168 20.03125"
+"b_pants" "20"
+}
+{
+"classname" "waypoint"
+"origin" "-1863.1543 505.6719 20.03125"
+"b_pants" "39"
+}
+{
+"classname" "waypoint"
+"origin" "-811.4232 -720.6509 196.03125"
+"b_pants" "41"
+}
+{
+"classname" "waypoint"
+"origin" "-2093.864 706.53156 84.03125"
+"b_pants" "99"
+}
+{
+"classname" "waypoint"
+"origin" "-1967.8666 970.7926 132.03125"
+"b_pants" "54"
+"b_skill" "151"
+}
+{
+"classname" "waypoint"
+"origin" "-1970.1234 754.7314 132.03125"
+"b_pants" "184"
+}
+{
+"classname" "waypoint"
+"origin" "-1917.7603 770.18384 132.03125"
+"b_pants" "176"
+}
+{
+"classname" "waypoint"
+"origin" "-800.8127 1002.6508 52.03125"
+"b_pants" "94"
+}
+{
+"classname" "waypoint"
+"origin" "-923.1348 932.82336 52.03125"
+"b_pants" "92"
+"b_skill" "95"
+}
+{
+"classname" "waypoint"
+"origin" "-1673.58 -902.5443 -59.96875"
+"b_pants" "146"
+}
+{
+"classname" "waypoint"
+"origin" "-1906.969 -1416.9349 -43.96875"
+"b_pants" "25"
+"b_skill" "134"
+}
+{
+"classname" "waypoint"
+"origin" "-2340.4058 -1092.0665 4.03125"
+"b_pants" "93"
+}
+{
+"classname" "waypoint"
+"origin" "-2030.5072 769.88837 116.03125"
+"b_pants" "175"
+}
+{
+"classname" "waypoint"
+"origin" "-1299.7351 -602.9962 -91.96875"
+"b_pants" "16"
+"b_skill" "103"
+}
+{
+"classname" "waypoint"
+"origin" "-539.9415 983.3293 52.03125"
+"b_pants" "190"
+}
+{
+"classname" "waypoint"
+"origin" "-514.734 981.4436 52.03125"
+"b_pants" "190"
+}
+{
+"classname" "waypoint"
+"origin" "-574.2299 1005.4579 52.03125"
+"b_pants" "189"
+}
+{
+"classname" "waypoint"
+"origin" "-488.40955 728.53687 164.03125"
+"b_pants" "190"
+"b_skill" "191"
+}
+{
+"classname" "waypoint"
+"origin" "-539.0797 601.76685 196.03125"
+"b_pants" "3"
+"b_skill" "193"
+}
+{
+"classname" "waypoint"
+"origin" "-515.8556 621.3977 196.03125"
+"b_pants" "53"
+}
+{
+"classname" "waypoint"
+"origin" "-795.9415 558.0409 196.03125"
+"b_pants" "53"
+"b_skill" "57"
+}
+{
+"classname" "waypoint"
+"origin" "-667.31287 601.9709 196.03125"
+"b_pants" "51"
+"b_skill" "52"
+}
+{
+"classname" "waypoint"
+"origin" "-1888 -936 -235.96875"
+"b_pants" "24"
+"b_aiflags" "256"
+}
+{
+"classname" "waypoint"
+"origin" "-2202.3374 -468.37634 -11.96875"
+"b_pants" "58"
+"b_aiflags" "4096"
+}

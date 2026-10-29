@@ -1,0 +1,94 @@
+# Changelog
+
+- November 2026
+    - Rebuilt on id Software's original Quake source instead of Copper
+    - Dropped Copper's own gameplay changes and HUD
+    - The mod ships its own pak and no longer needs Copper's
+    - Bots follow trails made by the ``trailgen`` tool and give up on stuck goals
+    - ``trailgen`` writes its files into the mod folder and clears old ones
+    - Weapon switching, axe animation and respawn timer fixes
+    - Overheal rots, drowning and fall damage fixes
+    - Option for zombies to die from normal damage in single player
+    - Monster kills and assists count on the single player scoreboard
+    - Pickup message options for health, plus the other ``scarlet_chat_*`` ones
+    - Impulses for best rocket, nail, shot and overall weapon
+- October 2026
+    - Started using Claude to assist with maintaining this mod
+    - Merged Copper v1.30
+    - Random music, with a command to change track
+    - Death counts and assists on the scoreboard
+    - Teammate markers above players (drawn by the HUD mod)
+    - Better bot following in single player
+    - Single player and co-op options: keep progress on death, monster count, speed, damage and powerup drops
+    - Bot team color and skill handicap options
+    - Axe lunge option
+    - Floating powerup icons above players
+    - Bots use a new trail system built by the ``trailgen`` tool
+    - ``trailgen`` comes with the mod and reads maps inside pak files
+    - Bots avoid kill floors, dodge teammates and flee the pentagram
+    - Developer options for bot goals and waypoint links
+    - ``singleplayer`` and ``multiplayer`` console aliases
+- July 2025
+    - Remove death counts to make compatible w/ vkQuake
+- June 2025
+    - Fixed bot priorities to actually pickup dropped powerups
+- February 2024
+    - Add option to make grenades not detonate on touch
+    - Fix death alerts in chat to match axe melee or hand grenade
+    - Make bot priority ranking for powerups customizable in settings
+    - Re-enable melee lunge feature
+    - Add no spam feature to limit chat text
+    - Fix bug w/ nails causing bullet blood gore
+    - Allow armor pickup even at full strength
+- June 2023 - ``v1.4.x``
+    - Added deaths count to scoreboard (assuming you have [HUD](https://github.com/whipowill/quake-mod-hud))
+    - Bots no longer trigger next game from intermission
+    - Melee attack will now spam multiple times when pressed
+    - Number of grenades in a backpack now limited
+    - Fix bug in Perforator damage (my fault)
+    - Add lunge to melee attack (but disabled due to engine [bug](https://github.com/timbergeron/QSS-M/issues/20))
+- May 2023 - ``v1.3.x``
+    - Added new rewards feature on kills
+    - Added new killstreak feature
+    - Weapons will switch to best on empty ammo
+    - Weapons now visibly drop outside the backpack
+    - Added custom weapon loadouts feature
+    - Weapons kick can be customized
+    - Nail speed over 2000 becomes hitscan
+    - Added melee attack and grenade toss
+    - Weapons crates now customizable
+    - Fixed old bug where bots shoot ground
+    - Taught bots how to use grenades
+    - Respawn timer forces timeout
+    - Player corpses stick around for a bit
+    - Made buttons shootable (for ``ultrav``)
+    - Added shield recharge feature
+    - Made hand grenades come from backpacks
+    - Added server/client communcation to use w/ [HUD](https://github.com/whipowill/quake-mod-hud)
+- April 2023 - ``v1.2.x``
+    - Gore system overhauled and is now scalable
+    - Added option to disable weapon autoswitch
+    - Weapon damage now configurable
+    - Weapon bullets-per-shell now configurable
+    - Weapon rate of fire now configurable
+    - Weapon spread now configurable
+    - Weapon projectile speed now configurable
+    - Random bots will now be closer to ``skill``
+    - Thunderbolt range now extended to infinite
+    - Thunderbolt can now have a rate of fire
+    - Upgraded to Copper v1.20
+- August 2022 - ``v1.1.x``
+    - Bots now choose from over 500 random names
+    - Bots now know if they are losing and become depressed
+    - Team bots now report when they pickup important items
+    - Bots can now teleport to your location in coop
+    - Added nametags, footsteps, and gore
+- July 2022 - ``v1.0.x``
+    - Merged FrikBot w/ Copper v1.19
+    - Bots ``skill`` now scales linearly from ``0`` to ``3``
+    - Bots can now be spawned w/ random ``skill`` levels
+    - Bots no longer crowd together in team games
+    - Bots no longer spam teleporters repeatedly
+    - Bots now wear proper team color in coop games
+    - Bots now recover from fool's errand more quickly
+    - Added item respawn for singleplayer and coop
