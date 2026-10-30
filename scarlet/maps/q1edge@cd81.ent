@@ -1,4 +1,4 @@
-// trailgen v23 bsp=eacf2c5997e6c34dde47982a25bb7c4d61de4e5b1e668421b9c2b669afc9b46a step=256 lift=12
+// trailgen v25 bsp=eacf2c5997e6c34dde47982a25bb7c4d61de4e5b1e668421b9c2b669afc9b46a step=256 lift=12
 // 256 waypoints, 12 spawns, 3 teleporters, 2 plats, 4 rocket jumps
 {
 "message" "The Edge Conversion"

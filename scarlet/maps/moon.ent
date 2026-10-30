@@ -1,4 +1,4 @@
-// trailgen v23 bsp=ce6ce9ea2407f087ca7ceb4741eef022ce212c7da9c63b415da54e4d3faf3206 step=256 lift=12
+// trailgen v25 bsp=ce6ce9ea2407f087ca7ceb4741eef022ce212c7da9c63b415da54e4d3faf3206 step=256 lift=12
 // 208 waypoints, 10 spawns, 4 teleporters, 0 plats, 1 rocket jumps, 2 kill zones avoided
 {
 "_anglescale" "0.75"

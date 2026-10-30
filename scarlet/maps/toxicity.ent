@@ -1,4 +1,4 @@
-// trailgen v23 bsp=12ff4b8b1a7ff8aa2f177ca69966146951af183e525f8670029e6d7b2a8bc85a step=256 lift=12
+// trailgen v25 bsp=12ff4b8b1a7ff8aa2f177ca69966146951af183e525f8670029e6d7b2a8bc85a step=256 lift=12
 // 111 waypoints, 8 spawns, 2 teleporters, 0 plats, 2 rocket jumps
 {
 "_sun_mangle" "270 -85"

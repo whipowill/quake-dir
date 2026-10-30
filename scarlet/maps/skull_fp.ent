@@ -1,5 +1,5 @@
-// trailgen v23 bsp=86f0786d71e12c8de5f7338ba918157cad744b30b58998407f1f91a471d21b11 step=256 lift=12
-// 104 waypoints, 9 spawns, 3 teleporters, 0 plats, 4 rocket jumps, 4 kill zones avoided
+// trailgen v25 bsp=86f0786d71e12c8de5f7338ba918157cad744b30b58998407f1f91a471d21b11 step=256 lift=12
+// 104 waypoints, 9 spawns, 3 teleporters, 0 plats, 4 rocket jumps, 2 shut doors treated as walls, 4 kill zones avoided
 {
 "_bounce" "1"
 "_generator" "J.A.C.K. 1.1.1064 (vpQuake)"

@@ -1,5 +1,5 @@
-// trailgen v23 bsp=40447b5a401edb6875abe927f10cfed2f96f6a3e8be69ef62a8ae193bf3326f0 step=256 lift=12
-// 156 waypoints, 10 spawns, 5 teleporters, 4 plats, 0 rocket jumps
+// trailgen v25 bsp=40447b5a401edb6875abe927f10cfed2f96f6a3e8be69ef62a8ae193bf3326f0 step=256 lift=12
+// 144 waypoints, 10 spawns, 5 teleporters, 4 plats, 0 rocket jumps, 15 shut doors treated as walls
 {
 "message" "the Installation"
 "sounds" "6"
@@ -962,6 +962,7 @@
 {
 "origin" "456 1568 176"
 "classname" "weapon_supershotgun"
+"trail_skip" "1"
 }
 {
 "origin" "256 416 0"
@@ -1541,6 +1542,7 @@
 {
 "origin" "1360 544 -16"
 "classname" "weapon_nailgun"
+"trail_skip" "1"
 }
 {
 "targetname" "t42"
@@ -1606,7 +1608,6 @@
 "spawnflags" "1"
 "origin" "952 1976 0"
 "classname" "item_shells"
-"trail_skip" "1"
 }
 {
 "targetname" "t43"
@@ -2569,19 +2570,20 @@
 {
 "classname" "waypoint"
 "origin" "-64 88 -27.96875"
-"b_pants" "61"
+"b_pants" "60"
 }
 {
 "classname" "waypoint"
 "origin" "2032 1136 68.03125"
-"b_pants" "49"
+"b_pants" "48"
 "b_skill" "63"
 }
 {
 "classname" "waypoint"
 "origin" "1744 672 260.03125"
-"b_pants" "64"
-"b_skill" "107"
+"b_pants" "58"
+"b_skill" "64"
+"b_shirt" "102"
 }
 {
 "classname" "waypoint"
@@ -2593,7 +2595,6 @@
 "classname" "waypoint"
 "origin" "832 1576 196.03125"
 "b_pants" "31"
-"b_skill" "39"
 }
 {
 "classname" "waypoint"
@@ -2611,19 +2612,20 @@
 "classname" "waypoint"
 "origin" "600 -672 52.03125"
 "b_pants" "10"
-"b_skill" "109"
+"b_skill" "104"
 }
 {
 "classname" "waypoint"
 "origin" "488 -672 52.03125"
 "b_pants" "8"
 "b_skill" "9"
+"b_shirt" "66"
 }
 {
 "classname" "waypoint"
 "origin" "1848 808 -11.96875"
-"b_pants" "48"
-"b_skill" "67"
+"b_pants" "47"
+"b_skill" "68"
 }
 {
 "classname" "waypoint"
@@ -2635,54 +2637,54 @@
 {
 "classname" "waypoint"
 "origin" "1216 416 148.03125"
-"b_pants" "53"
+"b_pants" "51"
 }
 {
 "classname" "waypoint"
 "origin" "1984 224 148.03125"
 "b_pants" "37"
-"b_skill" "106"
-"b_shirt" "156"
+"b_skill" "101"
+"b_shirt" "144"
 }
 {
 "classname" "waypoint"
 "origin" "1664 -128 148.03125"
 "b_pants" "36"
-"b_skill" "43"
-"b_shirt" "91"
+"b_skill" "42"
+"b_shirt" "90"
 }
 {
 "classname" "waypoint"
 "origin" "1544 248 4.03125"
-"b_pants" "48"
-"b_skill" "71"
-"b_shirt" "125"
+"b_pants" "47"
+"b_skill" "72"
+"b_shirt" "121"
 }
 {
 "classname" "waypoint"
 "origin" "976 1888 45"
 "b_pants" "18"
-"b_skill" "73"
+"b_skill" "74"
 "b_aiflags" "1024"
 }
 {
 "classname" "waypoint"
 "origin" "976 1888 163"
 "b_pants" "17"
-"b_skill" "74"
+"b_skill" "75"
 }
 {
 "classname" "waypoint"
 "origin" "1056 1968 173"
 "b_pants" "20"
-"b_skill" "74"
+"b_skill" "75"
 "b_aiflags" "1024"
 }
 {
 "classname" "waypoint"
 "origin" "1056 1968 291"
 "b_pants" "19"
-"b_skill" "144"
+"b_skill" "136"
 }
 {
 "classname" "waypoint"
@@ -2694,8 +2696,8 @@
 "classname" "waypoint"
 "origin" "352 -192 35"
 "b_pants" "21"
-"b_skill" "128"
-"b_shirt" "133"
+"b_skill" "122"
+"b_shirt" "126"
 }
 {
 "classname" "waypoint"
@@ -2713,7 +2715,7 @@
 "classname" "waypoint"
 "origin" "2024 -288 4.03125"
 "b_pants" "27"
-"b_skill" "155"
+"b_skill" "143"
 }
 {
 "classname" "waypoint"
@@ -2730,18 +2732,18 @@
 "classname" "waypoint"
 "origin" "1728 656 148.03125"
 "b_pants" "78"
-"b_skill" "113"
+"b_skill" "107"
 }
 {
 "classname" "waypoint"
 "origin" "1832 576 260.03125"
-"b_pants" "107"
-"b_skill" "119"
+"b_pants" "102"
+"b_skill" "115"
 }
 {
 "classname" "waypoint"
 "origin" "1008 352 -219.96875"
-"b_pants" "68"
+"b_pants" "69"
 }
 {
 "classname" "waypoint"
@@ -2763,12 +2765,12 @@
 {
 "classname" "waypoint"
 "origin" "560 1416 -59.96875"
-"b_pants" "115"
+"b_pants" "109"
 }
 {
 "classname" "waypoint"
 "origin" "1616 1088 68.03125"
-"b_pants" "66"
+"b_pants" "67"
 "b_skill" "83"
 }
 {
@@ -2783,40 +2785,34 @@
 "classname" "waypoint"
 "origin" "1968 32 148.03125"
 "b_pants" "14"
-"b_skill" "43"
-"b_shirt" "118"
+"b_skill" "42"
+"b_shirt" "114"
 }
 {
 "classname" "waypoint"
 "origin" "1184 64 148.03125"
 "b_pants" "36"
-"b_skill" "51"
-"b_shirt" "116"
-"b_frags" "117"
-}
-{
-"classname" "waypoint"
-"origin" "456 1568 212.03125"
-"b_pants" "6"
+"b_skill" "49"
+"b_shirt" "110"
+"b_frags" "111"
 }
 {
 "classname" "waypoint"
 "origin" "256 416 36.03125"
-"b_pants" "41"
-"b_skill" "89"
-"b_shirt" "151"
+"b_pants" "40"
+"b_skill" "112"
 }
 {
 "classname" "waypoint"
 "origin" "256 544 36.03125"
-"b_pants" "40"
-"b_skill" "90"
+"b_pants" "39"
+"b_skill" "89"
 }
 {
 "classname" "waypoint"
 "origin" "144 1088 36.03125"
-"b_pants" "90"
-"b_skill" "127"
+"b_pants" "113"
+"b_skill" "134"
 }
 {
 "classname" "waypoint"
@@ -2834,22 +2830,21 @@
 {
 "classname" "waypoint"
 "origin" "560 200 -59.96875"
-"b_pants" "62"
-"b_skill" "120"
+"b_pants" "61"
+"b_skill" "99"
+"b_shirt" "116"
 }
 {
 "classname" "waypoint"
 "origin" "1232 304 4.03125"
-"b_pants" "47"
-"b_skill" "93"
-"b_shirt" "123"
+"b_pants" "46"
+"b_skill" "92"
+"b_shirt" "119"
 }
 {
 "classname" "waypoint"
 "origin" "832 216 36.03125"
-"b_pants" "46"
-"b_skill" "94"
-"b_shirt" "153"
+"b_pants" "45"
 }
 {
 "classname" "waypoint"
@@ -2865,21 +2860,16 @@
 }
 {
 "classname" "waypoint"
-"origin" "1360 544 20.03125"
-"b_pants" "126"
-}
-{
-"classname" "waypoint"
 "origin" "1208 552 148.03125"
 "b_pants" "38"
-"b_skill" "69"
+"b_skill" "70"
 "b_shirt" "76"
 }
 {
 "classname" "waypoint"
 "origin" "1176 448 148.03125"
 "b_pants" "13"
-"b_skill" "69"
+"b_skill" "70"
 "b_shirt" "85"
 }
 {
@@ -2888,44 +2878,47 @@
 "b_pants" "13"
 "b_skill" "38"
 "b_shirt" "85"
-"b_frags" "95"
+"b_frags" "93"
 }
 {
 "classname" "waypoint"
 "origin" "472 1608 36.03125"
-"b_pants" "55"
+"b_pants" "53"
 }
 {
 "classname" "waypoint"
 "origin" "472 1504 36.03125"
-"b_pants" "54"
-"b_skill" "96"
+"b_pants" "52"
+"b_skill" "94"
+}
+{
+"classname" "waypoint"
+"origin" "952 1976 36.03125"
+"b_pants" "74"
 }
 {
 "classname" "waypoint"
 "origin" "1056 -400 12.03125"
-"b_pants" "97"
-"b_skill" "108"
-}
-{
-"classname" "waypoint"
-"origin" "1432 632 260.03125"
-"b_pants" "58"
-"b_skill" "59"
-"b_shirt" "156"
-}
-{
-"classname" "waypoint"
-"origin" "1512 616 260.03125"
-"b_pants" "101"
+"b_pants" "95"
 "b_skill" "103"
 }
 {
 "classname" "waypoint"
+"origin" "1432 632 260.03125"
+"b_pants" "57"
+"b_skill" "58"
+"b_shirt" "144"
+}
+{
+"classname" "waypoint"
+"origin" "1512 616 260.03125"
+"b_pants" "98"
+}
+{
+"classname" "waypoint"
 "origin" "1320 616 260.03125"
-"b_pants" "50"
-"b_skill" "57"
-"b_shirt" "102"
+"b_pants" "4"
+"b_skill" "56"
 }
 {
 "classname" "waypoint"
@@ -2941,39 +2934,50 @@
 {
 "classname" "waypoint"
 "origin" "576 -144 36.03125"
-"b_pants" "45"
-"b_skill" "98"
-"b_shirt" "132"
-"b_frags" "133"
+"b_pants" "44"
+"b_skill" "95"
+"b_shirt" "125"
+"b_frags" "126"
+}
+{
+"classname" "waypoint"
+"origin" "-64 344 4.03125"
+"b_pants" "60"
 }
 {
 "classname" "waypoint"
 "origin" "1952.0553 1227.4307 68.03125"
-"b_pants" "110"
+"b_pants" "105"
 }
 {
 "classname" "waypoint"
 "origin" "1684.1569 635.3883 260.03125"
-"b_pants" "103"
+"b_pants" "98"
 }
 {
 "classname" "waypoint"
 "origin" "582.58295 -499.80258 20.03125"
-"b_pants" "109"
-"b_skill" "130"
+"b_pants" "104"
+"b_skill" "124"
+}
+{
+"classname" "waypoint"
+"origin" "525.9425 -576.44165 36.03125"
+"b_pants" "10"
+"b_skill" "65"
 }
 {
 "classname" "waypoint"
 "origin" "1678.6542 786.0186 4.03125"
 "b_pants" "35"
-"b_skill" "67"
+"b_skill" "68"
 }
 {
 "classname" "waypoint"
 "origin" "1811.1969 759.5748 -11.96875"
 "b_pants" "11"
-"b_skill" "66"
-"b_shirt" "105"
+"b_skill" "67"
+"b_shirt" "100"
 }
 {
 "classname" "waypoint"
@@ -2983,19 +2987,19 @@
 {
 "classname" "waypoint"
 "origin" "1217.3569 498.7796 148.03125"
-"b_pants" "51"
-"b_skill" "52"
+"b_pants" "49"
+"b_skill" "50"
 }
 {
 "classname" "waypoint"
 "origin" "1427.4863 4.8647547 4.03125"
-"b_pants" "48"
-"b_skill" "123"
+"b_pants" "47"
+"b_skill" "119"
 }
 {
 "classname" "waypoint"
 "origin" "1544 94.399994 4.03125"
-"b_pants" "93"
+"b_pants" "92"
 }
 {
 "classname" "waypoint"
@@ -3004,9 +3008,9 @@
 }
 {
 "classname" "waypoint"
-"origin" "976 1612.0708 36.03125"
+"origin" "970.799 1958.8834 36.03125"
 "b_pants" "17"
-"b_skill" "112"
+"b_skill" "54"
 }
 {
 "classname" "waypoint"
@@ -3017,16 +3021,11 @@
 }
 {
 "classname" "waypoint"
-"origin" "272.86176 -166.90126 -91.96875"
-"b_pants" "21"
-}
-{
-"classname" "waypoint"
 "origin" "1218.6959 672 148.03125"
 "b_pants" "5"
 "b_skill" "23"
 "b_shirt" "33"
-"b_frags" "51"
+"b_frags" "49"
 }
 {
 "classname" "waypoint"
@@ -3037,7 +3036,7 @@
 "classname" "waypoint"
 "origin" "1754.8213 442.30954 148.03125"
 "b_pants" "28"
-"b_skill" "60"
+"b_skill" "59"
 }
 {
 "classname" "waypoint"
@@ -3048,7 +3047,7 @@
 "classname" "waypoint"
 "origin" "1175.5164 1576.5935 196.03125"
 "b_pants" "32"
-"b_skill" "140"
+"b_skill" "132"
 }
 {
 "classname" "waypoint"
@@ -3064,18 +3063,18 @@
 "classname" "waypoint"
 "origin" "1686.2941 1147.4779 68.03125"
 "b_pants" "35"
-"b_skill" "49"
+"b_skill" "48"
 }
 {
 "classname" "waypoint"
 "origin" "1463.3568 -72.64325 148.03125"
-"b_pants" "70"
+"b_pants" "71"
 }
 {
 "classname" "waypoint"
 "origin" "1317.2202 -125.433136 148.03125"
 "b_pants" "36"
-"b_skill" "52"
+"b_skill" "50"
 }
 {
 "classname" "waypoint"
@@ -3085,24 +3084,17 @@
 {
 "classname" "waypoint"
 "origin" "202.47574 449.61993 36.03125"
-"b_pants" "40"
+"b_pants" "39"
 }
 {
 "classname" "waypoint"
 "origin" "-28.112299 397.1959 4.03125"
-"b_pants" "61"
-"b_skill" "87"
+"b_pants" "87"
 }
 {
 "classname" "waypoint"
 "origin" "378.70703 544 36.03125"
-"b_pants" "88"
-}
-{
-"classname" "waypoint"
-"origin" "171.38342 1024.6432 36.03125"
 "b_pants" "41"
-"b_skill" "42"
 }
 {
 "classname" "waypoint"
@@ -3113,73 +3105,55 @@
 {
 "classname" "waypoint"
 "origin" "457.159 308.93088 -59.96875"
-"b_pants" "121"
+"b_pants" "117"
 }
 {
 "classname" "waypoint"
 "origin" "1232 48 4.03125"
-"b_pants" "46"
-"b_skill" "72"
-}
-{
-"classname" "waypoint"
-"origin" "772.1272 452.51318 36.03125"
-"b_pants" "47"
-"b_skill" "126"
+"b_pants" "45"
+"b_skill" "73"
 }
 {
 "classname" "waypoint"
 "origin" "1214.0787 245.22038 148.03125"
-"b_pants" "122"
+"b_pants" "118"
 }
 {
 "classname" "waypoint"
 "origin" "442.92868 1439.8512 36.03125"
-"b_pants" "55"
-"b_skill" "127"
+"b_pants" "53"
+"b_skill" "134"
 }
 {
 "classname" "waypoint"
 "origin" "1069.563 -248.417 4.03125"
 "b_pants" "22"
-"b_skill" "46"
-"b_shirt" "62"
-}
-{
-"classname" "waypoint"
-"origin" "874.98047 -218.98053 12.03125"
-"b_pants" "100"
+"b_skill" "45"
+"b_shirt" "61"
+"b_frags" "120"
 }
 {
 "classname" "waypoint"
 "origin" "942.8021 -326.13776 12.03125"
-"b_pants" "104"
+"b_pants" "97"
+"b_skill" "99"
 }
 {
 "classname" "waypoint"
 "origin" "976.1178 -431.8778 20.03125"
-"b_pants" "108"
-}
-{
-"classname" "waypoint"
-"origin" "1468.6261 686.84515 260.03125"
-"b_pants" "57"
-}
-{
-"classname" "waypoint"
-"origin" "1382.8173 694.1961 260.03125"
-"b_pants" "131"
+"b_pants" "103"
 }
 {
 "classname" "waypoint"
 "origin" "1594.7798 638.7139 260.03125"
-"b_pants" "58"
+"b_pants" "57"
 "b_skill" "79"
 }
 {
 "classname" "waypoint"
 "origin" "572.74945 -63.114006 36.03125"
-"b_pants" "62"
+"b_pants" "44"
+"b_skill" "96"
 }
 {
 "classname" "waypoint"
@@ -3189,7 +3163,7 @@
 {
 "classname" "waypoint"
 "origin" "1955.1332 544.00555 148.03125"
-"b_pants" "113"
+"b_pants" "107"
 }
 {
 "classname" "waypoint"
@@ -3200,20 +3174,21 @@
 {
 "classname" "waypoint"
 "origin" "550.8604 -513.2465 20.03125"
-"b_pants" "56"
-"b_skill" "109"
+"b_pants" "55"
+"b_skill" "66"
+"b_shirt" "104"
 }
 {
 "classname" "waypoint"
 "origin" "567.4069 -568.3952 36.03125"
 "b_pants" "9"
 "b_skill" "65"
-"b_shirt" "108"
+"b_shirt" "103"
 }
 {
 "classname" "waypoint"
 "origin" "1640.1998 849.17224 20.03125"
-"b_pants" "66"
+"b_pants" "67"
 }
 {
 "classname" "waypoint"
@@ -3222,16 +3197,10 @@
 }
 {
 "classname" "waypoint"
-"origin" "832.0758 1580.6265 36.03125"
-"b_pants" "73"
-"b_skill" "138"
-}
-{
-"classname" "waypoint"
 "origin" "1763.6378 577.44916 148.03125"
 "b_pants" "28"
-"b_skill" "135"
-"b_shirt" "136"
+"b_skill" "128"
+"b_shirt" "129"
 }
 {
 "classname" "waypoint"
@@ -3241,17 +3210,27 @@
 {
 "classname" "waypoint"
 "origin" "400.51404 1418.8219 -59.96875"
-"b_pants" "146"
+"b_pants" "138"
 }
 {
 "classname" "waypoint"
 "origin" "1221.5144 -13.863068 148.03125"
-"b_pants" "93"
+"b_pants" "92"
 }
 {
 "classname" "waypoint"
 "origin" "1222.6783 172.61157 148.03125"
-"b_pants" "137"
+"b_pants" "130"
+}
+{
+"classname" "waypoint"
+"origin" "63.356766 449.35696 20.03125"
+"b_pants" "62"
+}
+{
+"classname" "waypoint"
+"origin" "307.84457 1382.5388 36.03125"
+"b_pants" "94"
 }
 {
 "classname" "waypoint"
@@ -3262,29 +3241,29 @@
 {
 "classname" "waypoint"
 "origin" "1805.004 484.57678 260.03125"
-"b_pants" "44"
+"b_pants" "43"
 }
 {
 "classname" "waypoint"
 "origin" "699.5408 341.5598 -59.96875"
-"b_pants" "147"
+"b_pants" "139"
 }
 {
 "classname" "waypoint"
 "origin" "494.41486 263.35977 -59.96875"
-"b_pants" "45"
+"b_pants" "44"
 }
 {
 "classname" "waypoint"
 "origin" "1213.4246 240.64319 4.03125"
-"b_pants" "46"
+"b_pants" "45"
 }
 {
 "classname" "waypoint"
 "origin" "1213.2343 104.78722 4.03125"
-"b_pants" "46"
-"b_skill" "128"
-"b_shirt" "132"
+"b_pants" "45"
+"b_skill" "122"
+"b_shirt" "125"
 }
 {
 "classname" "waypoint"
@@ -3294,25 +3273,13 @@
 {
 "classname" "waypoint"
 "origin" "1195.6952 2.4624615 4.03125"
-"b_pants" "129"
-"b_skill" "134"
-}
-{
-"classname" "waypoint"
-"origin" "1021.2202 545.35693 20.03125"
-"b_pants" "50"
-"b_skill" "94"
-}
-{
-"classname" "waypoint"
-"origin" "359.58536 1409.6973 36.03125"
-"b_pants" "42"
-"b_skill" "96"
+"b_pants" "123"
+"b_skill" "127"
 }
 {
 "classname" "waypoint"
 "origin" "811.62366 -155.62378 28.03125"
-"b_pants" "56"
+"b_pants" "55"
 }
 {
 "classname" "waypoint"
@@ -3322,31 +3289,25 @@
 {
 "classname" "waypoint"
 "origin" "923.8776 -439.80444 20.03125"
-"b_pants" "99"
-"b_skill" "124"
-}
-{
-"classname" "waypoint"
-"origin" "1361.078 869.0669 228.03125"
-"b_pants" "152"
+"b_pants" "96"
+"b_skill" "120"
 }
 {
 "classname" "waypoint"
 "origin" "728.9568 -193.35696 36.03125"
-"b_pants" "62"
-"b_skill" "123"
+"b_pants" "61"
+"b_skill" "119"
 }
 {
 "classname" "waypoint"
 "origin" "423.04315 -193.35696 36.03125"
 "b_pants" "22"
-"b_skill" "62"
-"b_shirt" "124"
+"b_skill" "61"
 }
 {
 "classname" "waypoint"
 "origin" "556.9621 -249.22726 36.03125"
-"b_pants" "133"
+"b_pants" "61"
 }
 {
 "classname" "waypoint"
@@ -3356,8 +3317,8 @@
 {
 "classname" "waypoint"
 "origin" "1961.9365 573.168 148.03125"
-"b_pants" "113"
-"b_skill" "156"
+"b_pants" "107"
+"b_skill" "144"
 }
 {
 "classname" "waypoint"
@@ -3366,103 +3327,77 @@
 }
 {
 "classname" "waypoint"
-"origin" "800 1522.5116 36.03125"
-"b_pants" "112"
-"b_skill" "153"
-}
-{
-"classname" "waypoint"
 "origin" "1257.5577 1956.6707 292.03125"
-"b_pants" "140"
-"b_skill" "144"
+"b_pants" "132"
+"b_skill" "136"
 }
 {
 "classname" "waypoint"
 "origin" "1272.643 1648.5371 228.03125"
 "b_pants" "80"
-"b_skill" "139"
+"b_skill" "131"
 }
 {
 "classname" "waypoint"
 "origin" "237.80887 1238.0609 -59.96875"
-"b_pants" "154"
+"b_pants" "142"
+}
+{
+"classname" "waypoint"
+"origin" "201.77673 1240.6531 36.03125"
+"b_pants" "40"
+"b_skill" "41"
 }
 {
 "classname" "waypoint"
 "origin" "1372.5767 583.1591 -252.22595"
-"b_pants" "111"
-}
-{
-"classname" "waypoint"
-"origin" "806.87897 1416.5112 36.03125"
-"b_pants" "138"
+"b_pants" "106"
 }
 {
 "classname" "waypoint"
 "origin" "1165.8634 1969.0056 292.03125"
 "b_pants" "20"
-"b_skill" "139"
+"b_skill" "131"
 }
 {
 "classname" "waypoint"
 "origin" "935.91846 1214.9658 -59.96875"
-"b_pants" "114"
+"b_pants" "108"
 }
 {
 "classname" "waypoint"
 "origin" "344.2236 1323.7635 -59.96875"
-"b_pants" "141"
+"b_pants" "133"
 }
 {
 "classname" "waypoint"
 "origin" "740.98096 684.8108 -59.96875"
-"b_pants" "150"
+"b_pants" "141"
 }
 {
 "classname" "waypoint"
 "origin" "411.98834 682.9892 -59.96875"
-"b_pants" "92"
-}
-{
-"classname" "waypoint"
-"origin" "1061.9491 1025.6298 36.03125"
-"b_pants" "143"
+"b_pants" "91"
 }
 {
 "classname" "waypoint"
 "origin" "951.63525 937.3218 -59.96875"
-"b_pants" "145"
-}
-{
-"classname" "waypoint"
-"origin" "262.6785 -57.026337 36.03125"
-"b_pants" "75"
-}
-{
-"classname" "waypoint"
-"origin" "1304.5237 1024.4075 68.03125"
-"b_pants" "149"
-}
-{
-"classname" "waypoint"
-"origin" "981.39984 1136.4752 36.03125"
-"b_pants" "47"
-"b_skill" "138"
+"b_pants" "137"
 }
 {
 "classname" "waypoint"
 "origin" "211.60352 917.57526 -59.96875"
-"b_pants" "148"
+"b_pants" "140"
 }
 {
 "classname" "waypoint"
 "origin" "1939.5669 -106.918106 -246.14633"
-"b_pants" "142"
+"b_pants" "135"
 }
 {
 "classname" "waypoint"
 "origin" "2000 672 148.03125"
 "b_pants" "14"
-"b_skill" "57"
-"b_shirt" "136"
+"b_skill" "56"
+"b_shirt" "129"
 }

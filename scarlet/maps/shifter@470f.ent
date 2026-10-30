@@ -1,4 +1,4 @@
-// trailgen v23 bsp=b48ab3f2ca80c1fa05c038b175eec73b31d21e0a54953405ed50f4d1b6602729 step=256 lift=12
+// trailgen v25 bsp=b48ab3f2ca80c1fa05c038b175eec73b31d21e0a54953405ed50f4d1b6602729 step=256 lift=12
 // 135 waypoints, 7 spawns, 2 teleporters, 0 plats, 2 rocket jumps
 {
 "classname" "worldspawn"

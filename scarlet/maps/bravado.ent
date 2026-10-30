@@ -1,4 +1,4 @@
-// trailgen v23 bsp=5f382d591ef5080322c4f8a2da07b22795c66104a7b9a2baccd4e72789d0789d step=256 lift=12
+// trailgen v25 bsp=5f382d591ef5080322c4f8a2da07b22795c66104a7b9a2baccd4e72789d0789d step=256 lift=12
 // 118 waypoints, 9 spawns, 2 teleporters, 1 plats, 2 rocket jumps
 {
 "_bounce" "1"

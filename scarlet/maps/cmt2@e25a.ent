@@ -1,5 +1,5 @@
-// trailgen v23 bsp=23fb84127be01edd5f72bb28a9afc84fe63a930acb81b9571650714c56077a17 step=256 lift=12
-// 160 waypoints, 11 spawns, 2 teleporters, 0 plats, 1 rocket jumps
+// trailgen v25 bsp=23fb84127be01edd5f72bb28a9afc84fe63a930acb81b9571650714c56077a17 step=256 lift=12
+// 160 waypoints, 11 spawns, 2 teleporters, 0 plats, 1 rocket jumps, 1 shut doors treated as walls
 {
 "classname" "worldspawn"
 "sounds" "1"
