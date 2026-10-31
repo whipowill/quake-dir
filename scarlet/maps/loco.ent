@@ -1,5 +1,5 @@
-// trailgen v25 bsp=b1ccfd754648024a5cce52efa7ed5f62207592d6eb47950589b5e40f7e91063b step=256 lift=12
-// 123 waypoints, 7 spawns, 0 teleporters, 0 plats, 0 rocket jumps
+// trailgen v27 bsp=b1ccfd754648024a5cce52efa7ed5f62207592d6eb47950589b5e40f7e91063b step=256 lift=12
+// 123 waypoints, 7 spawns, 0 teleporters, 0 plats, 0 rocket jumps, floor 1668096 square units (about 11584 sq ft)
 {
 "_anglescale" "0.75"
 "_bounce" "1"
@@ -9,6 +9,7 @@
 "classname" "worldspawn"
 "message" "Loco - by alice"
 "wad" "C:/QuakeDev/wads/terran.wad;C:/QuakeDev/wads/mak_for_loco.wad;C:/QuakeDev/wads/mak_for_locoDRk.wad;C:/QuakeDev/wads/zerg.wad"
+"floor_area" "1668096"
 }
 {
 "angle" "90"

@@ -1,11 +1,12 @@
-// trailgen v25 bsp=156d955b0e5d375652e9a7de13266bc0b1ead86a85bbf68099fc0a55ed3f6f75 step=256 lift=12
-// 120 waypoints, 7 spawns, 3 teleporters, 0 plats, 0 rocket jumps
+// trailgen v27 bsp=156d955b0e5d375652e9a7de13266bc0b1ead86a85bbf68099fc0a55ed3f6f75 step=256 lift=12
+// 120 waypoints, 7 spawns, 3 teleporters, 0 plats, 0 rocket jumps, floor 1848576 square units (about 12837 sq ft)
 {
 "_dirt" "1"
 "_sunlight" "75"
 "classname" "worldspawn"
 "message" "Nova - by alice"
 "wad" "C:/QuakeDev/wads/lucid.wad;C:/QuakeDev/wads/tekno.wad;C:/QuakeDev/wads/chute_b3_1.wad;C:/QuakeDev/wads/liquids.wad"
+"floor_area" "1848576"
 }
 {
 "classname" "item_armor2"

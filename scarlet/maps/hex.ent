@@ -1,11 +1,12 @@
-// trailgen v25 bsp=0e8e4cf2f80f74942a076eaf2bdac135ea8d4373bfa9915301e5177c98fd308e step=256 lift=12
-// 184 waypoints, 10 spawns, 3 teleporters, 1 plats, 1 rocket jumps
+// trailgen v27 bsp=0e8e4cf2f80f74942a076eaf2bdac135ea8d4373bfa9915301e5177c98fd308e step=256 lift=12
+// 184 waypoints, 10 spawns, 3 teleporters, 1 plats, 1 rocket jumps, floor 2788352 square units (about 19364 sq ft)
 {
 "_dirt" "1"
 "_sunlight" "55"
 "classname" "worldspawn"
 "message" "HEX - by Alice Soderlund"
 "wad" "C:/QuakeDev/wads/dm4.wad;C:/QuakeDev/wads/dm2.wad;C:/QuakeDev/wads/liquids.wad;C:/QuakeDev/wads/mythtex01.wad;C:/QuakeDev/wads/mrc_tex4.wad;C:/QuakeDev/wads/q3test.wad;C:/QuakeDev/wads/e1m2.wad;C:/QuakeDev/wads/q1q3toxicity.wad;C:/QuakeDev/wads/chicosruin_Q1.wad;C:/QuakeDev/wads/alice.wad"
+"floor_area" "2788352"
 }
 {
 "classname" "info_player_start"

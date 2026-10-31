@@ -1,5 +1,5 @@
-// trailgen v25 bsp=9f9edf82e0219a312dde2bd2a14f263f99bfc55b4c05b769cc0ea6c924b40a13 step=256 lift=12
-// 223 waypoints, 7 spawns, 0 teleporters, 0 plats, 2 rocket jumps
+// trailgen v27 bsp=9f9edf82e0219a312dde2bd2a14f263f99bfc55b4c05b769cc0ea6c924b40a13 step=256 lift=12
+// 223 waypoints, 7 spawns, 0 teleporters, 0 plats, 2 rocket jumps, floor 1833216 square units (about 12731 sq ft)
 {
 "_anglescale" "0.75"
 "_bounce" "1"
@@ -8,6 +8,7 @@
 "classname" "worldspawn"
 "message" "Terran sector - by alice"
 "wad" "C:/QuakeDev/wads/terran.wad;C:/QuakeDev/wads/zerg.wad;C:/QuakeDev/wads/fabrik.wad"
+"floor_area" "1833216"
 }
 {
 "angle" "180"

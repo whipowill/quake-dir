@@ -1,5 +1,5 @@
-// trailgen v25 bsp=9409f0804b91bf8d38cb1c8cf317feb8e5d3d2b64eab4cc3cbb4ab54f52e28f0 step=256 lift=12
-// 195 waypoints, 9 spawns, 2 teleporters, 1 plats, 1 rocket jumps
+// trailgen v27 bsp=9409f0804b91bf8d38cb1c8cf317feb8e5d3d2b64eab4cc3cbb4ab54f52e28f0 step=256 lift=12
+// 195 waypoints, 9 spawns, 2 teleporters, 1 plats, 1 rocket jumps, floor 3910912 square units (about 27159 sq ft)
 {
 "_dirt" "1"
 "_sunlight" "55"
@@ -9,6 +9,7 @@
 "sounds" "1"
 "speed" "10"
 "wad" "C:/QuakeDev/wads/hammerv3.wad;C:/QuakeDev/wads/ava3w.wad;C:/QuakeDev/wads/ztndm3.wad;C:/QuakeDev/wads/bravado.wad;C:/QuakeDev/wads/texttest.wad;C:/QuakeDev/wads/e1m2.wad;C:/QuakeDev/wads/e4m1.wad;C:/QuakeDev/wads/hdn textures/mytextures_wad3.wad;C:/QuakeDev/wads/q1q3toxicity.wad;C:/QuakeDev/wads/banquet_dm_work.wad;C:/QuakeDev/wads/liquids.wad"
+"floor_area" "3910912"
 }
 {
 "classname" "trigger_teleport"

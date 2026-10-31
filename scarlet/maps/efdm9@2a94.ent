@@ -1,5 +1,5 @@
-// trailgen v25 bsp=552a8ad5da33036ad59d49e33cd5f60c78038b495818da028131cfc623999795 step=256 lift=12
-// 121 waypoints, 7 spawns, 4 teleporters, 0 plats, 1 rocket jumps
+// trailgen v27 bsp=552a8ad5da33036ad59d49e33cd5f60c78038b495818da028131cfc623999795 step=256 lift=12
+// 121 waypoints, 7 spawns, 4 teleporters, 0 plats, 1 rocket jumps, floor 2497280 square units (about 17342 sq ft)
 {
 "wad" "Wads\stuff.wad"
 "spawnflags" "0"
@@ -7,6 +7,7 @@
 "sounds" "4"
 "worldtype" "2"
 "classname" "worldspawn"
+"floor_area" "2497280"
 }
 {
 "origin" "160.000000 -136.000000 90.000000"

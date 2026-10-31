@@ -1,11 +1,12 @@
-// trailgen v25 bsp=b0039ac2d4ea83661e0cc7fb769537e25496007d152c2550b18b5f68df5a351f step=256 lift=12
-// 88 waypoints, 7 spawns, 5 teleporters, 0 plats, 3 rocket jumps, 1 shut doors treated as walls
+// trailgen v27 bsp=b0039ac2d4ea83661e0cc7fb769537e25496007d152c2550b18b5f68df5a351f step=256 lift=12
+// 88 waypoints, 7 spawns, 5 teleporters, 0 plats, 3 rocket jumps, floor 1694208 square units (about 11765 sq ft)
 {
 "classname" "worldspawn"
 "worldtype" "2"
 "sounds" "1"
 "light" "0"
 "message" "ŽThe VomitoriumŽ by ztn"
+"floor_area" "1694208"
 }
 {
 "classname" "info_player_start"

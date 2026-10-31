@@ -1,9 +1,10 @@
-// trailgen v25 bsp=d8996eecad07a2075007ec62c534a93d8820b5fea08f5d4fce7be5019beb2f22 step=256 lift=12
-// 92 waypoints, 6 spawns, 4 teleporters, 0 plats, 1 rocket jumps
+// trailgen v27 bsp=d8996eecad07a2075007ec62c534a93d8820b5fea08f5d4fce7be5019beb2f22 step=256 lift=12
+// 92 waypoints, 6 spawns, 4 teleporters, 0 plats, 1 rocket jumps, floor 1324288 square units (about 9196 sq ft)
 {
 "classname" "worldspawn"
 "message" "Aerowalk"
 "wad" "c:\wad\preach.wad"
+"floor_area" "1324288"
 }
 {
 "classname" "info_player_start"

@@ -1,5 +1,5 @@
-// trailgen v25 bsp=eb532e509bdeb49a99f14187b64fadb59fb1aece0246daaf21619a7a0d341789 step=256 lift=12
-// 353 waypoints, 12 spawns, 27 teleporters, 0 plats, 2 rocket jumps, 2 shut doors treated as walls
+// trailgen v27 bsp=eb532e509bdeb49a99f14187b64fadb59fb1aece0246daaf21619a7a0d341789 step=256 lift=12
+// 353 waypoints, 12 spawns, 27 teleporters, 0 plats, 2 rocket jumps, floor 2479104 square units (about 17216 sq ft)
 {
 "classname" "worldspawn"
 "worldtype" "2"
@@ -7,6 +7,7 @@
 "light" "0"
 "message" "Zed II"
 "wad" "d:\wads\quake.wad;d:\wads\q2lites.wad;d:\wads\kingpin.wad;d:\wads\ogro.wad;d:\wads\x.wad;"
+"floor_area" "2479104"
 }
 {
 "classname" "info_teleport_destination"

@@ -1,10 +1,11 @@
-// trailgen v25 bsp=caf3cf6f54d4eb5a22297cf973564f474a398ddfd7cb695bc98741508cee7da7 step=256 lift=12
-// 108 waypoints, 9 spawns, 2 teleporters, 0 plats, 3 rocket jumps, 13 kill zones avoided
+// trailgen v27 bsp=caf3cf6f54d4eb5a22297cf973564f474a398ddfd7cb695bc98741508cee7da7 step=256 lift=12
+// 108 waypoints, 9 spawns, 2 teleporters, 0 plats, 3 rocket jumps, floor 2070016 square units (about 14375 sq ft), 13 kill zones avoided
 {
 "classname" "worldspawn"
 "sounds" "1"
 "light" "30"
 "message" "Skull Hunt\n\nby Zaka\n"
+"floor_area" "2070016"
 }
 {
 "classname" "info_player_start"

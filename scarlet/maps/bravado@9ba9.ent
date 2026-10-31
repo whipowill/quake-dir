@@ -1,5 +1,5 @@
-// trailgen v25 bsp=5f382d591ef5080322c4f8a2da07b22795c66104a7b9a2baccd4e72789d0789d step=256 lift=12
-// 118 waypoints, 9 spawns, 2 teleporters, 1 plats, 2 rocket jumps
+// trailgen v27 bsp=5f382d591ef5080322c4f8a2da07b22795c66104a7b9a2baccd4e72789d0789d step=256 lift=12
+// 118 waypoints, 9 spawns, 2 teleporters, 1 plats, 2 rocket jumps, floor 1639168 square units (about 11383 sq ft)
 {
 "_bounce" "1"
 "_bouncecolorscale" "0.25"
@@ -22,6 +22,7 @@
 "mapversion" "222"
 "message" "Bravado - by foogs [remake]"
 "wad" "bravado.wad"
+"floor_area" "1639168"
 }
 {
 "classname" "trigger_teleport"

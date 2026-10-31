@@ -1,5 +1,5 @@
-// trailgen v25 bsp=9f950f19625db12fb2ccf3e55f4418452f4934580c0aa4743942e4dfb22efa8d step=256 lift=12
-// 174 waypoints, 7 spawns, 3 teleporters, 4 plats, 2 rocket jumps
+// trailgen v27 bsp=9f950f19625db12fb2ccf3e55f4418452f4934580c0aa4743942e4dfb22efa8d step=256 lift=12
+// 174 waypoints, 7 spawns, 3 teleporters, 4 plats, 2 rocket jumps, floor 2753536 square units (about 19122 sq ft)
 {
 "classname" "worldspawn"
 "worldtype" "1"
@@ -7,6 +7,7 @@
 "light" "0"
 "message" "bovinE interventioN"
 "wad" "c:\games\quake\id1\maps\timeless.wad;c:\games\quake\id1\maps\bleh.wad;c:\program files\wo"
+"floor_area" "2753536"
 }
 {
 "classname" "func_plat"

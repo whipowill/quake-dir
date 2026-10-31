@@ -1,10 +1,11 @@
-// trailgen v25 bsp=ada69e2e23763e1c82cb96dc287c73b5726e35995821f56573aa33d0f67237e3 step=256 lift=12
-// 109 waypoints, 7 spawns, 2 teleporters, 0 plats, 0 rocket jumps
+// trailgen v27 bsp=ada69e2e23763e1c82cb96dc287c73b5726e35995821f56573aa33d0f67237e3 step=256 lift=12
+// 109 waypoints, 7 spawns, 2 teleporters, 0 plats, 0 rocket jumps, floor 2196736 square units (about 15255 sq ft)
 {
 "classname" "worldspawn"
 "worldtype" "0"
 "_sunlight" "80"
 "message" "…the…shine…by…úøã…"
+"floor_area" "2196736"
 }
 {
 "classname" "func_illusionary"

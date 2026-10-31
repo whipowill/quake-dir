@@ -1,11 +1,12 @@
-// trailgen v25 bsp=47337dcdb21c045885040564930479b9bec93310b4e124d7bc2baf98847c2067 step=256 lift=12
-// 104 waypoints, 8 spawns, 1 teleporters, 0 plats, 0 rocket jumps
+// trailgen v27 bsp=47337dcdb21c045885040564930479b9bec93310b4e124d7bc2baf98847c2067 step=256 lift=12
+// 104 waypoints, 8 spawns, 1 teleporters, 0 plats, 0 rocket jumps, floor 2611200 square units (about 18133 sq ft)
 {
 "classname" "worldspawn"
 "classname" "worldspawn"
 "message" "èrunningèwildèbyèqurnelè"
 "sounds" "1"
 "wad" "\qstuff\qwads\a\textures.hlwad;\qstuff\qwads\b\q3texpak.hlwad;\qstuff\qwads\b\ukpak3.hlwad;\qstuff\qwads\b\cr8_set.hlwa"
+"floor_area" "2611200"
 }
 {
 "classname" "info_player_start"

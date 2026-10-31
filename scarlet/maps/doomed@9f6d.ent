@@ -1,5 +1,5 @@
-// trailgen v25 bsp=7fd08e759ca19f22a0f8d72bb45520fb549a4fe36ac6000139e44239e6ee38f0 step=256 lift=12
-// 112 waypoints, 7 spawns, 3 teleporters, 0 plats, 5 rocket jumps
+// trailgen v27 bsp=7fd08e759ca19f22a0f8d72bb45520fb549a4fe36ac6000139e44239e6ee38f0 step=256 lift=12
+// 112 waypoints, 7 spawns, 3 teleporters, 0 plats, 5 rocket jumps, floor 1720064 square units (about 11945 sq ft)
 {
 "classname" "worldspawn"
 "worldtype" "2"
@@ -7,6 +7,7 @@
 "light" "10"
 "message" "Doomed\nby Zaka\n\n"
 "wad" "c:\pelit\quake\bsp2wad\doomars3.wad"
+"floor_area" "1720064"
 }
 {
 "classname" "info_player_deathmatch"

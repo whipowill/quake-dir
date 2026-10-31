@@ -1,5 +1,5 @@
-// trailgen v25 bsp=9418dbe56a5c6a80663a76ca986c5b9fdd22448457a05e0d2c7e33aaba65a4c3 step=256 lift=12
-// 107 waypoints, 11 spawns, 5 teleporters, 0 plats, 2 rocket jumps, 1 shut doors treated as walls
+// trailgen v27 bsp=9418dbe56a5c6a80663a76ca986c5b9fdd22448457a05e0d2c7e33aaba65a4c3 step=256 lift=12
+// 107 waypoints, 11 spawns, 5 teleporters, 0 plats, 2 rocket jumps, floor 1649152 square units (about 11452 sq ft)
 {
 "classname" "worldspawn"
 "worldtype" "2"
@@ -7,6 +7,7 @@
 "light" "0"
 "message" "zed‘…âù…vondur‘"
 "wad" "d:\worldcraft 1.6\jf1.wad;d:\worldcraft 1.6\zed.wad;d:\worldcraft 1.6\quake2.wad;d:\world"
+"floor_area" "1649152"
 }
 {
 "classname" "func_illusionary"

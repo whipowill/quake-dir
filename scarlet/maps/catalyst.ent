@@ -1,10 +1,11 @@
-// trailgen v25 bsp=a5fad8c7872c2c400d7aeb4efdb12f7aaf869f48f7514c5e905bff6c3a682c37 step=256 lift=12
-// 97 waypoints, 8 spawns, 0 teleporters, 0 plats, 1 rocket jumps
+// trailgen v27 bsp=a5fad8c7872c2c400d7aeb4efdb12f7aaf869f48f7514c5e905bff6c3a682c37 step=256 lift=12
+// 97 waypoints, 8 spawns, 0 teleporters, 0 plats, 1 rocket jumps, floor 1907712 square units (about 13248 sq ft)
 {
 "classname" "worldspawn"
 "message" "The Catalyst by thct // q1 adaptation by fourier"
 "wad" "../id1/maps/wads/catalyst.wad"
 "worldtype" "0"
+"floor_area" "1907712"
 }
 {
 "angle" "45.0"

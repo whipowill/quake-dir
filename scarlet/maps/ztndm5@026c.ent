@@ -1,9 +1,10 @@
-// trailgen v25 bsp=c3896ded4baa81581f86c29c4cfc5aba6bdcdfa21944f0d6a279c478cc39df26 step=256 lift=12
-// 65 waypoints, 6 spawns, 2 teleporters, 0 plats, 1 rocket jumps
+// trailgen v27 bsp=c3896ded4baa81581f86c29c4cfc5aba6bdcdfa21944f0d6a279c478cc39df26 step=256 lift=12
+// 65 waypoints, 6 spawns, 2 teleporters, 0 plats, 1 rocket jumps, floor 1253632 square units (about 8706 sq ft)
 {
 "classname" "worldspawn"
 "worldtype" "2"
 "message" "Painkiller"
+"floor_area" "1253632"
 }
 {
 "classname" "info_player_start"

@@ -1,11 +1,12 @@
-// trailgen v25 bsp=239e7d81ffd1be6b4bf5fb94668f3100ba0fe27fffe0e6c6f73d7268546cd98f step=256 lift=12
-// 102 waypoints, 9 spawns, 0 teleporters, 1 plats, 4 rocket jumps, 4 kill zones avoided
+// trailgen v27 bsp=239e7d81ffd1be6b4bf5fb94668f3100ba0fe27fffe0e6c6f73d7268546cd98f step=256 lift=12
+// 102 waypoints, 9 spawns, 0 teleporters, 1 plats, 4 rocket jumps, floor 2597120 square units (about 18036 sq ft), 4 kill zones avoided
 {
 "classname" "worldspawn"
 "wad" "uzul.wad;WIZARD.wad;"
 "message" "le voyageur cosmique"
 "_sunlight" "300"
 "_sun_mangle" "60 -70 0"
+"floor_area" "2597120"
 }
 {
 "classname" "item_armorInv"

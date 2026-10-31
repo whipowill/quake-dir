@@ -1,8 +1,9 @@
-// trailgen v25 bsp=22106c181eac1eb19ddebf68122ab1591ba85db20ba129c0ec9179b3d1fd0b38 step=256 lift=12
-// 149 waypoints, 9 spawns, 1 teleporters, 0 plats, 1 rocket jumps
+// trailgen v27 bsp=22106c181eac1eb19ddebf68122ab1591ba85db20ba129c0ec9179b3d1fd0b38 step=256 lift=12
+// 149 waypoints, 9 spawns, 1 teleporters, 0 plats, 1 rocket jumps, floor 2219520 square units (about 15413 sq ft)
 {
 "message" "êp3:aëdomination ú by Pingu"
 "classname" "worldspawn"
+"floor_area" "2219520"
 }
 {
 "origin" "480 -480 -240"

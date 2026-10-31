@@ -1,5 +1,5 @@
-// trailgen v25 bsp=3b714c23830b7291301cda2bc3d6bba5fae812b42c196b1467d85bd8b306bef2 step=256 lift=12
-// 97 waypoints, 9 spawns, 3 teleporters, 1 plats, 3 rocket jumps
+// trailgen v27 bsp=3b714c23830b7291301cda2bc3d6bba5fae812b42c196b1467d85bd8b306bef2 step=256 lift=12
+// 97 waypoints, 9 spawns, 3 teleporters, 1 plats, 3 rocket jumps, floor 1488640 square units (about 10338 sq ft)
 {
 "classname" "worldspawn"
 "angle" "200"
@@ -11,6 +11,7 @@
 "_sun_mangle" "200 -75 0"
 "_sunlight_color" "255 125 95"
 "wad" "c:\pelit\quake\bsp2wad\dadrev2.wad"
+"floor_area" "1488640"
 }
 {
 "classname" "item_armorInv"

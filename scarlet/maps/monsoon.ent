@@ -1,11 +1,12 @@
-// trailgen v25 bsp=65a573656c362099ae94fc186ff26a8d796ff91e5631708bc43bef20de12fe47 step=256 lift=12
-// 242 waypoints, 7 spawns, 1 teleporters, 0 plats, 2 rocket jumps
+// trailgen v27 bsp=65a573656c362099ae94fc186ff26a8d796ff91e5631708bc43bef20de12fe47 step=256 lift=12
+// 242 waypoints, 7 spawns, 1 teleporters, 0 plats, 2 rocket jumps, floor 2113792 square units (about 14679 sq ft)
 {
 "_sunlight_mangle" "270 -60"
 "angle" "90"
 "message" "Monsoon by Lukin (xtn's remix) // Q1 Conversion by Mick // Modification for Thunderdome "
 "classname" "worldspawn"
 "_sunlight" "200"
+"floor_area" "2113792"
 }
 {
 "_color" "200 220 255"

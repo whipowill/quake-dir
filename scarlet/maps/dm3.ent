@@ -1,11 +1,12 @@
-// trailgen v25 bsp=d3af9f9cfb14041d0733301c34a1ea182950873bae12c69fc82d31e83a67fb4a step=256 lift=12
-// 222 waypoints, 7 spawns, 1 teleporters, 3 plats, 5 rocket jumps
+// trailgen v27 bsp=d3af9f9cfb14041d0733301c34a1ea182950873bae12c69fc82d31e83a67fb4a step=256 lift=12
+// 222 waypoints, 7 spawns, 1 teleporters, 3 plats, 5 rocket jumps, floor 4731136 square units (about 32855 sq ft)
 {
 "wad" "gfx/base.wad"
 "classname" "worldspawn"
 "worldtype" "2"
 "sounds" "6"
 "message" "The Abandoned Base"
+"floor_area" "4731136"
 }
 {
 "classname" "light_fluoro"

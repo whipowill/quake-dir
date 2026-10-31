@@ -1,5 +1,5 @@
-// trailgen v25 bsp=c1f250520cb7ac18863c4644f6335e03fa4bc52c6914bbde3e9b5ae8242db48f step=256 lift=12
-// 115 waypoints, 7 spawns, 0 teleporters, 1 plats, 0 rocket jumps
+// trailgen v27 bsp=c1f250520cb7ac18863c4644f6335e03fa4bc52c6914bbde3e9b5ae8242db48f step=256 lift=12
+// 115 waypoints, 7 spawns, 0 teleporters, 1 plats, 0 rocket jumps, floor 2263040 square units (about 15716 sq ft)
 {
 "classname" "worldspawn"
 "sounds" "1"
@@ -8,6 +8,7 @@
 "_sunlight2" "30"
 "_sunlight" "1"
 "wad" "c:\pelit\quake\bsp2wad\painmon1.wad"
+"floor_area" "2263040"
 }
 {
 "classname" "trigger_push"

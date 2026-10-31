@@ -1,5 +1,5 @@
-// trailgen v25 bsp=fb183321bec4d1900442a9bd9d48b2a7a3712fb994c1b35b9f6b1b46ece902f4 step=256 lift=12
-// 129 waypoints, 7 spawns, 3 teleporters, 0 plats, 1 rocket jumps, 2 kill zones avoided
+// trailgen v27 bsp=fb183321bec4d1900442a9bd9d48b2a7a3712fb994c1b35b9f6b1b46ece902f4 step=256 lift=12
+// 129 waypoints, 7 spawns, 3 teleporters, 0 plats, 1 rocket jumps, floor 2134784 square units (about 14825 sq ft), 2 kill zones avoided
 {
 "_anglescale" "0.75"
 "_bounce" "1"
@@ -11,6 +11,7 @@
 "classname" "worldspawn"
 "message" "Lala Luna … by alice"
 "wad" "C:/QuakeDev/wads/tekno.wad;C:/QuakeDev/wads/halo.wad;C:/QuakeDev/wads/mak_pinkblack2.wad;C:/QuakeDev/wads/loco.wad;C:/QuakeDev/wads/makkon_tech_sm.wad"
+"floor_area" "2134784"
 }
 {
 "angle" "270"

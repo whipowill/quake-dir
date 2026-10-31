@@ -1,11 +1,12 @@
-// trailgen v25 bsp=288326b05da85775f5812d8619995622a7fd8343d03d1c8cae230c2ba5770ccd step=256 lift=12
-// 102 waypoints, 7 spawns, 0 teleporters, 0 plats, 1 rocket jumps
+// trailgen v27 bsp=288326b05da85775f5812d8619995622a7fd8343d03d1c8cae230c2ba5770ccd step=256 lift=12
+// 102 waypoints, 7 spawns, 0 teleporters, 0 plats, 1 rocket jumps, floor 1523712 square units (about 10581 sq ft)
 {
 "_sunlight" "30"
 "_sunlight_color" "255 170 255"
 "classname" "worldspawn"
 "message" "Zerg Sector - by alice"
 "wad" "C:/QuakeDev/wads/tekno.wad;C:/QuakeDev/wads/nova.wad;C:/QuakeDev/wads/darktxt.wad;C:/QuakeDev/wads/mak_pinkblack1.wad;C:/QuakeDev/wads/mak_pinkblack2.wad;C:/QuakeDev/wads/mak_blacked.wad;C:/QuakeDev/wads/dark_darked1.wad;C:/QuakeDev/wads/dark_darked2.wad;C:/QuakeDev/wads/zerglogo.wad"
+"floor_area" "1523712"
 }
 {
 "angle" "90"

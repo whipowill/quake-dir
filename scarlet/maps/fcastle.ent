@@ -1,9 +1,10 @@
-// trailgen v25 bsp=4ad11d873611e7b5a50e95b55c0b03a443ae39f09abf13c33361389a1ca143e9 step=256 lift=12
-// 64 waypoints, 6 spawns, 1 teleporters, 0 plats, 1 rocket jumps
+// trailgen v27 bsp=4ad11d873611e7b5a50e95b55c0b03a443ae39f09abf13c33361389a1ca143e9 step=256 lift=12
+// 64 waypoints, 6 spawns, 1 teleporters, 0 plats, 1 rocket jumps, floor 818944 square units (about 5687 sq ft)
 {
 "classname" "worldspawn"
 "message" "èforgottenècastleèbyèQurneLè"
 "wad" "TEXTURES.wad;d:\qstuff\qwads\daikatana.wad;d:\qstuff\qwads\agenda.wad;d:\qstuff\qwads\exd"
+"floor_area" "818944"
 }
 {
 "classname" "info_player_start"

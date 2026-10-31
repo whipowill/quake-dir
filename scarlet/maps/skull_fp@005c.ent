@@ -1,5 +1,5 @@
-// trailgen v25 bsp=86f0786d71e12c8de5f7338ba918157cad744b30b58998407f1f91a471d21b11 step=256 lift=12
-// 104 waypoints, 9 spawns, 3 teleporters, 0 plats, 4 rocket jumps, 2 shut doors treated as walls, 4 kill zones avoided
+// trailgen v27 bsp=86f0786d71e12c8de5f7338ba918157cad744b30b58998407f1f91a471d21b11 step=256 lift=12
+// 104 waypoints, 9 spawns, 3 teleporters, 0 plats, 4 rocket jumps, floor 2387456 square units (about 16580 sq ft), 4 kill zones avoided
 {
 "_bounce" "1"
 "_generator" "J.A.C.K. 1.1.1064 (vpQuake)"
@@ -15,6 +15,7 @@
 "sounds" "1"
 "wad" "C:\Program Files\J.A.C.K\BASE.WAD;C:\Program Files\J.A.C.K\quake\id.wad;C:\Program Files\J.A.C.K\quake\idbase_ultimate.wad;C:\Program Files\J.A.C.K\quake\armagon.wad;C:\Program Files\J.A.C.K\quake\IKBASE.WAD;C:\Program Files\J.A.C.K\quake\cr8_set.wad;C:\Program Files\J.A.C.K\quake\ikbaseq3.wad;C:\Program Files\J.A.C.K\quake\ogro.wad;C:\Program Files\J.A.C.K\quake\rmq_blumet.wad;C:\Program Files\J.A.C.K\quake\rmq_brownmet.wad;C:\Program Files\J.A.C.K\quake\rmq_city.wad;C:\Program Files\J.A.C.K\quake\rmq_darkmet.wad;C:\Program Files\J.A.C.K\quake\rmq_redtech.wad;C:\Program Files\J.A.C.K\quake\rmq_rotmet.wad;C:\Program Files\J.A.C.K\quake\rmq_trans.wad;C:\Program Files\J.A.C.K\quake\mg1.wad;C:\Program Files\J.A.C.K\quake\rogue.wad;C:\Program Files\J.A.C.K\quake\SOLIDS3.WAD;C:\Program Files\J.A.C.K\quake\hwjam2_kayne.wad;C:\Program Files\J.A.C.K\quake\q3test.wad;C:\Program Files\J.A.C.K\quake\geodm1.wad"
 "worldtype" "2"
+"floor_area" "2387456"
 }
 {
 "angle" "270"

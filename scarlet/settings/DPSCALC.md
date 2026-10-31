@@ -19,7 +19,7 @@ so the time to kill is `(shots - 1) x rate of fire`.
 | `scarlet_dmg_cells` | 100 |
 | `scarlet_rof_*` | axe 0.6, sg 0.6, ssg 1.2, ng 0.075, sng 0.075, gl 0.6, rl 1.2, tb 1.6, hg 1.2 |
 | `scarlet_spr_*` | sg 4, ssg 12, ng 0, sng 6 |
-| `scarlet_axe_frametime` | 0.09 (four frames, so a swing is 0.36 s and the hit lands on the third frame, 0.18 s after the press) |
+| `scarlet_axe_frametime` | 0.09 (the time of the whole swing now, so the hit lands 0.045 s after the press; 0.36 would match how it played before) |
 | `scarlet_ammo_spd_ng` / `_sng` | 4000, so both nailguns are hitscan, and each nail does half of `dmg_nails` (1.5) |
 | `scarlet_ammo_dec_*` | all 1 (a super shotgun shot uses 2 shells, a super nailgun shot 2 nails) |
 | `scarlet_ammo_max_*` | shells 24, nails 480, rockets 12, cells 6 |
@@ -43,7 +43,7 @@ Average DPS across all nine: **115**.  Without the axe and hand grenade (the gun
 
 Notes:
 - Axe and hand grenade fire from the melee key, on their own timers, and don't use the weapon's ready time.
-- The axe is the same 400 DPS as before (240 every 0.6 s instead of 120 every 0.3 s), but each swing now does 240, so it is one swing against no armor, green or yellow armor, and two against red armor (300 needed).  The hit lands 0.18 s after the press.
+- The axe is the same 400 DPS as before (240 every 0.6 s instead of 120 every 0.3 s), but each swing now does 240, so it is one swing against no armor, green or yellow armor, and two against red armor (300 needed).  The hit lands half way through the swing (0.045 s with a 0.09 s swing).
 - Melee spam is 1 and the lunge is always on, with no cooldown, so a swing can lunge you 480 units a second into range.
 - The rocket and grenade numbers are the peak: a rocket that lands beside someone does `100 - distance / 2` (a direct hit is the full 100 and doesn't also splash that target), and the blast reaches 140 units.  Your own blasts do half to you.
 - Nailguns are tiny per shot but fire 13 times a second.  Being hitscan, there is no travel time to lead, so they only miss from aim.

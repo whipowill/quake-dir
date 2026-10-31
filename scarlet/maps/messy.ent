@@ -1,11 +1,12 @@
-// trailgen v25 bsp=a2be0ba218adf75da689998868ffc849250ee9b10ddcef4574c9fab111ce129d step=256 lift=12
-// 81 waypoints, 7 spawns, 1 teleporters, 1 plats, 1 rocket jumps, 3 shut doors treated as walls
+// trailgen v27 bsp=a2be0ba218adf75da689998868ffc849250ee9b10ddcef4574c9fab111ce129d step=256 lift=12
+// 81 waypoints, 7 spawns, 1 teleporters, 1 plats, 1 rocket jumps, floor 1464832 square units (about 10172 sq ft)
 {
 "sounds" "1"
 "worldtype" "2"
 "message" "The Messy Base"
 "classname" "worldspawn"
 "wad" "tech.wad"
+"floor_area" "1464832"
 }
 {
 "classname" "info_player_start"

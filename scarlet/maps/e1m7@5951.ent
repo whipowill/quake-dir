@@ -1,11 +1,12 @@
-// trailgen v25 bsp=c1f8565fd7b9bb93c23da05c67b98c51d89c71f8b60f9561ca29b28911c1911d step=256 lift=12
-// 85 waypoints, 11 spawns, 11 teleporters, 1 plats, 0 rocket jumps, 1 shut doors treated as walls
+// trailgen v27 bsp=c1f8565fd7b9bb93c23da05c67b98c51d89c71f8b60f9561ca29b28911c1911d step=256 lift=12
+// 85 waypoints, 11 spawns, 11 teleporters, 1 plats, 0 rocket jumps, floor 2025984 square units (about 14069 sq ft)
 {
 "wad" "gfx/metal.wad"
 "classname" "worldspawn"
 "worldtype" "1"
 "sounds" "7"
 "message" "The House of Chthon"
+"floor_area" "2025984"
 }
 {
 "angle" "0"
