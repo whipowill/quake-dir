@@ -19,7 +19,7 @@ I'm playing using [vkQuake](https://github.com/Novum/vkQuake) which seems to giv
 - [UAM](https://www.moddb.com/games/quake/addons/upgraded-armor-for-quake-1) - upgraded armor models (``/id1/pak4.pak``)
 - [Q2S](https://github.com/whipowill/quake-mod-q2sounds) - sounds from Quake2 (``/id1/pak5.pak``)
 - **Multiplayer Maps** - all the good maps to play (``/id1/maps/*.bsp``)
-- **Waypoint Files** - stuff the bots need to work (``/id1/maps/*.way``)
+- **Waypoint Files** - stuff the bots need to work (``/scarlet/maps/*.ent``)
 
 ## Install
 
@@ -38,12 +38,6 @@ I'm playing using [vkQuake](https://github.com/Novum/vkQuake) which seems to giv
 - Launch the game and bring down the console with `` ` `` button
 - Create a multiplayer game with ``map nova``
 - Add bots and play the game!
-
-The ``autoexec.cfg`` file includes binds to control bots in the game:
-
-- ``-`` adds team bots
-- ``=`` adds enemy bots
-- ``BACKSPACE`` removes bots
 
 If you use terminal you can use GIT clone to make future updates super easy:
 
